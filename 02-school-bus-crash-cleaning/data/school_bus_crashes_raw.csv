@@ -1,0 +1,826 @@
+CRASH_ID,CRASH_DATE,CRASH_TIME,COUNTY,INJURY_TYPE,WEATHER,ROAD_SURFACE,LIGHTING,NUM_VEHICLES,SPEED_LIMIT,REPORT_NUMBER,OFFICER_ID,VEHICLE_COLOR
+BUS00612,3/13/2021,23:50,Harford,Possible Injury,Clear,Ice,,2,40,RPT612356,OFF4792,White
+BUS00175,5/15/2021,16:19,Harford,No Injury,Clear,Dry,Daylight,2,35,RPT403528,OFF7985,Red
+BUS00068,9/30/2022,6:59,Harford,No Injury,Clear,Wet,Daylight,2,50,RPT412999,OFF6484,Green
+BUS00169,2/18/2020,8:02,Carroll,No Injury,Clear,Dry,Daylight,3,25,RPT976822,OFF3692,Red
+BUS00276,6/25/2023,17:48,Montgomery,No Injury,Rain,Snow,Daylight,3,30,RPT491774,OFF9951,Black
+BUS00337,12/19/2019,15:33,Prince George's,Evident Injury,Clear,Dry,,2,35,RPT423139,OFF8511,Green
+BUS00136,10/1/2022,8:02,Washington,No Injury,Clear,Ice,Dark-Street Lights Off,2,65,RPT812711,OFF6198,Blue
+BUS00087,8/10/2018,21:41,Baltimore,Evident Injury,clear,Ice,Daylight,2,30,RPT701334,OFF2865,Green
+BUS00542,4/7/2022,17:45,Carroll,No Injury,clear,Other,Daylight,2,65,RPT116078,OFF1042,Blue
+BUS00717,7/23/2019,7:50,Baltimore,Possible Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights On,3,25,RPT495490,OFF1567,Red
+BUS00437,1/5/2019,12:00,Harford,No Injury,Rain,Ice,,2,35,RPT891030,OFF5942,White
+BUS00266,10/2/2020,2:17,Anne Arundel,Possible Injury,Clear,Dry,Dark-Street Lights On,2,35,RPT485397,OFF9115,Black
+BUS00413,4/25/2022,15:06,Howard,No Injury,Clear,Ice,Daylight,2,30,RPT792267,OFF1138,White
+BUS00031,6/18/2020,21:20,Charles,Evident Injury,Clear,Snow,Dark-Street Lights On,2,30,RPT741181,OFF7779,White
+BUS00381,6/2/2019,16:37,Montgomery,No Injury,Clear,dry,Dark-Street Lights Off,2,30,RPT287143,OFF2494,Red
+BUS00670,4/24/2023,8:02,Washington,Possible Injury,Rain,Ice,Dark-Street Lights On,2,35,RPT857273,OFF5262,Black
+BUS00040,10/21/2022,18:25,Anne Arundel,EVIDENT INJURY,Clear,Dry,DARK-STREET LIGHTS ON,4,40,RPT317413,OFF5405,Green
+BUS00214,7/21/2019,4:14,Anne Arundel,Fatal Injury,Clear,Wet,Daylight,2,40,RPT284019,OFF3194,Yellow
+BUS00788,9/3/2019,19:57,Baltimore,EVIDENT INJURY,Clear,Snow,Dark-Street Lights On,2,25,RPT558320,OFF6435,Black
+BUS00363,5/31/2023,15:15,Frederick,Possible Injury,Other,,DARK-STREET LIGHTS ON,2,30,RPT903028,OFF1011,White
+BUS00787,4/25/2023,16:29,Carroll,No Injury,Clear,Snow,daylight,2,35,RPT202430,OFF1011,Blue
+BUS00286,10/26/2020,7:07,Harford,Evident Injury,Snow,Wet,Dark-Street Lights On,2,30,RPT329021,OFF2425,Red
+BUS00710,12/26/2018,21:54,Anne Arundel,Possible Injury,Rain,Dry,Dark-Street Lights Off,2,30,RPT999908,OFF6799,Blue
+BUS00553,3/10/2019,7:27,Harford,No Injury,Clear,Dry,Dark-Street Lights On,2,65,RPT837954,OFF7870,White
+BUS00421,12/14/2021,7:40,Anne Arundel,No Injury,Clear,Wet,Dark-Street Lights Off,4,30,RPT205797,OFF4559,White
+BUS00738,1/18/2019,16:41,Harford,Possible Injury,Cloudy,Wet,Dark-Street Lights Off,3,40,RPT321686,OFF8940,White
+BUS00433,10/19/2021,3:29,Washington,Evident Injury,Clear,Wet,Daylight,2,40,RPT560285,OFF2380,Green
+BUS00255,6/18/2018,11:34,Anne Arundel,No Injury,Rain,Dry,Dark-Street Lights On,1,35,RPT267475,OFF2354,White
+BUS00641,12/2/2023,13:07,Montgomery,No Injury,Clear,Dry,Dark-Street Lights On,2,30,RPT532424,OFF2731,Green
+BUS00156,6/8/2018,15:14,Howard,No Injury,Fog/Smog/Smoke,Dry,Daylight,2,45,RPT783984,OFF6706,Black
+BUS00334,4/16/2018,2:14,Carroll,Possible Injury,Snow,Wet,,1,40,RPT584838,OFF6362,Green
+BUS00328,3/28/2021,14:07,Harford,possible injury,Rain,Dry,Daylight,1,40,RPT638179,OFF7600,Yellow
+BUS00447,7/5/2018,1:19,Baltimore,Evident Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights Off,1,65,RPT434394,OFF7322,Green
+BUS00138,6/20/2019,,Howard,No Injury,Clear,Dry,Dark-No Street Lights,1,25,RPT244144,OFF9199,Blue
+BUS00251,3/23/2020,2:37,Harford,Evident Injury,Blowing Snow,Wet,Daylight,2,40,RPT800224,OFF7809,Red
+BUS00535,6/17/2021,1:14,Carroll,Evident Injury,Clear,Dry,Daylight,3,30,RPT804066,OFF7024,Black
+BUS00066,5/1/2023,,Washington,Possible Injury,Clear,Dry,Daylight,2,45,RPT392559,OFF6399,Green
+BUS00064,10/11/2018,17:49,Washington,Possible Injury,Clear,Dry,Dark-No Street Lights,2,35,RPT301603,OFF6443,Green
+BUS00672,7/15/2018,20:21,Montgomery,Possible Injury,Clear,Dry,Daylight,1,25,RPT661762,OFF1509,Blue
+BUS00140,10/18/2022,17:00,Anne Arundel,Possible Injury,Clear,Dry,Dark-No Street Lights,2,30,RPT677086,OFF6651,Red
+BUS00024,2/3/2022,5:23,Frederick,No Injury,Rain,dry,Dark-Street Lights On,2,55,RPT258787,OFF2468,Red
+BUS00110,10/6/2018,21:55,Baltimore,No Injury,Clear,Dry,Dusk,3,40,RPT968170,OFF9755,Red
+BUS00213,8/2/2021,17:05,Carroll,No Injury,Clear,Dry,DARK-STREET LIGHTS ON,1,45,RPT302544,OFF2388,Black
+BUS00792,9/9/2023,16:34,Frederick,No Injury,Cloudy,Wet,Dark-No Street Lights,2,25,RPT457137,OFF3907,Red
+BUS00320,3/4/2021,22:55,Prince George's,No Injury,Rain,Dry,Daylight,2,25,RPT612573,OFF9019,Black
+BUS00495,1/25/2019,10:27,Howard,EVIDENT INJURY,Rain,Wet,Dark-No Street Lights,1,50,RPT999197,OFF4909,Red
+BUS00722,6/19/2022,22:46,Harford,Fatal Injury,Fog/Smog/Smoke,Wet,Daylight,2,25,RPT109909,OFF8848,Red
+BUS00463,3/29/2018,1:50,Washington,Possible Injury,Cloudy,Dry,Daylight,2,30,RPT163918,OFF2195,Black
+BUS00067,12/21/2020,16:55,Anne Arundel,No Injury,Rain,Snow,Other,3,50,RPT685196,OFF8212,Black
+BUS00743,12/20/2020,20:13,Charles,Evident Injury,Clear,Wet,Daylight,2,30,RPT148823,OFF5430,White
+BUS00658,3/8/2018,11:50,Frederick,No Injury,Snow,dry,Dark-Street Lights On,3,35,RPT746467,OFF5984,White
+BUS00674,2/16/2022,13:56,Charles,Fatal Injury,,Snow,Dark-No Street Lights,2,25,RPT117975,OFF8408,Yellow
+BUS00335,3/26/2018,21:52,Washington,No Injury,,Dry,Daylight,3,40,RPT805448,OFF1040,Blue
+BUS00496,7/4/2021,21:16,Montgomery,No Injury,Clear,,Daylight,2,40,RPT841948,OFF1948,Green
+BUS00498,4/27/2023,2:05,Carroll,Possible Injury,Snow,Wet,Daylight,3,30,RPT944917,OFF2412,Black
+BUS00581,8/29/2023,20:11,Charles,No Injury,Cloudy,Snow,Daylight,4,30,RPT428122,OFF5979,Black
+BUS00696,5/13/2018,19:09,Carroll,No Injury,Clear,,Dusk,1,30,RPT182857,OFF2506,Red
+BUS00209,11/6/2023,15:40,Washington,No Injury,Clear,Wet,,1,35,RPT409355,OFF6766,Black
+BUS00310,10/23/2022,9:36,Montgomery,Possible Injury,Rain,Wet,Dawn,3,35,RPT272529,OFF7743,Red
+BUS00686,12/24/2022,11:28,Prince George's,Evident Injury,Clear,Dry,Daylight,2,35,RPT352674,OFF7563,Blue
+BUS00609,11/10/2019,23:28,Frederick,No Injury,Clear,Dry,DARK-STREET LIGHTS ON,2,30,RPT847748,OFF1029,Yellow
+BUS00549,9/7/2022,9:07,Howard,Evident Injury,Clear,Dry,Dusk,3,40,RPT602184,OFF7274,Black
+BUS00383,12/9/2022,3:33,Baltimore,No Injury,Clear,Dry,Daylight,2,40,RPT512151,OFF1017,Black
+BUS00507,12/11/2021,3:36,Baltimore,No Injury,,Other,Dark-No Street Lights,2,40,RPT507286,OFF3248,Red
+BUS00712,9/23/2018,17:34,Frederick,No Injury,Clear,Dry,Daylight,2,55,RPT896483,OFF4066,White
+BUS00210,9/6/2020,8:28,Baltimore,No Injury,Clear,Dry,DARK-STREET LIGHTS ON,2,40,RPT695361,OFF8501,White
+BUS00780,5/2/2019,4:06,Washington,No Injury,Clear,Dry,Dark-No Street Lights,3,25,RPT822794,OFF2478,White
+BUS00079,10/7/2023,7:17,Montgomery,EVIDENT INJURY,Clear,Ice,Daylight,2,25,RPT603110,OFF5775,Black
+BUS00480,11/6/2023,9:29,Charles,No Injury,Clear,Ice,Daylight,4,25,RPT434217,OFF9808,Green
+BUS00050,4/2/2019,9:27,Harford,,Rain,Dry,DARK-STREET LIGHTS ON,2,30,RPT659024,OFF5911,Red
+BUS00097,6/13/2023,15:13,Charles,Fatal Injury,Cloudy,Dry,Other,1,25,RPT404561,OFF7703,Black
+BUS00745,5/5/2018,,Baltimore,Possible Injury,CLEAR,Wet,Daylight,2,35,RPT817675,OFF1427,White
+BUS00232,10/22/2022,4:55,Montgomery,Possible Injury,Snow,Wet,Dark-Street Lights Off,4,55,RPT107161,OFF3838,Yellow
+BUS00197,9/26/2020,4:41,Howard,Evident Injury,,Snow,Dark-Street Lights On,2,30,RPT446747,OFF6340,White
+BUS00205,8/30/2023,13:53,Baltimore,Evident Injury,Cloudy,Ice,Daylight,2,25,RPT114768,OFF7367,Black
+BUS00555,6/10/2022,9:47,Frederick,EVIDENT INJURY,Rain,Dry,Daylight,2,30,RPT358421,OFF3911,Black
+BUS00034,1/1/2021,2:13,Baltimore,Possible Injury,clear,,Daylight,2,30,RPT871581,OFF4977,Red
+BUS00032,8/18/2018,7:52,Baltimore,,Snow,Slush,Dark-Street Lights On,1,25,RPT594514,OFF7353,Green
+BUS00538,5/15/2020,4:48,Washington,No Injury,Clear,Dry,Dark-Street Lights On,2,35,RPT602681,OFF2685,Green
+BUS00282,2/20/2022,15:35,Frederick,Fatal Injury,Clear,Wet,Daylight,4,35,RPT663628,OFF1528,Red
+BUS00339,11/21/2022,20:52,Harford,No Injury,clear,Snow,Dark-Street Lights Off,2,25,RPT122827,OFF2037,Green
+BUS00502,9/3/2018,18:35,Montgomery,Possible Injury,Other,Wet,Dark-No Street Lights,2,40,RPT532723,OFF1901,Green
+BUS00216,5/26/2020,2:26,Montgomery,No Injury,Rain,Dry,Dark-Street Lights On,2,35,RPT997734,OFF2931,Blue
+BUS00443,9/5/2021,19:14,Montgomery,,Clear,Unknown,Daylight,2,25,RPT345536,OFF5842,Black
+BUS00678,2/13/2022,16:17,Montgomery,Evident Injury,,Wet,Dawn,2,35,RPT806774,OFF2669,Red
+BUS00073,10/12/2020,7:04,Prince George's,Evident Injury,Cloudy,Dry,Dark-Street Lights On,2,55,RPT839142,OFF4290,White
+BUS00078,5/9/2018,10:04,Charles,possible injury,Snow,Snow,Daylight,3,30,RPT432441,OFF6228,Green
+BUS00550,7/18/2022,0:20,Howard,Possible Injury,Clear,WET,Dark-No Street Lights,3,30,RPT354377,OFF3458,Green
+BUS00526,12/14/2018,1:09,Charles,,Rain,Snow,Dark-Street Lights On,2,30,RPT734356,OFF5308,Yellow
+BUS00594,5/25/2022,4:38,Baltimore,Possible Injury,,Other,Daylight,2,30,RPT386604,OFF7120,Yellow
+BUS00293,5/23/2021,0:45,Anne Arundel,Evident Injury,Snow,Dry,Daylight,1,45,RPT185847,OFF3719,Black
+BUS00451,9/13/2022,18:47,Howard,,Cloudy,Dry,Dark-Street Lights On,2,35,RPT805200,OFF2163,Yellow
+BUS00356,9/7/2020,,Frederick,possible injury,Snow,Dry,Daylight,3,25,RPT595002,OFF2631,Red
+BUS00610,6/28/2018,13:23,Harford,Fatal Injury,Cloudy,Ice,Daylight,2,35,RPT900441,OFF2524,Blue
+BUS00353,7/31/2018,6:17,Baltimore,No Injury,Clear,Dry,Dark-Street Lights Off,1,35,RPT667451,OFF6631,Yellow
+BUS00537,2/1/2018,6:19,Charles,No Injury,Clear,Ice,Daylight,2,35,RPT327558,OFF5179,Blue
+BUS00726,10/31/2018,14:29,Anne Arundel,No Injury,Clear,Wet,Dark-Street Lights Off,1,25,RPT624139,OFF7275,Blue
+BUS00617,2/28/2021,12:32,Washington,No Injury,Rain,Dry,Daylight,2,25,RPT583214,OFF2391,Red
+BUS00395,2/16/2019,14:10,Washington,Possible Injury,Clear,Dry,Dark-Street Lights On,3,40,RPT854024,OFF7919,Red
+BUS00446,7/31/2022,3:08,Prince George's,EVIDENT INJURY,Sleet/Hail,dry,Dark-Street Lights On,1,30,RPT704095,OFF9108,Yellow
+BUS00626,11/27/2022,2:58,Howard,No Injury,Clear,Dry,Other,1,35,RPT612036,OFF4879,Yellow
+BUS00200,10/23/2023,14:03,Frederick,No Injury,Clear,Wet,Dark-Street Lights Off,2,30,RPT581206,OFF2867,Red
+BUS00006,6/14/2020,7:32,Washington,Fatal Injury,Snow,Dry,Daylight,2,40,RPT856215,OFF6909,Blue
+BUS00055,9/11/2023,19:12,Harford,Evident Injury,Snow,Dry,Daylight,3,25,RPT909489,OFF5040,Yellow
+BUS00775,7/5/2018,12:03,Montgomery,No Injury,Rain,Dry,Dark-Street Lights Off,2,25,RPT502491,OFF9882,Black
+BUS00611,8/30/2020,14:39,Howard,No Injury,Clear,Sand/Mud/Dirt,Dark-Street Lights Off,2,45,RPT961501,OFF1719,Black
+BUS00267,1/21/2023,7:48,Montgomery,No Injury,Clear,Wet,Dark-Street Lights Off,3,40,RPT744481,OFF9369,White
+BUS00559,3/5/2020,11:22,Charles,Possible Injury,Clear,Ice,Daylight,3,30,RPT913185,OFF5444,Yellow
+BUS00098,7/1/2022,1:10,Carroll,Possible Injury,Sleet/Hail,Wet,Daylight,2,0,RPT144109,OFF9180,Red
+BUS00193,5/1/2023,19:54,Harford,Possible Injury,Rain,Wet,Daylight,2,25,RPT386090,OFF2667,Blue
+BUS00077,8/30/2018,7:04,Charles,No Injury,Blowing Snow,Dry,Daylight,3,45,RPT612756,OFF7524,Green
+BUS00121,2/14/2019,2:34,Washington,Possible Injury,Clear,Wet,Daylight,3,35,RPT350905,OFF3725,Green
+BUS00362,1/24/2021,13:53,Washington,Evident Injury,,Dry,Dusk,2,35,RPT242007,OFF8479,Blue
+BUS00790,7/28/2021,5:25,Prince George's,No Injury,Rain,Snow,Daylight,2,30,RPT979414,OFF3137,Green
+BUS00219,4/27/2020,13:24,Prince George's,No Injury,Blowing Snow,Snow,,2,45,RPT967161,OFF2916,White
+BUS00382,9/21/2021,3:55,Harford,No Injury,Clear,Dry,Daylight,4,30,RPT663356,OFF2559,Blue
+BUS00440,12/9/2020,18:24,Harford,No Injury,Clear,Dry,Dark-Street Lights On,1,45,RPT246942,OFF9348,Green
+BUS00720,6/16/2019,19:56,Anne Arundel,No Injury,Clear,Dry,Daylight,2,25,RPT189856,OFF3872,White
+BUS00085,11/1/2022,11:27,Harford,Evident Injury,Rain,WET,Dark-Street Lights On,4,120,RPT401769,OFF7437,Blue
+BUS00011,10/25/2021,8:09,Anne Arundel,Evident Injury,Cloudy,Dry,,2,55,RPT254954,OFF8286,Black
+BUS00663,12/19/2019,21:29,Baltimore,No Injury,Rain,Dry,Dark-Street Lights On,2,35,RPT106933,OFF2494,Green
+BUS00111,8/21/2020,12:07,Montgomery,No Injury,Snow,Dry,Dark-Street Lights On,4,40,RPT664739,OFF9300,Blue
+BUS00639,11/21/2018,0:16,Carroll,Fatal Injury,Rain,Dry,Daylight,2,25,RPT901467,OFF2785,Red
+BUS00514,4/18/2018,19:59,Anne Arundel,Possible Injury,Fog/Smog/Smoke,Dry,Daylight,2,30,RPT571635,OFF5247,Green
+BUS00366,9/13/2023,23:56,Montgomery,Possible Injury,Sleet/Hail,Wet,Daylight,2,30,RPT777255,OFF3161,Blue
+BUS00406,11/6/2020,14:16,Carroll,No Injury,Snow,Dry,Daylight,3,35,RPT389039,OFF5902,Black
+BUS00329,4/4/2023,22:19,Montgomery,,Cloudy,Dry,Daylight,1,45,RPT535604,OFF9447,Blue
+BUS00597,9/7/2021,4:42,Prince George's,Possible Injury,Snow,Wet,DARK-STREET LIGHTS ON,3,45,RPT305721,OFF6488,White
+BUS00119,5/13/2021,14:20,Carroll,EVIDENT INJURY,Fog/Smog/Smoke,Ice,Dark-No Street Lights,2,45,RPT876880,OFF5067,Green
+BUS00586,3/4/2021,12:26,Frederick,Evident Injury,Rain,Snow,Dark-Street Lights On,2,35,RPT877259,OFF4201,Blue
+BUS00301,10/31/2020,,Howard,No Injury,Clear,Ice,Dark-Street Lights On,3,45,RPT217659,OFF9827,Yellow
+BUS00030,4/4/2022,8:59,Anne Arundel,No Injury,Clear,Dry,,2,25,RPT912617,OFF5781,Green
+BUS00368,8/27/2022,10:59,Howard,Evident Injury,Clear,Sand/Mud/Dirt,Dark-Street Lights On,2,30,RPT492650,OFF3604,Yellow
+BUS00351,2/8/2020,16:23,Carroll,EVIDENT INJURY,Other,Dry,Daylight,2,30,RPT834406,OFF3139,Blue
+BUS00287,2/28/2020,10:07,Prince George's,Possible Injury,Clear,Snow,Dark-Street Lights Off,2,50,RPT898867,OFF8193,Yellow
+BUS00412,2/15/2023,9:12,Charles,possible injury,,Dry,Dawn,1,45,RPT948799,OFF9691,Blue
+BUS00082,4/21/2023,7:50,Charles,possible injury,Clear,Wet,Daylight,2,35,RPT934042,OFF6339,White
+BUS00776,3/8/2020,11:35,Baltimore,Possible Injury,Rain,Ice,Dusk,2,40,RPT892313,OFF6063,White
+BUS00278,7/4/2023,14:50,Baltimore,Evident Injury,Clear,Dry,,3,25,RPT186023,OFF1530,Red
+BUS00723,5/15/2023,16:26,Montgomery,Evident Injury,Sleet/Hail,Dry,Dark-Street Lights Off,2,30,RPT836986,OFF1999,Blue
+BUS00606,10/11/2021,19:08,Charles,No Injury,Sleet/Hail,Other,Dark-No Street Lights,1,40,RPT786406,OFF9061,Black
+BUS00707,7/5/2023,6:07,Prince George's,Evident Injury,Clear,Dry,Dark-Street Lights Off,3,35,RPT989053,OFF7270,Blue
+BUS00327,6/13/2021,19:47,Montgomery,Possible Injury,,Dry,Dark-No Street Lights,2,30,RPT238353,OFF2525,White
+BUS00275,9/15/2020,23:26,Baltimore,Evident Injury,Fog/Smog/Smoke,Snow,Dawn,3,35,RPT493663,OFF3580,Blue
+BUS00424,6/11/2018,9:50,Carroll,Possible Injury,Clear,Dry,Daylight,2,45,RPT568127,OFF3293,Blue
+BUS00448,7/11/2023,3:06,Montgomery,No Injury,Cloudy,Snow,Daylight,2,35,RPT705526,OFF2847,Green
+BUS00361,4/10/2021,16:45,Anne Arundel,possible injury,Clear,Dry,Dark-No Street Lights,2,35,RPT906325,OFF8230,White
+BUS00760,4/23/2022,19:26,Washington,No Injury,Sleet/Hail,Wet,Dark-Street Lights On,3,25,RPT847332,OFF9743,Yellow
+BUS00397,8/21/2021,1:18,Prince George's,No Injury,Clear,Dry,Dawn,3,35,RPT544730,OFF8826,Blue
+BUS00008,9/15/2022,7:28,Carroll,Possible Injury,Clear,Dry,Daylight,3,40,RPT912233,OFF2499,Yellow
+BUS00317,1/20/2023,22:38,Baltimore,No Injury,Clear,Wet,Daylight,3,35,RPT315379,OFF6277,Blue
+BUS00102,6/17/2023,4:12,Montgomery,No Injury,Clear,,Dark-No Street Lights,2,50,RPT463188,OFF5139,Green
+BUS00086,8/11/2022,14:55,Harford,Evident Injury,Snow,Snow,Dark-Street Lights On,2,35,RPT473095,OFF6285,Black
+BUS00315,N/A,17:04,Frederick,Evident Injury,Clear,,Dark-Street Lights On,1,35,RPT221886,OFF5090,Yellow
+BUS00793,6/30/2023,22:36,Baltimore,Possible Injury,Cloudy,Other,Dark-No Street Lights,1,35,RPT734565,OFF6301,Red
+BUS00585,1/30/2022,11:58,Howard,possible injury,Rain,Wet,Dark-Street Lights Off,2,50,RPT332022,OFF9083,Blue
+BUS00003,7/26/2019,23:06,Harford,Possible Injury,Clear,Snow,Dark-Street Lights On,2,65,RPT278794,OFF3527,Black
+BUS00713,4/4/2021,9:54,Montgomery,No Injury,Clear,Snow,,2,30,RPT133223,OFF5505,Green
+BUS00761,10/13/2020,,Prince George's,No Injury,Rain,Dry,Daylight,3,35,RPT960778,OFF1916,Red
+BUS00582,6/10/2018,7:45,Harford,Evident Injury,Clear,Dry,Dark-Street Lights On,2,40,RPT534037,OFF4974,Red
+BUS00291,2/16/2019,6:18,Howard,No Injury,Snow,Dry,Daylight,3,30,RPT724756,OFF6744,Black
+BUS00212,8/18/2020,8:21,Anne Arundel,Evident Injury,Clear,Wet,Daylight,1,35,RPT894068,OFF5873,Green
+BUS00482,7/4/2022,13:43,Washington,No Injury,Clear,Dry,DARK-STREET LIGHTS ON,3,25,RPT536548,OFF5546,Yellow
+BUS00769,12/16/2021,1:03,Harford,Possible Injury,Cloudy,Dry,Daylight,1,30,RPT975194,OFF6878,Yellow
+BUS00528,12/1/2018,8:28,Howard,No Injury,Clear,dry,,1,30,RPT141468,OFF9128,Black
+BUS00240,10/9/2018,20:02,Baltimore,No Injury,Blowing Snow,Dry,Dark-Street Lights On,4,30,RPT416613,OFF1878,Black
+BUS00690,8/23/2018,2:42,Prince George's,No Injury,Clear,Dry,Daylight,2,25,RPT364679,OFF2228,Red
+BUS00645,2/16/2023,2:07,Montgomery,Possible Injury,Sleet/Hail,Ice,Dawn,3,30,RPT342675,OFF6145,Yellow
+BUS00343,10/21/2019,10:26,Anne Arundel,No Injury,Rain,Dry,Daylight,2,25,RPT103161,OFF8039,Yellow
+BUS00300,10/27/2021,5:03,Charles,No Injury,,Snow,Dawn,1,40,RPT691573,OFF5605,Yellow
+BUS00384,2/15/2023,0:46,Washington,Evident Injury,Blowing Snow,dry,Dark-Street Lights On,1,30,RPT654531,OFF4496,Blue
+BUS00080,6/12/2023,6:34,Charles,No Injury,Clear,Wet,Daylight,1,30,RPT465746,OFF9044,Green
+BUS00149,7/23/2022,19:47,Anne Arundel,Possible Injury,Snow,Wet,Dark-No Street Lights,2,35,RPT401198,OFF6707,Red
+BUS00364,2/14/2023,17:09,Frederick,Evident Injury,Unknown,Dry,Dark-No Street Lights,2,50,RPT772687,OFF8009,Red
+BUS00228,3/30/2023,4:39,Carroll,No Injury,Rain,Wet,Daylight,4,40,RPT247442,OFF7931,Blue
+BUS00676,5/3/2022,10:11,Baltimore,No Injury,Sleet/Hail,Dry,Daylight,2,50,RPT952657,OFF2551,Green
+BUS00333,8/13/2021,19:16,Washington,No Injury,Clear,Ice,Dark-No Street Lights,1,40,RPT685941,OFF8996,Blue
+BUS00199,10/8/2022,7:11,Prince George's,No Injury,Fog/Smog/Smoke,Dry,,2,30,RPT866634,OFF8496,Blue
+BUS00762,9/3/2021,,Montgomery,Possible Injury,Clear,Dry,Daylight,3,35,RPT517643,OFF4594,Blue
+BUS00465,4/20/2020,2:53,Washington,No Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights On,2,50,RPT720407,OFF2106,Black
+BUS00134,12/17/2020,16:31,Frederick,Possible Injury,Rain,Dry,Dark-No Street Lights,3,50,RPT595351,OFF8303,Black
+BUS00396,5/11/2021,0:02,Montgomery,No Injury,Clear,Dry,Dark-Street Lights On,4,50,RPT670892,OFF3165,Blue
+BUS00347,10/30/2020,10:07,Baltimore,Fatal Injury,Cloudy,Wet,Dark-Street Lights On,1,35,RPT176577,OFF6289,Red
+BUS00501,3/7/2022,4:35,Charles,,Fog/Smog/Smoke,Snow,Dusk,2,25,RPT689704,OFF8428,White
+BUS00056,9/19/2019,11:48,Anne Arundel,No Injury,Fog/Smog/Smoke,Ice,Dark-Street Lights On,2,25,RPT855944,OFF9123,Blue
+BUS00634,10/5/2021,4:08,Prince George's,Evident Injury,Clear,Ice,Daylight,2,30,RPT987826,OFF5455,Black
+BUS00624,12/10/2018,5:17,Charles,Fatal Injury,Sleet/Hail,Wet,Dawn,3,30,RPT855303,OFF8126,Yellow
+BUS00531,6/1/2020,16:07,Carroll,Possible Injury,Rain,Unknown,Daylight,2,45,RPT943737,OFF6900,White
+BUS00571,10/31/2018,9:29,Prince George's,Evident Injury,Rain,Dry,Dark-No Street Lights,2,40,RPT588640,OFF8620,Red
+BUS00389,9/7/2021,21:54,Howard,Possible Injury,Rain,dry,Daylight,2,45,RPT103642,OFF9510,Black
+BUS00785,6/14/2018,1:02,Harford,Possible Injury,Clear,Dry,Dawn,2,40,RPT462659,OFF9625,White
+BUS00307,9/1/2022,19:38,Anne Arundel,No Injury,Rain,Wet,Dark-Street Lights On,2,35,RPT700521,OFF9428,Black
+BUS00478,3/23/2019,14:32,Charles,No Injury,,Wet,Daylight,2,30,RPT923975,OFF2350,Green
+BUS00061,6/13/2021,7:03,Anne Arundel,No Injury,CLEAR,Dry,Daylight,3,35,RPT377203,OFF5991,Black
+BUS00715,12/15/2019,11:32,Carroll,Possible Injury,Clear,Dry,Dark-Street Lights Off,3,25,RPT524965,OFF8307,Yellow
+BUS00545,6/23/2018,13:01,Charles,No Injury,Clear,Wet,Dark-Street Lights Off,2,35,RPT877493,OFF5006,Blue
+BUS00603,7/18/2019,4:04,Frederick,Possible Injury,Clear,Dry,Dark-No Street Lights,2,35,RPT357666,OFF9680,Red
+BUS00248,3/19/2019,18:01,Harford,Evident Injury,Cloudy,Dry,,2,25,RPT826420,OFF9109,Green
+BUS00457,1/25/2022,3:43,Prince George's,possible injury,Snow,Dry,Dark-Street Lights Off,3,25,RPT792282,OFF7337,Black
+BUS00548,7/15/2022,22:40,Prince George's,No Injury,Sleet/Hail,Dry,Dusk,3,35,RPT890973,OFF6963,Green
+BUS00619,3/28/2020,19:08,Howard,No Injury,Clear,,Daylight,2,50,RPT868367,OFF9280,Red
+BUS00261,2/27/2023,22:09,Prince George's,No Injury,Rain,Wet,DARK-STREET LIGHTS ON,2,30,RPT426084,OFF4683,Black
+BUS00211,11/14/2018,22:18,Baltimore,No Injury,Clear,Ice,Dark-Street Lights Off,2,35,RPT807160,OFF3826,White
+BUS00680,11/20/2018,13:38,Harford,Possible Injury,Fog/Smog/Smoke,Snow,Other,1,55,RPT339220,OFF5944,Blue
+BUS00744,9/3/2022,19:40,Baltimore,No Injury,Fog/Smog/Smoke,Wet,Dark-No Street Lights,2,30,RPT177959,OFF3946,White
+BUS00091,1/12/2023,4:27,Baltimore,No Injury,Snow,Dry,Daylight,1,50,RPT513697,OFF1440,Red
+BUS00500,1/31/2019,23:47,Baltimore,Possible Injury,Snow,,Daylight,3,30,RPT160423,OFF2900,White
+BUS00182,1/2/2018,9:18,Howard,No Injury,Clear,Dry,Daylight,3,55,RPT451317,OFF7481,Green
+BUS00423,7/15/2019,20:06,Howard,No Injury,,Snow,Daylight,2,40,RPT135207,OFF2646,Blue
+BUS00378,7/27/2021,23:30,Prince George's,No Injury,Unknown,Ice,Daylight,2,40,RPT785280,OFF6005,White
+BUS00543,7/31/2020,16:35,Harford,Evident Injury,Snow,Wet,Dark-No Street Lights,4,30,RPT322096,OFF1721,Black
+BUS00159,4/7/2018,21:12,Washington,,Rain,Dry,Daylight,2,30,RPT661147,OFF8178,White
+BUS00070,6/23/2022,21:41,Charles,No Injury,Fog/Smog/Smoke,Wet,Dark-Street Lights On,2,25,RPT412071,OFF3230,Red
+BUS00295,7/6/2018,,Montgomery,Possible Injury,Clear,Wet,Daylight,1,50,RPT568449,OFF4385,Red
+BUS00132,5/12/2020,22:21,Carroll,,Cloudy,Ice,Daylight,2,25,RPT446337,OFF9499,Yellow
+BUS00045,9/18/2018,12:24,Washington,Possible Injury,Rain,Dry,Daylight,2,35,RPT651002,OFF2036,Blue
+BUS00071,3/10/2022,14:57,Harford,Fatal Injury,Snow,Dry,Dark-Street Lights Off,3,30,RPT908634,OFF5922,Yellow
+BUS00245,3/20/2023,22:16,Frederick,,Clear,Dry,Daylight,2,35,RPT374258,OFF4196,Yellow
+BUS00369,9/11/2023,8:52,Howard,Possible Injury,Rain,Wet,Daylight,3,45,RPT501058,OFF5489,Red
+BUS00324,7/9/2020,20:09,Washington,No Injury,Cloudy,Wet,Dark-Street Lights Off,4,30,RPT947975,OFF7146,White
+BUS00260,11/11/2022,11:40,Prince George's,Evident Injury,Clear,Wet,Daylight,3,30,RPT907236,OFF5503,Black
+BUS00136,10/1/2022,8:02,Washington,No Injury,Clear,Ice,Dark-Street Lights Off,2,65,RPT814281,OFF7408,Black
+BUS00083,4/22/2023,13:12,Harford,Possible Injury,Clear,Dry,Daylight,2,50,RPT856719,OFF7161,Yellow
+BUS00166,11/15/2022,11:46,Montgomery,Evident Injury,Snow,Ice,Daylight,2,30,RPT978292,OFF1370,Red
+BUS00165,12/23/2020,1:06,Montgomery,No Injury,Cloudy,Wet,Daylight,2,25,RPT538184,OFF2885,Blue
+BUS00029,9/29/2020,5:29,Carroll,Evident Injury,,Dry,Daylight,2,55,RPT626195,OFF1202,Yellow
+BUS00766,N/A,15:01,Charles,Possible Injury,,Wet,Daylight,1,30,RPT691353,OFF3885,Red
+BUS00194,10/26/2018,14:26,Montgomery,,Clear,Dry,Daylight,2,35,RPT302177,OFF9796,Green
+BUS00697,1/17/2023,11:23,Howard,No Injury,Unknown,Dry,Dark-Street Lights On,3,30,RPT491172,OFF6432,White
+BUS00536,6/7/2022,19:03,Prince George's,No Injury,Cloudy,Wet,Dark-Street Lights On,2,25,RPT685997,OFF3577,Red
+BUS00660,3/1/2019,18:47,Howard,Possible Injury,Cloudy,Wet,Dark-Street Lights On,2,35,RPT791309,OFF4522,Yellow
+BUS00137,1/15/2018,10:49,Charles,Evident Injury,Clear,Wet,Dark-Street Lights Off,2,55,RPT908206,OFF8586,Blue
+BUS00679,12/5/2018,23:27,Montgomery,Possible Injury,Clear,Sand/Mud/Dirt,Daylight,2,30,RPT551488,OFF3290,Red
+BUS00661,9/23/2021,4:02,Howard,Possible Injury,Rain,Wet,Daylight,2,25,RPT611552,OFF6370,Black
+BUS00141,4/4/2019,2:56,Washington,Possible Injury,Snow,Wet,Daylight,2,35,RPT265613,OFF1402,Green
+BUS00592,9/8/2019,10:05,Anne Arundel,No Injury,Clear,Sand/Mud/Dirt,Dark-Street Lights On,2,30,RPT707275,OFF1391,Yellow
+BUS00007,4/19/2018,17:12,Baltimore,No Injury,Unknown,Dry,Dark-Street Lights On,3,40,RPT749840,OFF2745,Yellow
+BUS00540,5/7/2019,0:31,Montgomery,Evident Injury,Rain,Wet,Dark-Street Lights Off,1,40,RPT449138,OFF4742,White
+BUS00570,8/19/2018,11:32,Baltimore,No Injury,Clear,Dry,Daylight,2,35,RPT621433,OFF2129,Yellow
+BUS00236,10/14/2021,12:17,Howard,Evident Injury,Clear,Snow,Daylight,2,35,RPT568436,OFF3298,Yellow
+BUS00665,7/7/2019,2:45,Carroll,possible injury,Rain,Snow,Dark-Street Lights On,2,65,RPT678440,OFF6828,White
+BUS00074,10/16/2021,0:37,Howard,No Injury,Clear,Dry,Dark-No Street Lights,2,40,RPT317346,OFF8848,White
+BUS00683,9/5/2021,21:18,Carroll,No Injury,Rain,Dry,DARK-STREET LIGHTS ON,2,35,RPT200992,OFF4641,Red
+BUS00773,7/3/2019,,Montgomery,No Injury,Rain,Dry,Dark-Street Lights On,3,25,RPT666820,OFF4084,Yellow
+BUS00755,2/26/2022,16:35,Howard,No Injury,Clear,Snow,,2,30,RPT317221,OFF3615,Yellow
+BUS00146,6/13/2018,11:13,Montgomery,No Injury,Snow,Dry,Dark-Street Lights Off,2,65,RPT782139,OFF2406,Black
+BUS00580,11/7/2021,22:05,Montgomery,possible injury,Clear,Wet,Daylight,1,30,RPT488712,OFF5777,Green
+BUS00235,5/16/2020,14:20,Howard,Evident Injury,,Dry,Dusk,1,55,RPT346961,OFF5732,Green
+BUS00221,5/8/2023,0:22,Montgomery,Possible Injury,Clear,Dry,Unknown,3,55,RPT640310,OFF7116,Red
+BUS00774,2/7/2022,12:23,Harford,No Injury,Rain,dry,Daylight,1,45,RPT714334,OFF3854,Yellow
+BUS00330,7/7/2022,8:32,Charles,possible injury,Clear,Dry,Dark-Street Lights On,3,30,RPT578987,OFF5558,White
+BUS00133,4/13/2020,21:40,Baltimore,Possible Injury,Rain,Dry,Dark-Street Lights On,2,25,RPT852204,OFF4621,White
+BUS00753,7/4/2021,22:20,Washington,Fatal Injury,Clear,Dry,Dark-Street Lights Off,1,55,RPT429761,OFF6856,White
+BUS00429,6/26/2019,17:56,Anne Arundel,Evident Injury,Clear,Slush,Daylight,2,25,RPT356622,OFF6152,Black
+BUS00452,9/25/2019,13:41,Baltimore,Evident Injury,Snow,Snow,Daylight,2,30,RPT958136,OFF9655,Black
+BUS00774,2/7/2022,12:23,Harford,No Injury,Rain,dry,Daylight,1,45,RPT447843,OFF9064,Yellow
+BUS00441,3/2/2022,3:43,Carroll,Possible Injury,Rain,Wet,Dawn,2,35,RPT628373,OFF4090,Black
+BUS00042,9/19/2023,,Prince George's,Evident Injury,Snow,Wet,Dark-No Street Lights,2,50,RPT440839,OFF5397,Green
+BUS00527,10/7/2019,19:03,Carroll,No Injury,Unknown,Dry,Other,1,55,RPT732209,OFF2262,Red
+BUS00109,2/1/2020,2:38,Frederick,Possible Injury,Clear,Wet,Daylight,2,35,RPT311883,OFF7566,Green
+BUS00358,7/30/2022,,Washington,Possible Injury,Clear,Ice,Dark-No Street Lights,2,40,RPT401036,OFF1266,Blue
+BUS00057,10/24/2019,17:49,Prince George's,Possible Injury,Rain,Ice,Daylight,1,35,RPT813813,OFF4203,Green
+BUS00410,11/16/2021,18:19,Howard,No Injury,Snow,Wet,Dawn,3,45,RPT218326,OFF3340,Black
+BUS00292,7/20/2020,11:11,Baltimore,No Injury,Cloudy,Dry,Dark-Street Lights On,2,40,RPT925618,OFF8015,White
+BUS00425,12/11/2022,1:37,Washington,Evident Injury,Rain,Dry,Daylight,2,50,RPT726822,OFF3017,Yellow
+BUS00025,12/26/2021,6:42,Charles,No Injury,Clear,Dry,Dark-Street Lights On,3,55,RPT533020,OFF6798,Blue
+BUS00736,1/29/2021,4:40,Carroll,Possible Injury,Clear,Dry,Dusk,4,45,RPT144618,OFF8859,Red
+BUS00418,7/20/2018,19:47,Washington,Fatal Injury,Fog/Smog/Smoke,Dry,Other,4,25,RPT352356,OFF3480,Black
+BUS00599,10/1/2022,16:23,Montgomery,No Injury,Clear,Wet,daylight,2,45,RPT341192,OFF7164,Black
+BUS00052,12/14/2020,16:48,Montgomery,Evident Injury,Clear,Wet,Dark-Street Lights Off,3,30,RPT672808,OFF2260,White
+BUS00345,6/29/2022,17:02,Montgomery,Possible Injury,Rain,Wet,Dusk,2,50,RPT328486,OFF9105,White
+BUS00758,1/16/2023,7:09,Howard,possible injury,Clear,Dry,Dark-No Street Lights,1,35,RPT888795,OFF4951,Blue
+BUS00265,1/4/2021,10:54,Charles,Evident Injury,Cloudy,Dry,Dark-Street Lights Off,3,35,RPT409369,OFF8492,Black
+BUS00791,5/10/2021,18:21,Washington,Possible Injury,Clear,Snow,Dark-Street Lights On,1,35,RPT179710,OFF6582,Red
+BUS00666,2/18/2023,1:18,Howard,Possible Injury,Clear,Dry,Daylight,1,30,RPT531319,OFF7492,Blue
+BUS00657,5/4/2022,11:16,Carroll,possible injury,Clear,Dry,Daylight,2,55,RPT799143,OFF3582,Green
+BUS00297,7/4/2023,3:55,Howard,Possible Injury,Clear,Dry,Dark-Street Lights On,3,30,RPT837952,OFF1972,Black
+BUS00019,1/21/2022,18:12,Frederick,No Injury,Cloudy,Dry,Daylight,1,35,RPT300051,OFF8353,Blue
+BUS00771,4/12/2023,9:34,Washington,No Injury,Cloudy,Dry,Daylight,3,25,RPT508060,OFF6761,Green
+BUS00533,3/6/2021,21:43,Howard,No Injury,clear,Wet,Dark-No Street Lights,3,25,RPT716126,OFF9185,Black
+BUS00084,1/22/2019,3:42,Montgomery,No Injury,Rain,Wet,,3,25,RPT386741,OFF5592,Yellow
+BUS00062,9/13/2020,18:05,Frederick,Fatal Injury,Sleet/Hail,Dry,Dark-No Street Lights,2,50,RPT739711,OFF1110,White
+BUS00522,12/13/2023,6:24,Howard,No Injury,Fog/Smog/Smoke,Dry,Daylight,2,35,RPT154040,OFF8034,Yellow
+BUS00303,10/31/2018,18:40,Montgomery,Possible Injury,Clear,Dry,Daylight,2,65,RPT969032,OFF6302,Black
+BUS00394,1/6/2019,13:06,Washington,Evident Injury,Rain,Ice,Daylight,2,40,RPT806215,OFF2975,Green
+BUS00694,10/3/2018,7:49,Charles,Fatal Injury,Cloudy,Dry,Daylight,2,40,RPT933551,OFF8265,Black
+BUS00183,5/10/2020,13:50,Montgomery,No Injury,Unknown,Dry,Daylight,1,45,RPT398384,OFF1478,Yellow
+BUS00430,2/7/2022,,Prince George's,Possible Injury,Unknown,Dry,Dark-Street Lights Off,1,40,RPT876513,OFF3290,White
+BUS00517,6/19/2021,10:22,Howard,possible injury,Snow,Dry,Dusk,2,30,RPT196955,OFF3079,Green
+BUS00224,6/22/2020,15:14,Prince George's,Fatal Injury,Rain,,Dawn,2,40,RPT520304,OFF7364,Yellow
+BUS00627,6/28/2020,14:56,Anne Arundel,EVIDENT INJURY,Cloudy,Ice,Dark-No Street Lights,2,45,RPT292988,OFF5778,Red
+BUS00483,3/19/2019,15:45,Howard,No Injury,Clear,Dry,Daylight,1,30,RPT528090,OFF2369,Blue
+BUS00332,6/13/2018,13:47,Carroll,Fatal Injury,Clear,Wet,Daylight,2,35,RPT160541,OFF8449,Yellow
+BUS00434,11/5/2018,4:48,Baltimore,No Injury,Clear,Dry,Daylight,2,30,RPT345722,OFF5065,Yellow
+BUS00458,2/13/2022,17:57,Baltimore,Evident Injury,Clear,Dry,Daylight,2,30,RPT646571,OFF7895,White
+BUS00560,8/28/2019,7:06,Anne Arundel,No Injury,Clear,Snow,Daylight,3,55,RPT396809,OFF2276,Yellow
+BUS00177,4/26/2021,17:08,Montgomery,No Injury,Clear,Dry,Dawn,2,45,RPT109717,OFF4798,White
+BUS00756,3/11/2019,10:15,Frederick,Fatal Injury,Clear,Wet,Daylight,2,25,RPT715551,OFF2640,Black
+BUS00651,9/3/2022,5:42,Montgomery,EVIDENT INJURY,Clear,Snow,Daylight,2,45,RPT630299,OFF8404,Black
+BUS00164,12/5/2020,5:37,Anne Arundel,No Injury,Clear,Ice,Dusk,2,50,RPT283568,OFF1732,Yellow
+BUS00249,7/1/2021,18:43,Anne Arundel,EVIDENT INJURY,Cloudy,Dry,Daylight,1,35,RPT347781,OFF7703,White
+BUS00534,6/17/2023,16:42,Baltimore,No Injury,Sleet/Hail,Dry,DARK-STREET LIGHTS ON,4,30,RPT859489,OFF3734,Blue
+BUS00731,5/30/2021,5:10,Howard,No Injury,Snow,Wet,Daylight,2,25,RPT447362,OFF5082,White
+BUS00075,7/31/2020,18:14,Harford,Evident Injury,Cloudy,Unknown,Daylight,2,40,RPT823769,OFF6147,Blue
+BUS00487,1/31/2021,19:40,Montgomery,No Injury,Rain,dry,Daylight,3,30,RPT292811,OFF4329,White
+BUS00621,5/23/2023,11:35,Anne Arundel,No Injury,Clear,Dry,Daylight,2,30,RPT469283,OFF7461,Red
+BUS00105,8/23/2018,1:37,Harford,No Injury,Clear,,daylight,1,45,RPT368900,OFF7176,Yellow
+BUS00115,11/12/2023,10:59,Montgomery,Evident Injury,Snow,Snow,Daylight,2,40,RPT384815,OFF6890,Yellow
+BUS00312,2/11/2019,6:40,Prince George's,Possible Injury,Cloudy,Wet,,2,25,RPT995993,OFF5543,Red
+BUS00093,10/20/2020,2:28,Howard,Evident Injury,Unknown,Dry,Dark-No Street Lights,2,30,RPT461899,OFF4434,Green
+BUS00426,2/3/2022,23:08,Washington,No Injury,Snow,,Dark-Street Lights On,2,30,RPT804667,OFF7291,Black
+BUS00090,2/24/2020,6:34,Baltimore,No Injury,Clear,Ice,Daylight,2,40,RPT498138,OFF3947,Red
+BUS00445,3/17/2023,22:19,Harford,Evident Injury,Rain,Wet,Daylight,2,45,RPT867051,OFF4921,Green
+BUS00759,2/1/2019,1:18,Charles,No Injury,Clear,Snow,Dark-Street Lights Off,2,40,RPT960556,OFF5366,Green
+BUS00768,2/16/2023,7:13,Frederick,Evident Injury,Unknown,Dry,Daylight,2,30,RPT694223,OFF6210,Yellow
+BUS00779,2/19/2021,19:43,Frederick,No Injury,Clear,Dry,Dusk,3,40,RPT928897,OFF1621,Green
+BUS00513,10/24/2022,17:49,Carroll,No Injury,Fog/Smog/Smoke,dry,Daylight,3,35,RPT182911,OFF9474,Yellow
+BUS00595,12/14/2018,9:35,Anne Arundel,Possible Injury,Clear,WET,Daylight,2,55,RPT409531,OFF6675,Red
+BUS00012,5/31/2020,10:06,Harford,Possible Injury,Cloudy,Ice,Dark-Street Lights On,3,30,RPT961574,OFF6896,Blue
+BUS00763,7/4/2021,6:48,Washington,No Injury,Clear,dry,Dark-No Street Lights,3,35,RPT180674,OFF7363,Red
+BUS00044,10/18/2019,21:27,Charles,Possible Injury,Snow,Dry,Daylight,1,65,RPT601608,OFF3390,Blue
+BUS00043,7/12/2018,3:09,Washington,,Clear,Sand/Mud/Dirt,Dark-Street Lights On,3,25,RPT794395,OFF9079,Blue
+BUS00168,9/26/2023,3:24,Anne Arundel,No Injury,Snow,Wet,Daylight,2,40,RPT138105,OFF2791,Blue
+BUS00724,8/5/2022,18:04,Washington,No Injury,Cloudy,Dry,DARK-STREET LIGHTS ON,1,25,RPT279708,OFF2437,Yellow
+BUS00491,2/11/2019,22:07,Montgomery,Possible Injury,Snow,Wet,Daylight,2,45,RPT352673,OFF7401,White
+BUS00632,4/26/2018,10:59,Howard,Evident Injury,Clear,Dry,Dark-No Street Lights,2,40,RPT135466,OFF6211,Yellow
+BUS00427,1/5/2019,9:20,Frederick,,Clear,Dry,Daylight,2,50,RPT837449,OFF6759,Yellow
+BUS00179,4/2/2022,21:47,Prince George's,No Injury,Clear,Dry,Dark-No Street Lights,1,40,RPT695551,OFF4022,White
+BUS00546,2/27/2023,2:55,Prince George's,Evident Injury,CLEAR,Dry,,1,45,RPT223014,OFF1753,Green
+BUS00555,6/10/2022,9:47,Frederick,EVIDENT INJURY,Rain,Dry,Daylight,2,30,RPT515898,OFF6272,Green
+BUS00178,2/25/2020,13:42,Prince George's,Evident Injury,Other,Unknown,Dark-Street Lights On,1,65,RPT412886,OFF7636,Yellow
+BUS00569,5/25/2021,8:37,Carroll,possible injury,Cloudy,Dry,Dark-Street Lights On,2,40,RPT637727,OFF7568,Red
+BUS00576,6/18/2018,14:58,Carroll,Evident Injury,Clear,Wet,Dark-Street Lights Off,2,30,RPT898625,OFF8483,Green
+BUS00258,10/29/2021,0:54,Baltimore,Possible Injury,Clear,Dry,Dark-Street Lights On,3,30,RPT626930,OFF5785,Yellow
+BUS00729,8/22/2023,1:53,Prince George's,No Injury,Clear,Dry,Daylight,2,25,RPT776234,OFF4267,White
+BUS00336,1/8/2021,18:02,Baltimore,Evident Injury,Sleet/Hail,Dry,Other,2,35,RPT946112,OFF2526,Black
+BUS00488,8/24/2021,12:38,Baltimore,No Injury,Snow,Wet,Daylight,1,30,RPT891062,OFF3545,Green
+BUS00016,2/25/2023,17:07,Howard,No Injury,CLEAR,Wet,Dark-Street Lights On,2,40,RPT700383,OFF2430,Blue
+BUS00004,12/23/2018,18:27,Howard,No Injury,Unknown,Wet,Daylight,2,35,RPT649697,OFF7383,Yellow
+BUS00659,10/4/2018,11:15,Montgomery,Evident Injury,Clear,Dry,Dark-Street Lights On,1,30,RPT606676,OFF1660,White
+BUS00257,10/10/2018,16:41,Charles,No Injury,Clear,Sand/Mud/Dirt,Daylight,3,35,RPT819400,OFF4613,Red
+BUS00479,6/26/2020,19:02,Howard,,Clear,Wet,,2,30,RPT649939,OFF9791,Blue
+BUS00405,8/10/2019,7:29,Frederick,Evident Injury,clear,Dry,Dawn,2,30,RPT262656,OFF7022,Yellow
+BUS00352,8/4/2023,20:28,Frederick,No Injury,Clear,,Dark-Street Lights On,4,55,RPT166857,OFF8951,Yellow
+BUS00494,2/1/2023,12:26,Carroll,Evident Injury,Rain,Dry,Daylight,1,35,RPT415344,OFF8167,Yellow
+BUS00432,5/28/2023,9:47,Washington,No Injury,Clear,Dry,Daylight,2,30,RPT521805,OFF5537,Blue
+BUS00629,8/7/2018,12:32,Frederick,Possible Injury,Fog/Smog/Smoke,Dry,Daylight,2,40,RPT772985,OFF6161,Green
+BUS00357,6/26/2021,,Washington,Evident Injury,Sleet/Hail,Dry,Dark-Street Lights Off,2,45,RPT133276,OFF8529,Yellow
+BUS00325,12/24/2020,4:04,Prince George's,Evident Injury,Clear,Dry,Daylight,2,25,RPT158338,OFF8405,Blue
+BUS00638,1/12/2023,19:00,Howard,No Injury,Fog/Smog/Smoke,,Daylight,2,45,RPT150871,OFF3230,Black
+BUS00010,10/16/2019,22:27,Howard,Possible Injury,Clear,Wet,Dark-Street Lights On,2,50,RPT498658,OFF6050,Black
+BUS00250,3/18/2022,12:45,Montgomery,Possible Injury,Clear,Wet,Daylight,4,50,RPT165142,OFF9056,Black
+BUS00023,2/12/2021,14:40,Washington,No Injury,Clear,Dry,,4,65,RPT539122,OFF1430,Black
+BUS00222,5/8/2021,12:54,Charles,Possible Injury,Sleet/Hail,Dry,Dark-No Street Lights,3,45,RPT443856,OFF3316,White
+BUS00782,10/20/2021,17:23,Harford,Possible Injury,Clear,Wet,Daylight,3,35,RPT182237,OFF4811,Black
+BUS00711,8/2/2021,21:22,Charles,Possible Injury,Clear,Dry,Daylight,2,50,RPT781463,OFF4517,Yellow
+BUS00545,6/23/2018,13:01,Charles,No Injury,,Wet,Dark-Street Lights Off,2,35,RPT552825,OFF8157,Yellow
+BUS00544,12/21/2021,2:25,Washington,Evident Injury,Snow,Dry,Daylight,2,35,RPT299254,OFF1201,Red
+BUS00341,11/26/2021,13:21,Carroll,Fatal Injury,Sleet/Hail,Wet,Daylight,3,30,RPT366817,OFF7516,Red
+BUS00691,7/22/2022,11:32,Montgomery,,Snow,Dry,Daylight,3,25,RPT954814,OFF1357,White
+BUS00204,7/23/2021,14:39,Frederick,Possible Injury,Sleet/Hail,Dry,Dark-Street Lights Off,2,50,RPT295243,OFF6134,Black
+BUS00238,12/2/2018,15:01,Charles,Possible Injury,Clear,Dry,,1,45,RPT379963,OFF6154,Black
+BUS00094,2/6/2019,1:41,Washington,No Injury,Cloudy,Wet,Daylight,2,40,RPT910616,OFF8183,Blue
+BUS00587,10/17/2021,21:38,Washington,No Injury,Unknown,Dry,Dark-Street Lights On,1,40,RPT253011,OFF9954,Red
+BUS00376,9/5/2020,18:24,Harford,Possible Injury,Sleet/Hail,Dry,Daylight,2,40,RPT665497,OFF1848,Red
+BUS00524,10/7/2019,11:19,Howard,No Injury,,Dry,Daylight,2,35,RPT495489,OFF9582,Yellow
+BUS00285,2/2/2023,8:19,Frederick,Possible Injury,Rain,Snow,Daylight,3,35,RPT965708,OFF6711,Yellow
+BUS00185,12/17/2022,21:13,Baltimore,possible injury,Fog/Smog/Smoke,Ice,Dusk,1,35,RPT772464,OFF8365,Green
+BUS00669,6/24/2021,16:25,Washington,,Rain,Dry,Daylight,1,45,RPT655134,OFF5896,Black
+BUS00644,9/16/2022,20:50,Prince George's,No Injury,Clear,Dry,,1,30,RPT761338,OFF8635,Yellow
+BUS00154,10/13/2020,,Harford,Evident Injury,Clear,Snow,Daylight,3,30,RPT906066,OFF9537,Red
+BUS00076,1/30/2018,2:45,Washington,Evident Injury,Clear,Dry,daylight,2,30,RPT839233,OFF3910,Green
+BUS00468,8/28/2019,19:00,Prince George's,EVIDENT INJURY,Fog/Smog/Smoke,Dry,Dark-No Street Lights,2,65,RPT756401,OFF4534,Yellow
+BUS00515,12/31/2020,0:11,Baltimore,No Injury,Clear,Snow,Daylight,2,40,RPT988283,OFF3735,Yellow
+BUS00278,7/4/2023,14:50,Baltimore,Evident Injury,Clear,Dry,Daylight,3,25,RPT836038,OFF7965,Black
+BUS00069,4/3/2020,22:19,Carroll,No Injury,Rain,Ice,Dark-Street Lights On,3,40,RPT335790,OFF8055,Green
+BUS00529,10/3/2022,15:38,Washington,No Injury,Snow,WET,Daylight,2,65,RPT176319,OFF8457,Red
+BUS00189,10/4/2021,,Frederick,Possible Injury,Cloudy,Dry,Daylight,1,45,RPT240718,OFF4519,Black
+BUS00272,11/24/2020,10:17,Harford,No Injury,Clear,Dry,daylight,2,50,RPT260626,OFF7010,White
+BUS00520,6/30/2022,2:09,Charles,No Injury,Snow,dry,Daylight,3,55,RPT969695,OFF1480,Yellow
+BUS00237,9/23/2022,8:53,Carroll,No Injury,Clear,Wet,Daylight,1,35,RPT890371,OFF4065,Black
+BUS00089,10/21/2021,3:15,Harford,Evident Injury,Rain,Wet,Dusk,2,45,RPT669576,OFF9939,Red
+BUS00737,5/25/2021,19:34,Frederick,Possible Injury,Clear,Snow,Dark-Street Lights On,2,999,RPT340927,OFF9921,Red
+BUS00118,6/10/2022,4:42,Carroll,Possible Injury,CLEAR,Other,Dark-Street Lights On,2,25,RPT745584,OFF2791,White
+BUS00126,5/24/2021,,Anne Arundel,,Sleet/Hail,Snow,Daylight,2,50,RPT336633,OFF2735,Yellow
+BUS00680,11/20/2018,13:38,Harford,Possible Injury,Fog/Smog/Smoke,Snow,Other,1,55,RPT945328,OFF2989,Yellow
+BUS00290,11/19/2023,19:18,Montgomery,Possible Injury,Clear,Other,Dark-Street Lights Off,1,40,RPT891401,OFF4438,Black
+BUS00239,8/2/2018,11:14,Charles,No Injury,Clear,Wet,Dark-Street Lights On,2,40,RPT445637,OFF8389,Yellow
+BUS00001,4/2/2019,0:47,Carroll,,Fog/Smog/Smoke,Dry,Dark-Street Lights On,4,45,RPT711868,OFF3526,Yellow
+BUS00489,12/14/2023,9:29,Anne Arundel,Possible Injury,Clear,Dry,Daylight,2,35,RPT909676,OFF7199,Yellow
+BUS00399,8/20/2019,7:33,Charles,Evident Injury,Clear,dry,Daylight,4,25,RPT497700,OFF4751,Red
+BUS00721,12/20/2018,2:19,Washington,No Injury,Rain,,Daylight,1,30,RPT767678,OFF7750,Yellow
+BUS00508,9/10/2023,6:09,Montgomery,No Injury,Fog/Smog/Smoke,Wet,Dark-Street Lights Off,4,30,RPT354655,OFF1185,Blue
+BUS00279,3/12/2018,2:18,Frederick,No Injury,Clear,,Daylight,4,25,RPT675914,OFF2677,White
+BUS00693,13/32/2021,1:08,Howard,Possible Injury,Clear,Snow,Daylight,2,35,RPT380310,OFF4239,Black
+BUS00117,7/10/2021,7:16,Washington,Evident Injury,Clear,Ice,Daylight,3,35,RPT214532,OFF2392,Red
+BUS00229,12/28/2023,,Washington,Evident Injury,Rain,Sand/Mud/Dirt,Dark-Street Lights Off,1,35,RPT600646,OFF4043,White
+BUS00583,11/29/2022,14:33,Montgomery,,Cloudy,Snow,Dark-Street Lights On,4,25,RPT147936,OFF8600,Blue
+BUS00435,7/13/2020,21:46,Washington,No Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights Off,1,30,RPT665979,OFF5668,White
+BUS00449,8/19/2020,17:08,Montgomery,No Injury,Clear,Dry,Daylight,2,45,RPT726962,OFF4949,Black
+BUS00275,9/15/2020,23:26,Baltimore,Evident Injury,Fog/Smog/Smoke,Snow,Dawn,3,35,RPT735163,OFF8231,White
+BUS00319,8/6/2020,9:45,Harford,,Snow,Ice,Unknown,3,30,RPT711474,OFF7434,Blue
+BUS00781,6/2/2022,11:50,Carroll,Possible Injury,Clear,Dry,Daylight,2,45,RPT859340,OFF1920,Red
+BUS00145,6/21/2018,9:23,Montgomery,No Injury,Rain,Dry,Daylight,1,35,RPT600641,OFF7815,Blue
+BUS00594,5/25/2022,,Baltimore,Possible Injury,Unknown,Other,Daylight,2,30,RPT537862,OFF9872,White
+BUS00523,9/16/2022,,Anne Arundel,Evident Injury,Fog/Smog/Smoke,Dry,Daylight,3,30,RPT381502,OFF5456,Yellow
+BUS00751,6/7/2023,14:13,Howard,No Injury,Cloudy,Wet,Dusk,2,30,RPT288066,OFF8728,Blue
+BUS00602,6/15/2023,6:14,Frederick,Fatal Injury,Other,Dry,Daylight,2,50,RPT973844,OFF4361,Yellow
+BUS00370,1/11/2018,9:46,Carroll,Possible Injury,Cloudy,Dry,Daylight,4,40,RPT570325,OFF2529,Green
+BUS00269,4/2/2022,10:01,Montgomery,No Injury,,Dry,Daylight,2,35,RPT329772,OFF2871,Yellow
+BUS00584,11/12/2023,19:10,Frederick,Evident Injury,Sleet/Hail,Dry,Dark-Street Lights On,1,55,RPT689849,OFF7033,Black
+BUS00308,7/13/2020,16:24,Howard,Evident Injury,Snow,Dry,Daylight,2,25,RPT662728,OFF2560,Red
+BUS00311,9/4/2018,19:47,Baltimore,Fatal Injury,Clear,Wet,Dawn,1,25,RPT444056,OFF1971,Green
+BUS00466,4/28/2020,18:13,Washington,Possible Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights On,3,30,RPT870925,OFF1225,Blue
+BUS00047,2/17/2018,21:46,Prince George's,Evident Injury,Clear,Dry,Daylight,2,50,RPT428993,OFF8121,Blue
+BUS00350,3/8/2023,13:03,Prince George's,No Injury,Clear,Dry,Daylight,3,35,RPT461264,OFF9967,White
+BUS00372,6/29/2023,4:28,Frederick,Possible Injury,Clear,dry,Dusk,1,25,RPT493892,OFF5102,Yellow
+BUS00539,11/12/2020,9:20,Washington,No Injury,Rain,Sand/Mud/Dirt,Dark-Street Lights On,1,40,RPT319036,OFF2889,Black
+BUS00262,11/19/2022,5:46,Prince George's,Evident Injury,clear,,Daylight,2,45,RPT823821,OFF9808,Red
+BUS00196,4/22/2022,15:25,Harford,No Injury,Unknown,Slush,Dark-Street Lights Off,2,30,RPT218118,OFF6993,Black
+BUS00653,10/5/2018,16:34,Charles,Possible Injury,,Ice,Daylight,2,25,RPT380989,OFF3983,White
+BUS00692,10/18/2019,0:09,Frederick,No Injury,Clear,Dry,daylight,2,50,RPT471658,OFF2056,Yellow
+BUS00108,9/12/2023,2:54,Harford,No Injury,Rain,Wet,Dark-No Street Lights,1,25,RPT324381,OFF8851,White
+BUS00060,4/4/2019,11:56,Washington,Possible Injury,Cloudy,Dry,Dusk,1,35,RPT826991,OFF3219,Yellow
+BUS00616,12/10/2022,14:49,Harford,No Injury,Cloudy,Snow,Dark-Street Lights On,3,25,RPT614426,OFF8511,Blue
+BUS00454,7/30/2022,8:02,Montgomery,No Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights On,2,35,RPT348411,OFF6916,Yellow
+BUS00101,9/29/2022,22:46,Prince George's,Possible Injury,Sleet/Hail,Dry,Daylight,2,40,RPT182868,OFF4965,Blue
+BUS00728,1/16/2020,4:27,Howard,Possible Injury,Clear,Wet,Dark-Street Lights On,1,45,RPT554987,OFF7868,Blue
+BUS00742,4/27/2018,2:02,Harford,No Injury,Fog/Smog/Smoke,Wet,Daylight,3,25,RPT384263,OFF7363,Black
+BUS00600,3/16/2018,11:19,Montgomery,No Injury,Snow,,Dark-No Street Lights,4,30,RPT498290,OFF6038,Green
+BUS00591,5/3/2022,9:16,Howard,Evident Injury,,Dry,Daylight,1,25,RPT712401,OFF7718,White
+BUS00180,12/14/2019,19:36,Frederick,Evident Injury,Clear,Dry,Daylight,2,35,RPT732063,OFF4053,Red
+BUS00305,5/29/2021,2:15,Baltimore,No Injury,,Snow,Dark-Street Lights Off,2,40,RPT630041,OFF5740,Yellow
+BUS00444,9/16/2018,20:52,Anne Arundel,Possible Injury,Clear,Ice,Dark-Street Lights Off,1,30,RPT955413,OFF1894,Yellow
+BUS00108,9/12/2023,2:54,Harford,No Injury,,Wet,Dark-No Street Lights,1,25,RPT921609,OFF7481,Black
+BUS00796,3/25/2019,13:37,Carroll,,Other,Unknown,Daylight,2,30,RPT724540,OFF3420,Red
+BUS00150,9/26/2019,7:55,Charles,Evident Injury,Clear,Wet,Daylight,2,45,RPT436768,OFF6110,Green
+BUS00125,3/13/2021,5:28,Montgomery,,Snow,Unknown,Daylight,2,30,RPT656837,OFF8052,Green
+BUS00654,9/10/2023,16:35,Baltimore,Evident Injury,Clear,,,2,25,RPT163386,OFF5341,White
+BUS00718,7/17/2023,0:23,Montgomery,,Clear,Dry,Dawn,1,25,RPT679549,OFF5026,Black
+BUS00186,9/25/2023,15:50,Prince George's,Fatal Injury,Clear,Dry,Daylight,1,40,RPT669691,OFF8037,Black
+BUS00667,4/5/2020,1:50,Howard,Evident Injury,Cloudy,Dry,daylight,2,35,RPT112426,OFF9412,Green
+BUS00051,10/10/2019,14:00,Baltimore,,Clear,Dry,Daylight,1,35,RPT458955,OFF8933,Blue
+BUS00484,N/A,2:57,Charles,possible injury,Clear,Dry,Daylight,3,35,RPT256466,OFF6077,White
+BUS00272,11/24/2020,10:17,Harford,No Injury,Clear,Dry,daylight,2,50,RPT498535,OFF4657,White
+BUS00486,8/31/2019,2:08,Baltimore,No Injury,Cloudy,Wet,Other,2,25,RPT494747,OFF9377,Red
+BUS00322,8/14/2020,8:50,Carroll,No Injury,Clear,Dry,Dark-Street Lights On,2,35,RPT635167,OFF5402,Green
+BUS00354,6/21/2019,9:28,Charles,No Injury,Clear,Unknown,Daylight,3,35,RPT163182,OFF1793,Yellow
+BUS00764,10/15/2019,15:32,Charles,Possible Injury,Clear,Ice,Daylight,2,40,RPT413814,OFF6813,Blue
+BUS00143,2/21/2022,18:35,Charles,Evident Injury,Clear,Dry,Daylight,2,30,RPT784607,OFF2712,Green
+BUS00371,5/7/2021,18:37,Anne Arundel,No Injury,Clear,Dry,Unknown,2,45,RPT495833,OFF6905,Green
+BUS00142,9/3/2019,17:02,Carroll,Possible Injury,Clear,Snow,daylight,2,25,RPT526673,OFF8909,Yellow
+BUS00400,8/15/2022,18:43,Harford,Possible Injury,,,Dark-Street Lights On,2,40,RPT963355,OFF7276,Green
+BUS00264,6/4/2023,14:27,Baltimore,Possible Injury,Clear,Other,Daylight,2,25,RPT769737,OFF3755,Black
+BUS00321,2/3/2023,2:43,Frederick,Evident Injury,Clear,Dry,Dark-Street Lights On,3,35,RPT195359,OFF3329,White
+BUS00020,10/12/2018,1:42,Prince George's,Fatal Injury,Snow,Dry,Daylight,2,30,RPT119857,OFF9395,White
+BUS00173,9/14/2021,,Howard,No Injury,Rain,Slush,Daylight,2,25,RPT295361,OFF3623,Yellow
+BUS00673,1/24/2021,3:51,Howard,Evident Injury,Fog/Smog/Smoke,Dry,Daylight,2,55,RPT400614,OFF7625,Blue
+BUS00313,5/14/2020,8:42,Charles,Evident Injury,Rain,Wet,Dark-Street Lights Off,2,30,RPT645617,OFF3078,Yellow
+BUS00391,6/22/2023,17:02,Charles,No Injury,Rain,Wet,Dark-Street Lights On,2,35,RPT123839,OFF1152,Yellow
+BUS00423,7/15/2019,20:06,Howard,No Injury,Fog/Smog/Smoke,Snow,Daylight,2,40,RPT614435,OFF6514,Green
+BUS00013,1/15/2019,12:06,Harford,,Fog/Smog/Smoke,Dry,Dark-Street Lights On,1,25,RPT813793,OFF5419,Green
+BUS00408,3/24/2021,21:34,Washington,,Clear,Dry,Dark-Street Lights On,2,25,RPT860242,OFF7270,Green
+BUS00409,10/10/2019,2:28,Baltimore,No Injury,Other,,DARK-STREET LIGHTS ON,2,40,RPT902674,OFF3181,White
+BUS00306,5/1/2019,17:48,Montgomery,No Injury,Sleet/Hail,Dry,Daylight,3,30,RPT311976,OFF5380,Red
+BUS00355,6/9/2023,3:01,Washington,Evident Injury,Fog/Smog/Smoke,Snow,Dark-Street Lights On,2,30,RPT172371,OFF1752,Black
+BUS00026,12/29/2020,22:59,Montgomery,Fatal Injury,Cloudy,,Dark-Street Lights Off,2,35,RPT824042,OFF2524,Blue
+BUS00614,9/6/2020,9:51,Anne Arundel,No Injury,Clear,Dry,Dark-No Street Lights,2,65,RPT772865,OFF7767,Green
+BUS00170,11/22/2022,0:33,Prince George's,No Injury,Rain,Dry,Daylight,2,35,RPT516278,OFF4996,Yellow
+BUS00039,12/12/2020,23:37,Prince George's,No Injury,Cloudy,Sand/Mud/Dirt,Daylight,2,30,RPT643878,OFF3274,Red
+BUS00176,7/31/2022,10:25,Montgomery,Possible Injury,Clear,Dry,Dark-Street Lights Off,2,25,RPT139286,OFF8570,White
+BUS00246,2/19/2022,5:38,Harford,Possible Injury,Rain,,Dark-Street Lights On,2,30,RPT785436,OFF7290,Yellow
+BUS00299,4/7/2023,15:28,Baltimore,Fatal Injury,Rain,Ice,Dark-No Street Lights,1,30,RPT181896,OFF9720,Blue
+BUS00688,12/15/2021,19:27,Frederick,No Injury,Unknown,,Dark-Street Lights Off,2,30,RPT749887,OFF2376,Black
+BUS00417,6/10/2022,8:00,Washington,No Injury,Unknown,Wet,Dark-Street Lights On,1,45,RPT116405,OFF4490,White
+BUS00649,4/8/2021,13:00,Frederick,No Injury,Clear,Dry,Dark-Street Lights Off,2,55,RPT109585,OFF6870,Black
+BUS00273,2/5/2021,,Harford,Evident Injury,Clear,Slush,Daylight,3,40,RPT577079,OFF9880,Red
+BUS00474,12/22/2020,1:08,Howard,Evident Injury,Snow,Wet,Dusk,2,45,RPT461145,OFF9209,Yellow
+BUS00630,3/12/2022,7:24,Prince George's,,Fog/Smog/Smoke,Sand/Mud/Dirt,Daylight,1,30,RPT161585,OFF7438,White
+BUS00155,3/19/2019,12:55,Charles,Possible Injury,CLEAR,dry,Daylight,2,40,RPT193806,OFF8912,Black
+BUS00127,12/7/2023,0:42,Anne Arundel,Evident Injury,Fog/Smog/Smoke,Dry,Daylight,2,30,RPT768933,OFF1172,Green
+BUS00450,5/11/2022,,Baltimore,Evident Injury,Clear,Sand/Mud/Dirt,daylight,2,35,RPT910065,OFF9185,Green
+BUS00588,8/3/2018,20:41,Howard,No Injury,Clear,Dry,Daylight,2,25,RPT117007,OFF5016,Red
+BUS00342,8/8/2021,21:06,Charles,No Injury,Cloudy,Ice,Daylight,2,30,RPT956113,OFF4568,Green
+BUS00431,1/21/2021,5:16,Anne Arundel,Possible Injury,Rain,Wet,Daylight,2,25,RPT146385,OFF5059,Red
+BUS00288,1/29/2020,6:13,Howard,No Injury,Clear,Other,Daylight,2,25,RPT359486,OFF2923,Blue
+BUS00114,9/14/2022,21:37,Baltimore,No Injury,Sleet/Hail,Wet,Dark-Street Lights On,2,45,RPT829988,OFF1602,Black
+BUS00530,12/16/2022,13:17,Washington,No Injury,Rain,Wet,Daylight,2,45,RPT297303,OFF9368,Green
+BUS00174,5/26/2019,23:57,Montgomery,No Injury,,Wet,Daylight,4,45,RPT885386,OFF6422,Black
+BUS00360,9/23/2019,15:59,Montgomery,No Injury,Rain,Snow,Unknown,2,30,RPT288724,OFF3588,Yellow
+BUS00716,7/7/2020,3:12,Washington,Evident Injury,CLEAR,Ice,DARK-STREET LIGHTS ON,3,25,RPT497687,OFF3435,White
+BUS00058,12/13/2023,0:38,Frederick,possible injury,Rain,,Dark-Street Lights Off,4,25,RPT774558,OFF8501,Green
+BUS00568,4/5/2023,14:40,Baltimore,Fatal Injury,Clear,Snow,Dark-Street Lights On,1,50,RPT477114,OFF1752,Blue
+BUS00223,9/13/2022,17:47,Charles,Fatal Injury,Rain,Snow,Dark-Street Lights On,2,35,RPT190951,OFF9369,Yellow
+BUS00709,12/9/2019,22:28,Prince George's,Possible Injury,Cloudy,Dry,Daylight,2,40,RPT785491,OFF3831,Red
+BUS00281,9/23/2020,9:42,Frederick,EVIDENT INJURY,Sleet/Hail,Wet,Dark-Street Lights On,3,35,RPT894139,OFF5877,Yellow
+BUS00018,4/15/2021,20:39,Harford,Possible Injury,Blowing Snow,Unknown,daylight,4,35,RPT215233,OFF8061,White
+BUS00128,5/11/2021,21:06,Howard,No Injury,Clear,Dry,Dark-Street Lights Off,2,35,RPT344146,OFF2615,Red
+BUS00323,3/21/2020,,Prince George's,Evident Injury,Clear,,Dark-Street Lights On,2,25,RPT567122,OFF7786,Red
+BUS00256,10/21/2022,21:23,Baltimore,No Injury,Rain,Snow,Other,2,30,RPT525110,OFF1505,Blue
+BUS00685,10/12/2022,5:44,Washington,Evident Injury,Snow,Other,Daylight,2,30,RPT256130,OFF4246,Yellow
+BUS00471,4/16/2018,4:00,Carroll,Possible Injury,Rain,Dry,Daylight,2,35,RPT682851,OFF7520,Blue
+BUS00360,9/23/2019,15:59,Montgomery,,Rain,Snow,Unknown,2,30,RPT748665,OFF6026,White
+BUS00469,2/9/2021,4:08,Baltimore,Evident Injury,Cloudy,,Daylight,2,50,RPT811721,OFF1652,Black
+BUS00794,5/12/2021,15:52,Baltimore,No Injury,Clear,Dry,Daylight,2,65,RPT906360,OFF1975,Black
+BUS00191,7/9/2020,6:09,Anne Arundel,Evident Injury,Clear,Wet,Daylight,4,35,RPT628705,OFF5560,Blue
+BUS00116,12/4/2020,6:42,Howard,Fatal Injury,Clear,Wet,Dark-No Street Lights,1,25,RPT243941,OFF9796,Yellow
+BUS00532,11/14/2021,13:07,Washington,No Injury,Snow,Snow,,2,30,RPT898696,OFF1908,Red
+BUS00747,6/2/2023,7:51,Washington,No Injury,Sleet/Hail,Dry,Daylight,2,25,RPT669408,OFF4588,Green
+BUS00519,8/10/2019,18:42,Baltimore,Evident Injury,Clear,,Other,3,40,RPT859782,OFF2934,White
+BUS00095,3/2/2018,2:59,Carroll,Possible Injury,Rain,Snow,Dark-Street Lights On,3,30,RPT943700,OFF5773,Blue
+BUS00181,5/17/2021,12:35,Carroll,Possible Injury,,Dry,Dark-Street Lights On,3,50,RPT212512,OFF8080,Yellow
+BUS00302,9/25/2018,12:31,Harford,Fatal Injury,Unknown,Wet,,3,0,RPT164758,OFF3758,Black
+BUS00635,6/6/2018,9:58,Washington,No Injury,Clear,Ice,daylight,2,25,RPT177941,OFF4827,Blue
+BUS00598,11/27/2023,2:41,Charles,No Injury,Clear,Dry,Dark-Street Lights On,2,35,RPT445888,OFF1023,Black
+BUS00607,3/24/2022,4:10,Washington,Evident Injury,Rain,Dry,Dark-Street Lights On,2,35,RPT818113,OFF1981,White
+BUS00577,2/11/2020,10:38,Montgomery,No Injury,Clear,Ice,Dark-Street Lights On,2,30,RPT980521,OFF1130,Yellow
+BUS00558,4/13/2019,16:32,Carroll,Possible Injury,Clear,Dry,Dark-Street Lights Off,4,30,RPT437237,OFF6241,Green
+BUS00518,1/26/2018,5:55,Howard,Fatal Injury,Rain,Wet,Daylight,1,30,RPT661654,OFF5403,Yellow
+BUS00329,4/4/2023,22:19,Montgomery,,Cloudy,Dry,Daylight,1,45,RPT294760,OFF8982,White
+BUS00046,4/2/2023,16:16,Howard,Fatal Injury,Rain,Dry,,2,65,RPT495129,OFF3739,White
+BUS00750,10/10/2019,14:26,Howard,Evident Injury,Snow,WET,Daylight,2,50,RPT134500,OFF1959,Green
+BUS00158,6/4/2021,7:14,Baltimore,Evident Injury,Snow,Dry,Dusk,2,40,RPT343500,OFF2599,Blue
+BUS00622,2/25/2019,,Frederick,EVIDENT INJURY,Clear,Dry,Dark-Street Lights On,1,25,RPT277487,OFF2226,Yellow
+BUS00172,10/14/2018,21:58,Montgomery,Evident Injury,Clear,Dry,Dark-Street Lights Off,3,30,RPT619447,OFF3858,Green
+BUS00017,3/31/2022,,Prince George's,Evident Injury,Rain,Dry,Daylight,2,40,RPT834549,OFF4070,Black
+BUS00512,2/15/2021,18:14,Charles,possible injury,Sleet/Hail,Snow,Dark-No Street Lights,2,40,RPT778120,OFF9568,Red
+BUS00049,12/28/2020,20:21,Carroll,EVIDENT INJURY,Rain,Dry,Dark-Street Lights On,1,25,RPT581992,OFF7899,Blue
+BUS00800,7/21/2020,23:03,Charles,No Injury,Clear,Dry,Dark-Street Lights On,2,30,RPT131064,OFF6978,Blue
+BUS00516,1/24/2021,22:48,Washington,Evident Injury,Clear,Wet,Daylight,1,30,RPT489102,OFF7092,Black
+BUS00668,3/28/2020,1:20,Howard,Possible Injury,Clear,Dry,Daylight,1,50,RPT117538,OFF1802,Black
+BUS00481,5/8/2018,1:30,Anne Arundel,Evident Injury,Clear,Wet,Daylight,1,35,RPT830132,OFF3501,Black
+BUS00284,9/16/2021,11:44,Baltimore,Fatal Injury,,Dry,Dark-Street Lights On,2,30,RPT796353,OFF5305,Black
+BUS00552,1/22/2022,2:27,Baltimore,,Clear,Dry,Dark-Street Lights Off,2,55,RPT733760,OFF1579,Black
+BUS00226,4/29/2018,12:21,Washington,No Injury,Rain,Dry,Daylight,2,40,RPT200018,OFF3258,Yellow
+BUS00027,10/20/2018,19:40,Washington,,Other,Wet,,2,35,RPT313795,OFF6315,Red
+BUS00650,12/16/2021,,Montgomery,No Injury,Clear,Snow,Daylight,2,40,RPT329344,OFF4401,Red
+BUS00438,12/19/2020,17:07,Howard,possible injury,Clear,Snow,Unknown,2,35,RPT913761,OFF4366,White
+BUS00365,4/21/2022,6:58,Howard,,Blowing Snow,Snow,Dark-Street Lights On,2,25,RPT864715,OFF4314,Black
+BUS00230,6/2/2022,18:36,Charles,No Injury,Snow,Dry,,2,30,RPT439320,OFF8973,Red
+BUS00038,7/26/2019,7:47,Carroll,Evident Injury,Clear,Dry,Dark-Street Lights On,1,50,RPT244789,OFF3777,Blue
+BUS00795,3/10/2018,11:21,Charles,No Injury,Clear,dry,Daylight,1,30,RPT743684,OFF1359,Yellow
+BUS00375,8/11/2021,6:44,Carroll,EVIDENT INJURY,Cloudy,Ice,Daylight,4,35,RPT793939,OFF3711,Red
+BUS00470,10/23/2020,5:07,Charles,Fatal Injury,Rain,Snow,Daylight,2,35,RPT547952,OFF1990,Red
+BUS00797,6/14/2021,23:55,Howard,possible injury,Rain,Dry,Dark-Street Lights On,2,40,RPT515973,OFF3320,White
+BUS00749,10/26/2018,,Baltimore,No Injury,Cloudy,,Dark-Street Lights On,2,40,RPT790077,OFF5602,White
+BUS00609,11/10/2019,23:28,Frederick,No Injury,Clear,,DARK-STREET LIGHTS ON,2,30,RPT369826,OFF5584,Black
+BUS00195,3/7/2020,22:44,Frederick,No Injury,Clear,Dry,Daylight,1,45,RPT948102,OFF4063,Red
+BUS00705,12/2/2020,22:28,Prince George's,Possible Injury,,Snow,Dawn,2,45,RPT817269,OFF9128,Yellow
+BUS00714,10/8/2019,22:45,Harford,Possible Injury,Snow,Dry,Daylight,2,50,RPT198042,OFF5585,Yellow
+BUS00504,8/10/2022,11:55,Anne Arundel,Evident Injury,Cloudy,Ice,Other,2,30,RPT684357,OFF3877,Blue
+BUS00799,12/23/2020,20:50,Carroll,No Injury,Cloudy,Slush,Daylight,3,35,RPT442230,OFF9622,White
+BUS00689,1/29/2021,20:50,Baltimore,No Injury,Snow,Wet,Daylight,2,25,RPT652029,OFF5240,White
+BUS00798,4/20/2018,19:30,Washington,Evident Injury,Rain,Dry,Daylight,4,45,RPT911131,OFF2817,Red
+BUS00163,9/18/2021,,Charles,No Injury,Rain,Dry,Dark-No Street Lights,2,25,RPT139110,OFF5919,Green
+BUS00590,1/23/2019,17:43,Howard,Evident Injury,Clear,Sand/Mud/Dirt,Daylight,2,45,RPT680189,OFF1104,Black
+BUS00153,9/22/2021,13:51,Frederick,No Injury,Rain,Dry,Dark-Street Lights On,3,65,RPT162036,OFF4389,White
+BUS00573,2/19/2022,9:04,Anne Arundel,Evident Injury,Clear,WET,DARK-STREET LIGHTS ON,2,35,RPT941814,OFF6090,Yellow
+BUS00589,10/2/2021,2:21,Frederick,No Injury,Snow,Dry,Daylight,2,30,RPT373441,OFF3466,Blue
+BUS00631,12/1/2018,11:14,Baltimore,possible injury,Clear,Ice,Daylight,2,35,RPT649395,OFF6345,Red
+BUS00112,10/5/2020,18:38,Baltimore,Evident Injury,Rain,Dry,Dawn,2,45,RPT384303,OFF7853,Red
+BUS00227,7/15/2022,23:10,Baltimore,No Injury,,Ice,Dusk,1,45,RPT293757,OFF7286,Green
+BUS00579,9/11/2018,14:06,Charles,Evident Injury,Rain,Dry,Other,4,30,RPT312994,OFF4287,Blue
+BUS00104,9/7/2018,23:20,Carroll,No Injury,Clear,Dry,Dawn,3,30,RPT787836,OFF7932,Yellow
+BUS00422,2/18/2020,19:16,Montgomery,No Injury,Clear,Snow,Dark-No Street Lights,1,30,RPT722795,OFF2420,Black
+BUS00420,7/31/2020,19:51,Carroll,No Injury,Clear,Snow,Dark-Street Lights On,2,50,RPT170559,OFF8248,Black
+BUS00120,10/25/2018,0:29,Charles,Evident Injury,Rain,Wet,Dark-Street Lights On,1,30,RPT715336,OFF6816,Blue
+BUS00054,3/12/2019,20:19,Prince George's,Possible Injury,Clear,Ice,Dark-Street Lights Off,2,35,RPT808699,OFF5123,Red
+BUS00152,8/16/2022,0:11,Carroll,No Injury,Sleet/Hail,Wet,Dark-No Street Lights,2,40,RPT777273,OFF8460,White
+BUS00404,9/13/2020,15:58,Howard,No Injury,Clear,Dry,Daylight,2,25,RPT462974,OFF6133,Green
+BUS00778,8/28/2023,14:48,Harford,No Injury,Clear,Dry,Daylight,3,55,RPT246748,OFF9035,Yellow
+BUS00208,10/9/2020,20:17,Baltimore,No Injury,Clear,Wet,Dark-Street Lights On,2,45,RPT929179,OFF6700,Black
+BUS00698,12/24/2022,2:36,Howard,No Injury,Clear,Wet,Daylight,2,45,RPT525750,OFF3007,Black
+BUS00637,7/23/2019,22:30,Prince George's,Possible Injury,Rain,Dry,Dark-Street Lights On,4,30,RPT800674,OFF4321,Black
+BUS00009,2/13/2021,0:48,Harford,Fatal Injury,Clear,Snow,Dark-Street Lights On,2,30,RPT982027,OFF1085,Green
+BUS00671,2/22/2020,9:22,Baltimore,Possible Injury,Clear,Dry,Dark-Street Lights On,1,55,RPT388086,OFF3848,Green
+BUS00037,2/23/2023,4:16,Charles,Possible Injury,Cloudy,Dry,Daylight,2,30,RPT840058,OFF7237,Green
+BUS00453,2/10/2019,15:39,Montgomery,No Injury,Clear,Ice,Dark-Street Lights Off,1,40,RPT436241,OFF1197,Blue
+BUS00254,5/11/2019,18:50,Harford,No Injury,Clear,Unknown,Dawn,1,30,RPT421709,OFF3740,Black
+BUS00304,8/8/2018,4:09,Howard,No Injury,Clear,Dry,Daylight,2,45,RPT674251,OFF5794,White
+BUS00623,10/15/2023,3:18,Montgomery,No Injury,Unknown,Wet,Daylight,2,45,RPT246757,OFF2020,Red
+BUS00572,1/26/2023,1:03,Washington,,Rain,Snow,Daylight,1,30,RPT203398,OFF5625,Yellow
+BUS00596,3/23/2022,20:50,Charles,Fatal Injury,Clear,Dry,DARK-STREET LIGHTS ON,2,25,RPT259814,OFF1157,Blue
+BUS00604,4/26/2021,3:32,Baltimore,No Injury,Clear,Dry,Dark-Street Lights Off,2,30,RPT623555,OFF4902,Yellow
+BUS00263,11/8/2023,20:17,Frederick,Possible Injury,Cloudy,Dry,Daylight,2,30,RPT223119,OFF5729,Red
+BUS00298,2/20/2018,18:18,Frederick,Evident Injury,Rain,dry,Daylight,3,35,RPT479358,OFF6747,Blue
+BUS00415,1/10/2022,18:18,Anne Arundel,No Injury,Snow,Wet,Dark-Street Lights On,2,50,RPT744793,OFF8210,Red
+BUS00151,10/28/2019,5:56,Baltimore,No Injury,Clear,Dry,Dark-No Street Lights,2,30,RPT399279,OFF6620,Yellow
+BUS00656,4/10/2023,1:40,Howard,Possible Injury,Clear,Dry,Daylight,2,35,RPT768706,OFF2481,Red
+BUS00733,11/18/2021,16:57,Baltimore,No Injury,Snow,Sand/Mud/Dirt,Daylight,1,25,RPT999636,OFF1319,Red
+BUS00551,12/5/2019,19:29,Frederick,Fatal Injury,Clear,Wet,Dark-Street Lights On,2,40,RPT829417,OFF3932,Red
+BUS00489,12/14/2023,9:29,Anne Arundel,Possible Injury,Clear,Dry,Daylight,2,35,RPT664058,OFF9788,White
+BUS00148,12/19/2021,,Charles,No Injury,Clear,Dry,Dusk,2,40,RPT892630,OFF3321,Blue
+BUS00147,10/19/2020,21:06,Charles,No Injury,Clear,Dry,,1,45,RPT309144,OFF2901,Red
+BUS00605,11/27/2023,1:42,Carroll,Evident Injury,Rain,Wet,Dark-Street Lights On,2,35,RPT677390,OFF7878,Green
+BUS00767,1/4/2019,12:32,Charles,Fatal Injury,Snow,Dry,Daylight,2,50,RPT352153,OFF4875,Black
+BUS00618,N/A,13:10,Prince George's,Possible Injury,,WET,Dark-Street Lights On,2,40,RPT276405,OFF2565,Black
+BUS00349,1/5/2018,,Prince George's,No Injury,Cloudy,Dry,Dark-No Street Lights,2,50,RPT544278,OFF6533,White
+BUS00464,9/28/2021,7:08,Harford,Possible Injury,Clear,Dry,Dark-Street Lights Off,2,40,RPT683761,OFF1273,Blue
+BUS00326,9/2/2018,5:50,Washington,Possible Injury,Snow,Ice,Dark-Street Lights On,2,35,RPT575458,OFF2237,Red
+BUS00187,11/27/2019,21:05,Howard,Fatal Injury,Clear,Dry,Dark-Street Lights On,2,30,RPT649787,OFF7370,Red
+BUS00124,10/9/2018,7:23,Carroll,No Injury,Cloudy,Dry,Daylight,3,50,RPT802371,OFF6432,White
+BUS00704,4/28/2019,8:49,Frederick,Evident Injury,CLEAR,Wet,Daylight,2,55,RPT414546,OFF7471,Yellow
+BUS00144,8/30/2019,13:08,Carroll,possible injury,Clear,Ice,Dark-Street Lights On,1,30,RPT598807,OFF5840,Yellow
+BUS00789,10/13/2023,4:20,Carroll,Possible Injury,Fog/Smog/Smoke,Dry,Daylight,2,45,RPT343420,OFF4300,Green
+BUS00198,1/23/2018,3:49,Anne Arundel,No Injury,Fog/Smog/Smoke,Other,Other,3,55,RPT270387,OFF4228,Green
+BUS00280,6/26/2020,12:44,Carroll,Possible Injury,Clear,Wet,Daylight,2,35,RPT593699,OFF5055,Red
+BUS00294,12/28/2023,4:17,Baltimore,Possible Injury,Sleet/Hail,Dry,Daylight,2,30,RPT651033,OFF3281,Black
+BUS00401,1/8/2020,5:11,Howard,Possible Injury,Rain,Dry,Dark-Street Lights On,4,30,RPT340820,OFF2463,Red
+BUS00123,6/27/2019,11:56,Baltimore,No Injury,Fog/Smog/Smoke,Dry,Daylight,4,45,RPT153231,OFF7547,White
+BUS00184,8/12/2021,14:28,Montgomery,Evident Injury,Snow,Dry,Dark-Street Lights Off,2,35,RPT576419,OFF4232,Yellow
+BUS00203,12/16/2023,17:38,Charles,Fatal Injury,Clear,Ice,Daylight,2,40,RPT853504,OFF9646,Red
+BUS00439,2/6/2023,11:43,Anne Arundel,Evident Injury,Clear,Wet,Dusk,2,45,RPT159185,OFF9482,Black
+BUS00247,4/15/2019,,Montgomery,Possible Injury,Clear,Dry,Daylight,1,35,RPT477017,OFF9281,Red
+BUS00416,4/24/2021,0:53,Howard,No Injury,Clear,Dry,Daylight,1,40,RPT903265,OFF6753,Green
+BUS00732,8/14/2021,22:14,Prince George's,No Injury,,Dry,Daylight,3,30,RPT693343,OFF9907,Yellow
+BUS00130,3/15/2019,23:35,Carroll,No Injury,Clear,,Daylight,1,0,RPT205065,OFF4637,White
+BUS00403,4/16/2022,19:43,Carroll,Possible Injury,Clear,Other,Daylight,2,35,RPT583000,OFF2690,Blue
+BUS00652,12/17/2018,16:23,Prince George's,No Injury,Clear,,Daylight,2,25,RPT578160,OFF6051,Red
+BUS00642,3/26/2021,7:19,Frederick,Evident Injury,Clear,Wet,Daylight,2,25,RPT244170,OFF3693,Blue
+BUS00752,10/25/2021,19:09,Prince George's,No Injury,Clear,WET,Dark-No Street Lights,2,35,RPT991737,OFF9674,Yellow
+BUS00220,3/22/2018,18:24,Harford,Possible Injury,Cloudy,Snow,Dark-No Street Lights,2,40,RPT548479,OFF3999,Red
+BUS00754,11/15/2021,12:08,Frederick,Possible Injury,Clear,Ice,Dark-Street Lights On,2,40,RPT116418,OFF4813,Black
+BUS00734,3/9/2021,2:16,Charles,No Injury,Other,Dry,,2,120,RPT199994,OFF7266,Green
+BUS00757,3/26/2023,3:17,Montgomery,Possible Injury,Clear,Wet,Dusk,2,30,RPT251195,OFF5060,Yellow
+BUS00625,1/15/2023,16:09,Montgomery,Possible Injury,Rain,Dry,daylight,4,35,RPT673095,OFF3141,White
+BUS00695,2/9/2022,11:24,Montgomery,No Injury,Clear,Dry,Daylight,2,30,RPT516176,OFF3110,Black
+BUS00636,4/20/2023,22:53,Harford,No Injury,,Wet,,2,25,RPT957730,OFF2223,Red
+BUS00387,12/21/2020,10:39,Howard,Fatal Injury,Clear,Dry,Daylight,3,45,RPT333507,OFF3174,Red
+BUS00378,7/27/2021,23:30,Prince George's,No Injury,Unknown,,Daylight,2,40,RPT764926,OFF2188,Yellow
+BUS00510,3/20/2019,11:54,Charles,No Injury,Clear,Dry,Daylight,2,45,RPT313214,OFF9133,Yellow
+BUS00268,3/19/2023,18:39,Anne Arundel,Evident Injury,Rain,Dry,Daylight,2,30,RPT331577,OFF2854,Black
+BUS00681,1/10/2020,17:18,Prince George's,Fatal Injury,Clear,Dry,Dark-Street Lights On,2,45,RPT287974,OFF1195,Red
+BUS00442,8/15/2020,15:01,Prince George's,EVIDENT INJURY,Cloudy,Dry,Dark-Street Lights On,2,45,RPT403314,OFF7418,Green
+BUS00497,3/14/2022,4:43,Carroll,Evident Injury,Clear,Wet,Daylight,2,25,RPT251363,OFF5005,Blue
+BUS00113,6/12/2018,19:05,Howard,Possible Injury,Rain,Dry,Daylight,2,50,RPT689318,OFF9907,Blue
+BUS00233,3/7/2023,5:03,Prince George's,Evident Injury,Clear,Dry,Dark-Street Lights Off,3,40,RPT373453,OFF3733,Green
+BUS00719,2/20/2022,14:51,Howard,No Injury,Rain,Dry,Dark-No Street Lights,2,45,RPT599127,OFF5835,White
+BUS00608,1/11/2020,22:49,Harford,EVIDENT INJURY,Rain,Wet,Dark-Street Lights Off,3,55,RPT453961,OFF3332,White
+BUS00374,3/26/2022,14:59,Baltimore,Possible Injury,,dry,,2,30,RPT815894,OFF7092,Red
+BUS00234,12/1/2020,12:20,Montgomery,EVIDENT INJURY,Clear,Dry,Daylight,1,120,RPT502206,OFF9022,Black
+BUS00653,10/5/2018,16:34,Charles,Possible Injury,Clear,Ice,Daylight,2,25,RPT491329,OFF8591,Red
+BUS00318,4/9/2023,9:02,Harford,possible injury,Clear,Dry,Daylight,3,40,RPT851742,OFF5055,Blue
+BUS00411,10/4/2022,,Frederick,No Injury,Clear,Snow,Daylight,2,30,RPT133782,OFF2120,Black
+BUS00741,10/14/2021,18:02,Anne Arundel,No Injury,Clear,Wet,DARK-STREET LIGHTS ON,2,30,RPT598598,OFF6269,White
+BUS00359,4/10/2019,14:07,Frederick,Possible Injury,Clear,Ice,Dark-Street Lights Off,3,30,RPT528728,OFF3035,Blue
+BUS00259,9/17/2022,15:06,Charles,Evident Injury,Fog/Smog/Smoke,Dry,Other,2,45,RPT837733,OFF1535,White
+BUS00628,12/2/2021,0:26,Baltimore,Possible Injury,Rain,Dry,Dark-Street Lights Off,2,40,RPT668471,OFF5276,Green
+BUS00633,2/10/2019,22:41,Charles,Evident Injury,Snow,Snow,daylight,2,65,RPT979827,OFF8417,Green
+BUS00283,12/15/2023,,Frederick,No Injury,Clear,Snow,Dark-Street Lights On,2,25,RPT940952,OFF8368,Blue
+BUS00377,8/14/2020,13:02,Anne Arundel,Fatal Injury,Clear,,Daylight,2,45,RPT239449,OFF7493,Green
+BUS00385,8/14/2019,13:55,Carroll,Evident Injury,Rain,Wet,,3,25,RPT233533,OFF8812,Black
+BUS00225,1/22/2021,13:31,Carroll,Evident Injury,Clear,Snow,Dark-Street Lights On,1,55,RPT801765,OFF7852,Green
+BUS00784,9/17/2023,12:32,Washington,Fatal Injury,Rain,Dry,Daylight,3,35,RPT881667,OFF1326,White
+BUS00677,7/26/2023,22:31,Anne Arundel,No Injury,Unknown,Snow,Daylight,2,30,RPT831758,OFF8570,Blue
+BUS00473,8/19/2021,0:11,Washington,No Injury,Clear,Wet,Dark-Street Lights On,4,35,RPT149161,OFF5693,Red
+BUS00348,7/14/2022,16:52,Carroll,No Injury,Rain,,Dawn,2,40,RPT147489,OFF5646,Red
+BUS00506,3/24/2021,19:19,Frederick,Evident Injury,Clear,Dry,Daylight,1,30,RPT240606,OFF1207,Yellow
+BUS00640,6/2/2020,4:35,Harford,No Injury,Rain,Wet,Dark-Street Lights On,2,35,RPT106693,OFF3546,Blue
+BUS00334,4/16/2018,2:14,Carroll,Possible Injury,Snow,Wet,Dark-No Street Lights,1,40,RPT792764,OFF6846,Black
+BUS00765,3/28/2023,15:56,Washington,Evident Injury,Unknown,Other,Dark-No Street Lights,3,45,RPT270341,OFF3846,Red
+BUS00746,4/1/2021,,Prince George's,Possible Injury,Clear,Dry,Daylight,1,45,RPT393992,OFF6224,Yellow
+BUS00620,10/21/2020,,Charles,Possible Injury,Sleet/Hail,Wet,,2,30,RPT933592,OFF3187,Black
+BUS00706,5/28/2020,,Prince George's,Evident Injury,Clear,Wet,Daylight,2,25,RPT968286,OFF1483,Black
+BUS00646,8/10/2023,19:34,Howard,Evident Injury,Clear,Dry,daylight,2,40,RPT171269,OFF7660,Black
+BUS00699,7/18/2019,16:23,Prince George's,No Injury,Clear,Dry,Daylight,2,40,RPT581294,OFF1699,Green
+BUS00557,11/20/2019,2:32,Montgomery,Fatal Injury,Clear,,DARK-STREET LIGHTS ON,4,30,RPT678897,OFF7819,Red
+BUS00578,5/3/2023,16:09,Baltimore,No Injury,Fog/Smog/Smoke,Snow,,1,55,RPT435788,OFF7044,Black
+BUS00086,8/11/2022,14:55,Harford,Evident Injury,Snow,Snow,Dark-Street Lights On,2,35,RPT227794,OFF6980,White
+BUS00243,9/4/2020,4:30,Anne Arundel,No Injury,Rain,dry,Daylight,2,30,RPT700705,OFF8939,White
+BUS00160,6/21/2022,10:17,Harford,Possible Injury,Clear,Dry,Dark-No Street Lights,2,30,RPT874568,OFF8412,Blue
+BUS00525,8/21/2021,18:38,Carroll,Possible Injury,Clear,Dry,Daylight,2,45,RPT806396,OFF2046,Green
+BUS00036,8/7/2023,12:56,Howard,Evident Injury,,Other,Daylight,2,25,RPT165306,OFF3778,Red
+BUS00541,10/30/2022,5:08,Frederick,No Injury,Clear,Dry,Dark-Street Lights On,2,25,RPT417915,OFF9336,Blue
+BUS00171,3/18/2020,11:27,Baltimore,No Injury,Snow,Slush,Daylight,2,35,RPT926236,OFF9454,White
+BUS00655,3/25/2018,12:55,Montgomery,No Injury,Fog/Smog/Smoke,Dry,Daylight,1,30,RPT747847,OFF2964,White
+BUS00708,7/10/2019,2:28,Baltimore,Possible Injury,Sleet/Hail,Slush,Dawn,2,40,RPT184532,OFF7990,Yellow
+BUS00786,7/16/2019,22:21,Baltimore,No Injury,Cloudy,Other,Daylight,1,45,RPT156304,OFF8831,White
+BUS00777,3/28/2021,2:24,Anne Arundel,No Injury,Snow,Wet,Dark-Street Lights Off,2,25,RPT875679,OFF3876,Black
+BUS00096,8/26/2020,5:26,Washington,Possible Injury,Clear,Wet,Daylight,3,30,RPT253591,OFF2133,Blue
+BUS00564,7/17/2023,14:48,Frederick,Evident Injury,Clear,WET,Daylight,2,35,RPT780233,OFF1862,Green
+BUS00241,5/8/2018,7:12,Baltimore,Possible Injury,Rain,Dry,Dark-No Street Lights,2,35,RPT710754,OFF6882,White
+BUS00575,9/8/2023,12:29,Charles,Evident Injury,Fog/Smog/Smoke,Ice,Daylight,2,25,RPT592296,OFF2415,Blue
+BUS00461,2/6/2023,2:42,Carroll,No Injury,Cloudy,Ice,Daylight,2,30,RPT415098,OFF3830,Yellow
+BUS00554,6/29/2022,16:05,Montgomery,Evident Injury,clear,Unknown,Dawn,2,25,RPT314447,OFF4678,Red
+BUS00735,3/15/2020,20:35,Carroll,No Injury,Clear,Snow,Daylight,2,35,RPT653815,OFF6883,Red
+BUS00207,4/29/2023,14:16,Anne Arundel,No Injury,Rain,Dry,Dark-Street Lights On,2,35,RPT453487,OFF2871,Blue
+BUS00393,3/23/2021,7:47,Montgomery,Fatal Injury,Rain,Dry,Dark-Street Lights On,2,30,RPT585494,OFF6629,Black
+BUS00398,1/8/2022,11:27,Frederick,Possible Injury,,Wet,Daylight,2,25,RPT657772,OFF2160,White
+BUS00767,1/4/2019,12:32,Charles,Fatal Injury,Snow,Dry,Daylight,2,50,RPT936821,OFF3086,Black
+BUS00218,3/24/2023,,Carroll,Possible Injury,,Dry,Dark-No Street Lights,2,40,RPT525187,OFF6003,Green
+BUS00005,5/11/2018,0:05,Carroll,No Injury,,Wet,Dark-Street Lights On,2,25,RPT759580,OFF6188,White
+BUS00643,5/15/2019,1:15,Montgomery,possible injury,Clear,Dry,Dark-Street Lights On,2,35,RPT983472,OFF8365,White
+BUS00740,9/24/2019,5:42,Harford,Possible Injury,Clear,Dry,Dark-Street Lights On,2,45,RPT694316,OFF9231,Green
+BUS00613,1/13/2023,7:34,Washington,Possible Injury,Snow,Slush,Dark-Street Lights On,1,50,RPT858705,OFF9515,Red
+BUS00547,7/6/2021,18:27,Washington,possible injury,CLEAR,Wet,Dark-Street Lights On,3,25,RPT883159,OFF8729,Black
+BUS00684,6/9/2021,14:38,Washington,Fatal Injury,Clear,Dry,Daylight,3,45,RPT649857,OFF3141,White
+BUS00099,4/2/2022,0:24,Charles,Evident Injury,Clear,Wet,Dark-No Street Lights,2,40,RPT401602,OFF3280,Green
+BUS00574,1/5/2019,19:38,Harford,No Injury,Clear,Snow,Dusk,3,35,RPT857505,OFF6362,White
+BUS00407,2/8/2018,14:57,Baltimore,Fatal Injury,,Ice,DARK-STREET LIGHTS ON,2,30,RPT297636,OFF3246,Blue
+BUS00503,2021/99/01,21:07,Montgomery,Evident Injury,Clear,Sand/Mud/Dirt,Daylight,2,45,RPT536740,OFF6067,Black
+BUS00048,4/15/2019,21:56,Anne Arundel,,Rain,Wet,DARK-STREET LIGHTS ON,2,30,RPT281594,OFF5521,Blue
+BUS00033,5/12/2018,10:25,Howard,No Injury,Fog/Smog/Smoke,Dry,Daylight,3,40,RPT989587,OFF2387,Yellow
+BUS00201,10/17/2020,3:29,Frederick,Possible Injury,Snow,Dry,Dusk,4,55,RPT779776,OFF5298,Yellow
+BUS00135,10/25/2020,1:05,Prince George's,Fatal Injury,Clear,Wet,DARK-STREET LIGHTS ON,1,25,RPT205428,OFF7129,Black
+BUS00028,12/2/2019,17:46,Baltimore,No Injury,Fog/Smog/Smoke,Wet,Dark-Street Lights On,2,40,RPT530311,OFF7311,Yellow
+BUS00739,11/22/2019,18:37,Anne Arundel,No Injury,Clear,Ice,Daylight,1,30,RPT825916,OFF6636,White
+BUS00231,4/22/2018,2:41,Anne Arundel,Evident Injury,Rain,Wet,Dark-Street Lights Off,3,35,RPT360096,OFF9804,Green
+BUS00490,9/2/2023,19:27,Prince George's,No Injury,Clear,Dry,Daylight,2,25,RPT596520,OFF6353,White
+BUS00379,4/11/2022,12:42,Washington,No Injury,Snow,Wet,Daylight,2,55,RPT464663,OFF4836,Red
+BUS00289,6/7/2023,8:46,Montgomery,No Injury,Clear,Dry,Daylight,3,35,RPT813390,OFF4882,Green
+BUS00419,7/28/2023,9:49,Howard,Possible Injury,Rain,Ice,Daylight,3,25,RPT316092,OFF7745,Blue
+BUS00675,6/27/2022,23:28,Montgomery,No Injury,Clear,Wet,Daylight,1,35,RPT626611,OFF5093,Green
+BUS00392,10/8/2018,7:40,Howard,Possible Injury,clear,Dry,Dark-Street Lights Off,4,25,RPT412856,OFF1132,Black
+BUS00593,8/3/2019,11:19,Baltimore,Evident Injury,Blowing Snow,Dry,Daylight,3,35,RPT854987,OFF4817,Red
+BUS00499,2021/99/01,2:27,Charles,,Clear,Snow,Other,3,50,RPT585517,OFF8118,Blue
+BUS00139,10/24/2019,23:28,Frederick,Possible Injury,Snow,Dry,Daylight,2,35,RPT105433,OFF3469,Yellow
+BUS00063,12/17/2018,23:31,Prince George's,Possible Injury,Clear,Dry,Dawn,2,35,RPT607699,OFF7483,Black
+BUS00472,1/7/2022,7:37,Anne Arundel,Evident Injury,Clear,Wet,Daylight,2,30,RPT619696,OFF9300,Blue
+BUS00648,9/17/2020,22:09,Charles,Evident Injury,Clear,Ice,,1,25,RPT258366,OFF9780,Blue
+BUS00129,7/5/2019,8:07,Carroll,Possible Injury,Clear,Snow,Daylight,2,50,RPT155040,OFF5239,White
+BUS00787,4/25/2023,16:29,Carroll,No Injury,Clear,Snow,daylight,2,35,RPT572436,OFF2655,Black
+BUS00521,5/6/2018,2:47,Anne Arundel,Evident Injury,Other,Dry,Dark-Street Lights Off,3,65,RPT299734,OFF6488,Green
+BUS00065,5/31/2019,4:42,Prince George's,No Injury,Rain,Snow,,2,35,RPT358494,OFF7224,Black
+BUS00015,12/19/2020,1:46,Frederick,No Injury,Sleet/Hail,Dry,,2,45,RPT133104,OFF3170,White
+BUS00157,3/28/2020,14:22,Montgomery,Evident Injury,Clear,Wet,Daylight,2,50,RPT702022,OFF8801,Red
+BUS00041,1/22/2022,7:08,Charles,Fatal Injury,Clear,Dry,Daylight,2,40,RPT688132,OFF5933,Green
+BUS00493,7/24/2020,13:21,Harford,No Injury,Rain,Other,Daylight,1,40,RPT336290,OFF6081,Red
+BUS00380,9/16/2019,15:02,Baltimore,Evident Injury,Clear,Sand/Mud/Dirt,daylight,2,40,RPT224395,OFF8032,White
+BUS00188,3/8/2021,16:42,Washington,Evident Injury,Clear,Dry,Dark-Street Lights On,2,35,RPT617904,OFF1072,Black
+BUS00217,7/28/2022,10:34,Harford,Evident Injury,Cloudy,Snow,Daylight,2,35,RPT769752,OFF4908,Red
+BUS00053,1/2/2020,16:58,Anne Arundel,Possible Injury,Rain,Wet,Dark-Street Lights On,2,30,RPT471496,OFF6916,Green
+BUS00338,12/17/2022,8:11,Charles,possible injury,Clear,Dry,Dark-No Street Lights,2,25,RPT858414,OFF6869,Green
+BUS00720,6/16/2019,19:56,Anne Arundel,No Injury,,Dry,Daylight,2,25,RPT158840,OFF9173,Black
+BUS00725,5/29/2019,10:41,Montgomery,Evident Injury,Clear,Snow,Daylight,1,40,RPT186702,OFF5583,White
+BUS00296,4/11/2021,22:08,Montgomery,Evident Injury,Snow,Dry,Daylight,2,35,RPT653829,OFF4390,Black
+BUS00702,4/17/2018,23:11,Frederick,possible injury,Fog/Smog/Smoke,Wet,DARK-STREET LIGHTS ON,2,35,RPT831105,OFF3752,Red
+BUS00252,9/21/2020,3:44,Anne Arundel,possible injury,Cloudy,Dry,Daylight,2,30,RPT223967,OFF8272,White
+BUS00727,10/21/2023,11:08,Harford,Possible Injury,Fog/Smog/Smoke,Dry,Dark-Street Lights On,3,50,RPT986392,OFF3248,Green
+BUS00462,5/18/2020,20:40,Montgomery,Possible Injury,Cloudy,Wet,Daylight,2,40,RPT388519,OFF8717,Blue
+BUS00456,12/27/2022,7:54,Washington,No Injury,Rain,Snow,Other,2,-5,RPT250219,OFF3162,White
+BUS00430,2/7/2022,16:32,Prince George's,Possible Injury,Unknown,Dry,Dark-Street Lights Off,1,40,RPT177077,OFF7415,Red
+BUS00270,7/18/2023,10:11,Howard,No Injury,Clear,Dry,Daylight,1,30,RPT240057,OFF5389,Black
+BUS00202,7/1/2019,14:42,Montgomery,EVIDENT INJURY,Clear,Dry,Dark-Street Lights On,3,40,RPT369761,OFF9019,Red
+BUS00162,9/18/2023,12:43,Harford,No Injury,Clear,Wet,Dark-Street Lights On,3,45,RPT991638,OFF2100,White
+BUS00556,10/22/2021,7:21,Anne Arundel,Possible Injury,Clear,Dry,Other,2,30,RPT350956,OFF5067,Black
+BUS00730,5/24/2019,16:09,Frederick,Possible Injury,Clear,Dry,Daylight,2,50,RPT922478,OFF9614,Blue
+BUS00402,11/20/2018,19:55,Montgomery,Evident Injury,Clear,Wet,Daylight,2,30,RPT359535,OFF2678,Red
+BUS00703,8/7/2023,16:24,Prince George's,No Injury,Other,Dry,Dark-No Street Lights,1,40,RPT336828,OFF8096,Red
+BUS00477,1/22/2022,16:37,Anne Arundel,No Injury,Clear,,Dark-No Street Lights,3,30,RPT499669,OFF7590,Blue
+BUS00106,5/7/2023,16:58,Howard,,Sleet/Hail,Wet,Dawn,2,30,RPT883641,OFF2211,Blue
+BUS00566,00-00-0000,20:20,Washington,,Cloudy,Dry,Dusk,1,40,RPT423404,OFF4656,Black
+BUS00390,12/26/2023,12:20,Carroll,Possible Injury,Clear,Ice,Daylight,3,45,RPT892911,OFF8291,Green
+BUS00002,1/31/2021,7:14,Anne Arundel,No Injury,,Dry,,2,45,RPT603787,OFF7225,White
+BUS00772,2/3/2018,3:27,Anne Arundel,,Other,Dry,Other,2,30,RPT809922,OFF3328,Black
+BUS00562,12/12/2019,19:09,Frederick,Evident Injury,Sleet/Hail,Wet,Daylight,2,25,RPT588899,OFF2956,White
+BUS00081,6/26/2019,23:59,Carroll,No Injury,Rain,Dry,daylight,2,35,RPT687713,OFF4971,Green
+BUS00206,1/1/2023,5:47,Anne Arundel,Possible Injury,Rain,Wet,Daylight,2,40,RPT872399,OFF7431,Blue
+BUS00035,7/12/2021,6:41,Carroll,EVIDENT INJURY,Clear,,Daylight,2,30,RPT862736,OFF9537,White
+BUS00509,5/30/2023,7:54,Anne Arundel,No Injury,Clear,Sand/Mud/Dirt,Dark-Street Lights On,2,30,RPT367382,OFF3684,Black
+BUS00428,8/29/2022,5:12,Howard,No Injury,Snow,Snow,DARK-STREET LIGHTS ON,2,25,RPT151040,OFF8035,Yellow
+BUS00455,2/26/2022,6:28,Harford,No Injury,Sleet/Hail,Dry,Dark-Street Lights On,3,55,RPT416422,OFF6185,Blue
+BUS00367,7/14/2019,2:17,Harford,EVIDENT INJURY,Clear,,Daylight,3,40,RPT540781,OFF5945,White
+BUS00092,1/22/2020,8:29,Montgomery,Possible Injury,Clear,,Daylight,3,40,RPT958130,OFF8563,Green
+BUS00340,7/8/2023,2:30,Washington,Possible Injury,Clear,,Daylight,2,30,RPT515182,OFF9756,Red
+BUS00565,1/13/2023,21:59,Carroll,,Clear,WET,Daylight,2,30,RPT476710,OFF3938,Red
+BUS00346,2/6/2023,2:20,Harford,Possible Injury,Clear,Wet,Dark-No Street Lights,2,55,RPT706403,OFF5399,Green
+BUS00242,3/25/2018,19:09,Baltimore,Possible Injury,clear,WET,Daylight,2,35,RPT857997,OFF1157,Red
+BUS00014,1/10/2022,11:38,Baltimore,Possible Injury,Clear,WET,Dark-Street Lights Off,2,30,RPT353961,OFF2674,White
+BUS00316,10/4/2019,0:26,Washington,No Injury,Clear,Ice,Daylight,3,40,RPT813341,OFF3396,Red
+BUS00601,1/9/2020,6:21,Howard,No Injury,Rain,Dry,Dark-Street Lights On,2,35,RPT697467,OFF2703,Yellow
+BUS00388,6/17/2022,,Washington,Possible Injury,Clear,Wet,Daylight,4,25,RPT975373,OFF4705,White
+BUS00274,10/18/2023,6:05,Carroll,No Injury,Rain,Dry,Dawn,1,30,RPT884056,OFF1681,Yellow
+BUS00167,7/8/2021,13:38,Washington,Evident Injury,Clear,Wet,Daylight,1,35,RPT284327,OFF6620,White
+BUS00463,3/29/2018,1:50,Washington,Possible Injury,Cloudy,Dry,Daylight,2,30,RPT409727,OFF5825,Black
+BUS00647,3/9/2018,20:32,Washington,No Injury,,Dry,Daylight,2,35,RPT841521,OFF2978,Green
+BUS00485,11/27/2018,10:38,Harford,Evident Injury,Clear,Sand/Mud/Dirt,Dark-Street Lights On,2,30,RPT414455,OFF2294,White
+BUS00613,1/13/2023,7:34,Washington,Possible Injury,Snow,Slush,Dark-Street Lights On,1,50,RPT679902,OFF3235,White
+BUS00505,9/29/2022,23:03,Charles,Possible Injury,Rain,Dry,Daylight,2,35,RPT655736,OFF2956,Black
+BUS00244,4/14/2019,18:13,Harford,Possible Injury,Rain,Wet,Daylight,2,35,RPT111991,OFF3236,White
+BUS00567,9/11/2019,14:04,Washington,No Injury,Clear,Ice,Dark-Street Lights On,3,40,RPT374267,OFF9450,Red
+BUS00563,11/5/2018,5:49,Baltimore,No Injury,Unknown,Dry,Dawn,1,30,RPT659572,OFF9225,Yellow
+BUS00687,6/23/2018,23:55,Frederick,No Injury,Other,Dry,Daylight,2,40,RPT301255,OFF7098,Red
+BUS00190,8/20/2020,,Carroll,No Injury,Clear,Other,Daylight,1,40,RPT992400,OFF4371,Black
+BUS00783,8/14/2019,6:38,Prince George's,No Injury,Clear,Dry,Dark-Street Lights On,1,45,RPT625119,OFF4584,Red
+BUS00700,6/19/2022,,Baltimore,Evident Injury,CLEAR,Dry,Daylight,3,55,RPT692447,OFF8552,Green
+BUS00476,9/18/2018,15:28,Harford,Fatal Injury,Clear,Wet,Dark-Street Lights On,2,30,RPT803953,OFF7939,Yellow
+BUS00682,8/8/2021,3:05,Harford,Possible Injury,Other,Dry,Other,2,40,RPT212214,OFF2010,Red
+BUS00511,2/14/2022,3:48,Baltimore,No Injury,Clear,Wet,Daylight,1,35,RPT446305,OFF6680,Yellow
+BUS00059,8/20/2021,15:01,Frederick,No Injury,Blowing Snow,Dry,Daylight,2,30,RPT942690,OFF2752,Red
+BUS00475,9/21/2022,16:07,Prince George's,Evident Injury,Sleet/Hail,Wet,Daylight,2,40,RPT774565,OFF7806,Blue
+BUS00561,8/23/2019,8:12,Anne Arundel,No Injury,Clear,Dry,Dawn,2,50,RPT499152,OFF7108,Blue
+BUS00748,7/22/2022,,Baltimore,No Injury,Clear,Dry,Daylight,4,40,RPT690882,OFF1480,Black
+BUS00253,5/20/2021,21:38,Frederick,possible injury,Snow,Wet,Dark-Street Lights Off,2,25,RPT588002,OFF9006,Green
+BUS00022,8/11/2020,3:24,Montgomery,possible injury,Clear,Dry,Daylight,3,45,RPT428930,OFF2692,Yellow
+BUS00314,11/29/2018,5:15,Washington,No Injury,Clear,Dry,,1,35,RPT563303,OFF3174,Black
+BUS00460,2/4/2021,6:07,Baltimore,Possible Injury,Rain,Dry,Dusk,2,50,RPT533649,OFF9951,Black
+BUS00161,10/12/2018,8:22,Frederick,Evident Injury,Clear,Snow,Daylight,2,25,RPT858243,OFF6225,Green
+BUS00277,9/11/2020,22:30,Montgomery,EVIDENT INJURY,Clear,Unknown,,2,50,RPT536045,OFF4580,White
+BUS00192,4/11/2018,1:15,Carroll,No Injury,Other,Dry,Daylight,1,40,RPT590755,OFF2025,Black
+BUS00386,9/25/2019,2:30,Washington,No Injury,Cloudy,Dry,,1,35,RPT863214,OFF2276,Blue
+BUS00414,8/29/2020,12:36,Montgomery,No Injury,Rain,Dry,daylight,1,35,RPT539605,OFF3688,Blue
+BUS00492,5/30/2020,13:28,Carroll,possible injury,Clear,Wet,Dark-Street Lights On,2,50,RPT990598,OFF2083,Blue
+BUS00344,7/23/2023,9:42,Anne Arundel,No Injury,Clear,Ice,Daylight,2,40,RPT882032,OFF4470,Green
+BUS00770,2/26/2021,15:38,Montgomery,Possible Injury,Snow,Dry,Dark-Street Lights On,3,30,RPT990704,OFF1462,Blue
+BUS00309,2021/99/01,14:19,Carroll,No Injury,Clear,Dry,Dark-Street Lights On,2,40,RPT257131,OFF3221,Black
+BUS00662,12/14/2021,17:21,Frederick,Possible Injury,Clear,Wet,Daylight,2,40,RPT116495,OFF3430,Yellow
+BUS00131,9/29/2019,8:18,Anne Arundel,Fatal Injury,Clear,Dry,daylight,1,55,RPT533377,OFF9366,Red
+BUS00664,5/15/2023,20:11,Howard,possible injury,Clear,Dry,Dark-Street Lights On,3,45,RPT658065,OFF5066,White
+BUS00100,12/22/2020,14:18,Harford,Possible Injury,Clear,Sand/Mud/Dirt,Daylight,3,30,RPT848831,OFF5961,Red
+BUS00373,6/7/2023,11:21,Anne Arundel,No Injury,Clear,Dry,Dawn,1,25,RPT184148,OFF2350,Red
+BUS00088,2/8/2019,1:25,Montgomery,Evident Injury,Rain,Dry,Daylight,2,45,RPT809489,OFF4273,Yellow
+BUS00459,2021/99/01,1:25,Prince George's,Evident Injury,Rain,Dry,Dark-No Street Lights,2,40,RPT331780,OFF6986,Black
+BUS00331,7/16/2023,14:05,Frederick,No Injury,Blowing Snow,Dry,Dark-No Street Lights,4,55,RPT691303,OFF7046,Black
+BUS00215,4/18/2022,22:09,Charles,,Clear,Other,Other,2,40,RPT740632,OFF6131,White
+BUS00467,8/12/2020,10:49,Washington,Fatal Injury,Snow,Dry,DARK-STREET LIGHTS ON,3,35,RPT283640,OFF5295,White
+BUS00122,5/23/2020,16:16,Washington,Evident Injury,Clear,Dry,Dark-Street Lights On,2,30,RPT354235,OFF1725,Yellow
+BUS00615,4/6/2023,6:23,Washington,Possible Injury,Clear,Ice,Daylight,4,35,RPT875520,OFF7102,Black
+BUS00021,7/22/2020,9:05,Howard,No Injury,Rain,Dry,Dark-Street Lights Off,2,35,RPT562462,OFF7685,Red
+BUS00701,2/15/2021,7:07,Carroll,No Injury,Clear,dry,Daylight,2,40,RPT355021,OFF1829,White
+BUS00072,10/21/2023,14:07,Howard,,Rain,Wet,Daylight,2,25,RPT403042,OFF6253,Green
+BUS00107,12/16/2023,5:03,Baltimore,No Injury,,Ice,Daylight,2,40,RPT602351,OFF8357,Red
+BUS00271,6/21/2023,6:22,Anne Arundel,Evident Injury,Rain,Dry,Daylight,2,25,RPT601410,OFF9898,Yellow
+BUS00436,6/16/2022,17:23,Montgomery,No Injury,Fog/Smog/Smoke,,daylight,3,30,RPT327823,OFF1439,Black
+BUS00103,4/30/2021,6:03,Carroll,Possible Injury,CLEAR,Snow,Daylight,2,25,RPT563864,OFF3525,White

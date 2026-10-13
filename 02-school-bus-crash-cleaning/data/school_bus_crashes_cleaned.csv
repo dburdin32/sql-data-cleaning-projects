@@ -1,0 +1,795 @@
+CRASH_ID,CRASH_DATE,CRASH_TIME,CRASH_HOUR,CRASH_MONTH,COUNTY,NUM_VEHICLES,SPEED_LIMIT,INJURY_TYPE,WEATHER,ROAD_SURFACE,LIGHTING,SEASON,TIME_OF_DAY
+BUS00182,1/2/2018 0:00,9:18,9,1,Howard,3,55,No Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00349,1/5/2018 0:00,,,1,Prince George's,2,50,No Injury,Cloudy,Dry,Dark,Winter,Unknown
+BUS00370,1/11/2018 0:00,9:46,9,1,Carroll,4,40,Light Injury,Cloudy,Dry,Daylight,Winter,Daytime
+BUS00137,1/15/2018 0:00,10:49,10,1,Charles,2,55,Light Injury,Clear,Wet,Dark,Winter,Daytime
+BUS00198,1/23/2018 0:00,3:49,3,1,Anne Arundel,3,55,No Injury,Fog,Other,Other,Winter,Nighttime
+BUS00518,1/26/2018 0:00,5:55,5,1,Howard,1,30,Fatal Injury,Rain,Wet,Daylight,Winter,Nighttime
+BUS00076,1/30/2018 0:00,2:45,2,1,Washington,2,30,Light Injury,Clear,Dry,Daylight,Winter,Nighttime
+BUS00537,2/1/2018 0:00,6:19,6,2,Charles,2,35,No Injury,Clear,Ice,Daylight,Winter,Daytime
+BUS00772,2/3/2018 0:00,3:27,3,2,Anne Arundel,2,30,Unknown,Other,Dry,Other,Winter,Nighttime
+BUS00407,2/8/2018 0:00,14:57,14,2,Baltimore,2,30,Fatal Injury,,Ice,Dark-Street Lights On,Winter,Daytime
+BUS00047,2/17/2018 0:00,21:46,21,2,Prince George's,2,50,Light Injury,Clear,Dry,Daylight,Winter,Nighttime
+BUS00298,2/20/2018 0:00,18:18,18,2,Frederick,3,35,Light Injury,Rain,Dry,Daylight,Winter,Daytime
+BUS00095,3/2/2018 0:00,2:59,2,3,Carroll,3,30,Light Injury,Rain,Snow,Dark-Street Lights On,Spring,Nighttime
+BUS00658,3/8/2018 0:00,11:50,11,3,Frederick,3,35,No Injury,Snow,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00647,3/9/2018 0:00,20:32,20,3,Washington,2,35,No Injury,,Dry,Daylight,Spring,Nighttime
+BUS00795,3/10/2018 0:00,11:21,11,3,Charles,1,30,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00279,3/12/2018 0:00,2:18,2,3,Frederick,4,25,No Injury,Clear,,Daylight,Spring,Nighttime
+BUS00600,3/16/2018 0:00,11:19,11,3,Montgomery,4,30,No Injury,Snow,,Dark,Spring,Daytime
+BUS00220,3/22/2018 0:00,18:24,18,3,Harford,2,40,Light Injury,Cloudy,Snow,Dark,Spring,Daytime
+BUS00655,3/25/2018 0:00,12:55,12,3,Montgomery,1,30,No Injury,Fog,Dry,Daylight,Spring,Daytime
+BUS00242,3/25/2018 0:00,19:09,19,3,Baltimore,2,35,Light Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00335,3/26/2018 0:00,21:52,21,3,Washington,3,40,No Injury,,Dry,Daylight,Spring,Nighttime
+BUS00463,3/29/2018 0:00,1:50,1,3,Washington,2,30,Light Injury,Cloudy,Dry,Daylight,Spring,Nighttime
+BUS00159,4/7/2018 0:00,21:12,21,4,Washington,2,30,Unknown,Rain,Dry,Daylight,Spring,Nighttime
+BUS00192,4/11/2018 0:00,1:15,1,4,Carroll,1,40,No Injury,Other,Dry,Daylight,Spring,Nighttime
+BUS00334,4/16/2018 0:00,2:14,2,4,Carroll,1,40,Light Injury,Snow,Wet,Unknown,Spring,Nighttime
+BUS00334,4/16/2018 0:00,2:14,2,4,Carroll,1,40,Light Injury,Snow,Wet,Dark,Spring,Nighttime
+BUS00471,4/16/2018 0:00,4:00,4,4,Carroll,2,35,Light Injury,Rain,Dry,Daylight,Spring,Nighttime
+BUS00702,4/17/2018 0:00,23:11,23,4,Frederick,2,35,Light Injury,Fog,Wet,Dark-Street Lights On,Spring,Nighttime
+BUS00514,4/18/2018 0:00,19:59,19,4,Anne Arundel,2,30,Light Injury,Fog,Dry,Daylight,Spring,Daytime
+BUS00007,4/19/2018 0:00,17:12,17,4,Baltimore,3,40,No Injury,Unknown,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00798,4/20/2018 0:00,19:30,19,4,Washington,4,45,Light Injury,Rain,Dry,Daylight,Spring,Daytime
+BUS00231,4/22/2018 0:00,2:41,2,4,Anne Arundel,3,35,Light Injury,Rain,Wet,Dark,Spring,Nighttime
+BUS00632,4/26/2018 0:00,10:59,10,4,Howard,2,40,Light Injury,Clear,Dry,Dark,Spring,Daytime
+BUS00742,4/27/2018 0:00,2:02,2,4,Harford,3,25,No Injury,Fog,Wet,Daylight,Spring,Nighttime
+BUS00226,4/29/2018 0:00,12:21,12,4,Washington,2,40,No Injury,Rain,Dry,Daylight,Spring,Daytime
+BUS00745,5/5/2018 0:00,,,5,Baltimore,2,35,Light Injury,Clear,Wet,Daylight,Spring,Unknown
+BUS00521,5/6/2018 0:00,2:47,2,5,Anne Arundel,3,65,Light Injury,Other,Dry,Dark,Spring,Nighttime
+BUS00481,5/8/2018 0:00,1:30,1,5,Anne Arundel,1,35,Light Injury,Clear,Wet,Daylight,Spring,Nighttime
+BUS00241,5/8/2018 0:00,7:12,7,5,Baltimore,2,35,Light Injury,Rain,Dry,Dark,Spring,Daytime
+BUS00078,5/9/2018 0:00,10:04,10,5,Charles,3,30,Light Injury,Snow,Snow,Daylight,Spring,Daytime
+BUS00005,5/11/2018 0:00,0:05,0,5,Carroll,2,25,No Injury,,Wet,Dark-Street Lights On,Spring,Nighttime
+BUS00033,5/12/2018 0:00,10:25,10,5,Howard,3,40,No Injury,Fog,Dry,Daylight,Spring,Daytime
+BUS00696,5/13/2018 0:00,19:09,19,5,Carroll,1,30,No Injury,Clear,,Dusk,Spring,Daytime
+BUS00635,6/6/2018 0:00,9:58,9,6,Washington,2,25,No Injury,Clear,Ice,Daylight,Summer,Daytime
+BUS00156,6/8/2018 0:00,15:14,15,6,Howard,2,45,No Injury,Fog,Dry,Daylight,Summer,Daytime
+BUS00582,6/10/2018 0:00,7:45,7,6,Harford,2,40,Light Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00424,6/11/2018 0:00,9:50,9,6,Carroll,2,45,Light Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00113,6/12/2018 0:00,19:05,19,6,Howard,2,50,Light Injury,Rain,Dry,Daylight,Summer,Daytime
+BUS00146,6/13/2018 0:00,11:13,11,6,Montgomery,2,65,No Injury,Snow,Dry,Dark,Summer,Daytime
+BUS00332,6/13/2018 0:00,13:47,13,6,Carroll,2,35,Fatal Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00785,6/14/2018 0:00,1:02,1,6,Harford,2,40,Light Injury,Clear,Dry,Dawn,Summer,Nighttime
+BUS00255,6/18/2018 0:00,11:34,11,6,Anne Arundel,1,35,No Injury,Rain,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00576,6/18/2018 0:00,14:58,14,6,Carroll,2,30,Light Injury,Clear,Wet,Dark,Summer,Daytime
+BUS00145,6/21/2018 0:00,9:23,9,6,Montgomery,1,35,No Injury,Rain,Dry,Daylight,Summer,Daytime
+BUS00545,6/23/2018 0:00,13:01,13,6,Charles,2,35,No Injury,,Wet,Dark,Summer,Daytime
+BUS00545,6/23/2018 0:00,13:01,13,6,Charles,2,35,No Injury,Clear,Wet,Dark,Summer,Daytime
+BUS00687,6/23/2018 0:00,23:55,23,6,Frederick,2,40,No Injury,Other,Dry,Daylight,Summer,Nighttime
+BUS00610,6/28/2018 0:00,13:23,13,6,Harford,2,35,Fatal Injury,Cloudy,Ice,Daylight,Summer,Daytime
+BUS00447,7/5/2018 0:00,1:19,1,7,Baltimore,1,65,Light Injury,Fog,Dry,Dark,Summer,Nighttime
+BUS00775,7/5/2018 0:00,12:03,12,7,Montgomery,2,25,No Injury,Rain,Dry,Dark,Summer,Daytime
+BUS00295,7/6/2018 0:00,,,7,Montgomery,1,50,Light Injury,Clear,Wet,Daylight,Summer,Unknown
+BUS00043,7/12/2018 0:00,3:09,3,7,Washington,3,25,Unknown,Clear,Other,Dark-Street Lights On,Summer,Nighttime
+BUS00672,7/15/2018 0:00,20:21,20,7,Montgomery,1,25,Light Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00418,7/20/2018 0:00,19:47,19,7,Washington,4,25,Fatal Injury,Fog,Dry,Other,Summer,Daytime
+BUS00353,7/31/2018 0:00,6:17,6,7,Baltimore,1,35,No Injury,Clear,Dry,Dark,Summer,Daytime
+BUS00239,8/2/2018 0:00,11:14,11,8,Charles,2,40,No Injury,Clear,Wet,Dark-Street Lights On,Summer,Daytime
+BUS00588,8/3/2018 0:00,20:41,20,8,Howard,2,25,No Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00629,8/7/2018 0:00,12:32,12,8,Frederick,2,40,Light Injury,Fog,Dry,Daylight,Summer,Daytime
+BUS00304,8/8/2018 0:00,4:09,4,8,Howard,2,45,No Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00087,8/10/2018 0:00,21:41,21,8,Baltimore,2,30,Light Injury,Clear,Ice,Daylight,Summer,Nighttime
+BUS00032,8/18/2018 0:00,7:52,7,8,Baltimore,1,25,Unknown,Snow,Slush,Dark-Street Lights On,Summer,Daytime
+BUS00570,8/19/2018 0:00,11:32,11,8,Baltimore,2,35,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00105,8/23/2018 0:00,1:37,1,8,Harford,1,45,No Injury,Clear,,Daylight,Summer,Nighttime
+BUS00690,8/23/2018 0:00,2:42,2,8,Prince George's,2,25,No Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00077,8/30/2018 0:00,7:04,7,8,Charles,3,45,No Injury,Snow,Dry,Daylight,Summer,Daytime
+BUS00326,9/2/2018 0:00,5:50,5,9,Washington,2,35,Light Injury,Snow,Ice,Dark-Street Lights On,Fall,Nighttime
+BUS00502,9/3/2018 0:00,18:35,18,9,Montgomery,2,40,Light Injury,Other,Wet,Dark,Fall,Daytime
+BUS00311,9/4/2018 0:00,19:47,19,9,Baltimore,1,25,Fatal Injury,Clear,Wet,Dawn,Fall,Daytime
+BUS00104,9/7/2018 0:00,23:20,23,9,Carroll,3,30,No Injury,Clear,Dry,Dawn,Fall,Nighttime
+BUS00579,9/11/2018 0:00,14:06,14,9,Charles,4,30,Light Injury,Rain,Dry,Other,Fall,Daytime
+BUS00444,9/16/2018 0:00,20:52,20,9,Anne Arundel,1,30,Light Injury,Clear,Ice,Dark,Fall,Nighttime
+BUS00045,9/18/2018 0:00,12:24,12,9,Washington,2,35,Light Injury,Rain,Dry,Daylight,Fall,Daytime
+BUS00476,9/18/2018 0:00,15:28,15,9,Harford,2,30,Fatal Injury,Clear,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00712,9/23/2018 0:00,17:34,17,9,Frederick,2,55,No Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00694,10/3/2018 0:00,7:49,7,10,Charles,2,40,Fatal Injury,Cloudy,Dry,Daylight,Fall,Daytime
+BUS00659,10/4/2018 0:00,11:15,11,10,Montgomery,1,30,Light Injury,Clear,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00653,10/5/2018 0:00,16:34,16,10,Charles,2,25,Light Injury,,Ice,Daylight,Fall,Daytime
+BUS00653,10/5/2018 0:00,16:34,16,10,Charles,2,25,Light Injury,Clear,Ice,Daylight,Fall,Daytime
+BUS00110,10/6/2018 0:00,21:55,21,10,Baltimore,3,40,No Injury,Clear,Dry,Dusk,Fall,Nighttime
+BUS00392,10/8/2018 0:00,7:40,7,10,Howard,4,25,Light Injury,Clear,Dry,Dark,Fall,Daytime
+BUS00124,10/9/2018 0:00,7:23,7,10,Carroll,3,50,No Injury,Cloudy,Dry,Daylight,Fall,Daytime
+BUS00240,10/9/2018 0:00,20:02,20,10,Baltimore,4,30,No Injury,Snow,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00257,10/10/2018 0:00,16:41,16,10,Charles,3,35,No Injury,Clear,Other,Daylight,Fall,Daytime
+BUS00064,10/11/2018 0:00,17:49,17,10,Washington,2,35,Light Injury,Clear,Dry,Dark,Fall,Daytime
+BUS00020,10/12/2018 0:00,1:42,1,10,Prince George's,2,30,Fatal Injury,Snow,Dry,Daylight,Fall,Nighttime
+BUS00161,10/12/2018 0:00,8:22,8,10,Frederick,2,25,Light Injury,Clear,Snow,Daylight,Fall,Daytime
+BUS00172,10/14/2018 0:00,21:58,21,10,Montgomery,3,30,Light Injury,Clear,Dry,Dark,Fall,Nighttime
+BUS00027,10/20/2018 0:00,19:40,19,10,Washington,2,35,Unknown,Other,Wet,Unknown,Fall,Daytime
+BUS00120,10/25/2018 0:00,0:29,0,10,Charles,1,30,Light Injury,Rain,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00749,10/26/2018 0:00,,,10,Baltimore,2,40,No Injury,Cloudy,,Dark-Street Lights On,Fall,Unknown
+BUS00194,10/26/2018 0:00,14:26,14,10,Montgomery,2,35,Unknown,Clear,Dry,Daylight,Fall,Daytime
+BUS00571,10/31/2018 0:00,9:29,9,10,Prince George's,2,40,Light Injury,Rain,Dry,Dark,Fall,Daytime
+BUS00726,10/31/2018 0:00,14:29,14,10,Anne Arundel,1,25,No Injury,Clear,Wet,Dark,Fall,Daytime
+BUS00303,10/31/2018 0:00,18:40,18,10,Montgomery,2,65,Light Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00434,11/5/2018 0:00,4:48,4,11,Baltimore,2,30,No Injury,Clear,Dry,Daylight,Fall,Nighttime
+BUS00563,11/5/2018 0:00,5:49,5,11,Baltimore,1,30,No Injury,Unknown,Dry,Dawn,Fall,Nighttime
+BUS00211,11/14/2018 0:00,22:18,22,11,Baltimore,2,35,No Injury,Clear,Ice,Dark,Fall,Nighttime
+BUS00680,11/20/2018 0:00,13:38,13,11,Harford,1,55,Light Injury,Fog,Snow,Other,Fall,Daytime
+BUS00402,11/20/2018 0:00,19:55,19,11,Montgomery,2,30,Light Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00639,11/21/2018 0:00,0:16,0,11,Carroll,2,25,Fatal Injury,Rain,Dry,Daylight,Fall,Nighttime
+BUS00485,11/27/2018 0:00,10:38,10,11,Harford,2,30,Light Injury,Clear,Other,Dark-Street Lights On,Fall,Daytime
+BUS00314,11/29/2018 0:00,5:15,5,11,Washington,1,35,No Injury,Clear,Dry,Unknown,Fall,Nighttime
+BUS00528,12/1/2018 0:00,8:28,8,12,Howard,1,30,No Injury,Clear,Dry,Unknown,Winter,Daytime
+BUS00631,12/1/2018 0:00,11:14,11,12,Baltimore,2,35,Light Injury,Clear,Ice,Daylight,Winter,Daytime
+BUS00238,12/2/2018 0:00,15:01,15,12,Charles,1,45,Light Injury,Clear,Dry,Unknown,Winter,Daytime
+BUS00679,12/5/2018 0:00,23:27,23,12,Montgomery,2,30,Light Injury,Clear,Other,Daylight,Winter,Nighttime
+BUS00624,12/10/2018 0:00,5:17,5,12,Charles,3,30,Fatal Injury,Sleet,Wet,Dawn,Winter,Nighttime
+BUS00526,12/14/2018 0:00,1:09,1,12,Charles,2,30,Unknown,Rain,Snow,Dark-Street Lights On,Winter,Nighttime
+BUS00595,12/14/2018 0:00,9:35,9,12,Anne Arundel,2,55,Light Injury,Clear,Wet,Daylight,Winter,Daytime
+BUS00652,12/17/2018 0:00,16:23,16,12,Prince George's,2,25,No Injury,Clear,,Daylight,Winter,Daytime
+BUS00063,12/17/2018 0:00,23:31,23,12,Prince George's,2,35,Light Injury,Clear,Dry,Dawn,Winter,Nighttime
+BUS00721,12/20/2018 0:00,2:19,2,12,Washington,1,30,No Injury,Rain,,Daylight,Winter,Nighttime
+BUS00004,12/23/2018 0:00,18:27,18,12,Howard,2,35,No Injury,Unknown,Wet,Daylight,Winter,Daytime
+BUS00710,12/26/2018 0:00,21:54,21,12,Anne Arundel,2,30,Light Injury,Rain,Dry,Dark,Winter,Nighttime
+BUS00767,1/4/2019 0:00,12:32,12,1,Charles,2,50,Fatal Injury,Snow,Dry,Daylight,Winter,Daytime
+BUS00427,1/5/2019 0:00,9:20,9,1,Frederick,2,50,Unknown,Clear,Dry,Daylight,Winter,Daytime
+BUS00437,1/5/2019 0:00,12:00,12,1,Harford,2,35,No Injury,Rain,Ice,Unknown,Winter,Daytime
+BUS00574,1/5/2019 0:00,19:38,19,1,Harford,3,35,No Injury,Clear,Snow,Dusk,Winter,Daytime
+BUS00394,1/6/2019 0:00,13:06,13,1,Washington,2,40,Light Injury,Rain,Ice,Daylight,Winter,Daytime
+BUS00013,1/15/2019 0:00,12:06,12,1,Harford,1,25,Unknown,Fog,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00738,1/18/2019 0:00,16:41,16,1,Harford,3,40,Light Injury,Cloudy,Wet,Dark,Winter,Daytime
+BUS00084,1/22/2019 0:00,3:42,3,1,Montgomery,3,25,No Injury,Rain,Wet,Unknown,Winter,Nighttime
+BUS00590,1/23/2019 0:00,17:43,17,1,Howard,2,45,Light Injury,Clear,Other,Daylight,Winter,Daytime
+BUS00495,1/25/2019 0:00,10:27,10,1,Howard,1,50,Light Injury,Rain,Wet,Dark,Winter,Daytime
+BUS00500,1/31/2019 0:00,23:47,23,1,Baltimore,3,30,Light Injury,Snow,,Daylight,Winter,Nighttime
+BUS00759,2/1/2019 0:00,1:18,1,2,Charles,2,40,No Injury,Clear,Snow,Dark,Winter,Nighttime
+BUS00094,2/6/2019 0:00,1:41,1,2,Washington,2,40,No Injury,Cloudy,Wet,Daylight,Winter,Nighttime
+BUS00088,2/8/2019 0:00,1:25,1,2,Montgomery,2,45,Light Injury,Rain,Dry,Daylight,Winter,Nighttime
+BUS00453,2/10/2019 0:00,15:39,15,2,Montgomery,1,40,No Injury,Clear,Ice,Dark,Winter,Daytime
+BUS00633,2/10/2019 0:00,22:41,22,2,Charles,2,65,Light Injury,Snow,Snow,Daylight,Winter,Nighttime
+BUS00312,2/11/2019 0:00,6:40,6,2,Prince George's,2,25,Light Injury,Cloudy,Wet,Unknown,Winter,Daytime
+BUS00491,2/11/2019 0:00,22:07,22,2,Montgomery,2,45,Light Injury,Snow,Wet,Daylight,Winter,Nighttime
+BUS00121,2/14/2019 0:00,2:34,2,2,Washington,3,35,Light Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00291,2/16/2019 0:00,6:18,6,2,Howard,3,30,No Injury,Snow,Dry,Daylight,Winter,Daytime
+BUS00395,2/16/2019 0:00,14:10,14,2,Washington,3,40,Light Injury,Clear,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00622,2/25/2019 0:00,,,2,Frederick,1,25,Light Injury,Clear,Dry,Dark-Street Lights On,Winter,Unknown
+BUS00660,3/1/2019 0:00,18:47,18,3,Howard,2,35,Light Injury,Cloudy,Wet,Dark-Street Lights On,Spring,Daytime
+BUS00553,3/10/2019 0:00,7:27,7,3,Harford,2,65,No Injury,Clear,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00756,3/11/2019 0:00,10:15,10,3,Frederick,2,25,Fatal Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00054,3/12/2019 0:00,20:19,20,3,Prince George's,2,35,Light Injury,Clear,Ice,Dark,Spring,Nighttime
+BUS00155,3/19/2019 0:00,12:55,12,3,Charles,2,40,Light Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00483,3/19/2019 0:00,15:45,15,3,Howard,1,30,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00248,3/19/2019 0:00,18:01,18,3,Harford,2,25,Light Injury,Cloudy,Dry,Unknown,Spring,Daytime
+BUS00510,3/20/2019 0:00,11:54,11,3,Charles,2,45,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00478,3/23/2019 0:00,14:32,14,3,Charles,2,30,No Injury,,Wet,Daylight,Spring,Daytime
+BUS00796,3/25/2019 0:00,13:37,13,3,Carroll,2,30,Unknown,Other,Unknown,Daylight,Spring,Daytime
+BUS00001,4/2/2019 0:00,0:47,0,4,Carroll,4,45,Unknown,Fog,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00050,4/2/2019 0:00,9:27,9,4,Harford,2,30,Unknown,Rain,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00141,4/4/2019 0:00,2:56,2,4,Washington,2,35,Light Injury,Snow,Wet,Daylight,Spring,Nighttime
+BUS00060,4/4/2019 0:00,11:56,11,4,Washington,1,35,Light Injury,Cloudy,Dry,Dusk,Spring,Daytime
+BUS00359,4/10/2019 0:00,14:07,14,4,Frederick,3,30,Light Injury,Clear,Ice,Dark,Spring,Daytime
+BUS00558,4/13/2019 0:00,16:32,16,4,Carroll,4,30,Light Injury,Clear,Dry,Dark,Spring,Daytime
+BUS00244,4/14/2019 0:00,18:13,18,4,Harford,2,35,Light Injury,Rain,Wet,Daylight,Spring,Daytime
+BUS00247,4/15/2019 0:00,,,4,Montgomery,1,35,Light Injury,Clear,Dry,Daylight,Spring,Unknown
+BUS00048,4/15/2019 0:00,21:56,21,4,Anne Arundel,2,30,Unknown,Rain,Wet,Dark-Street Lights On,Spring,Nighttime
+BUS00704,4/28/2019 0:00,8:49,8,4,Frederick,2,55,Light Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00306,5/1/2019 0:00,17:48,17,5,Montgomery,3,30,No Injury,Sleet,Dry,Daylight,Spring,Daytime
+BUS00780,5/2/2019 0:00,4:06,4,5,Washington,3,25,No Injury,Clear,Dry,Dark,Spring,Nighttime
+BUS00540,5/7/2019 0:00,0:31,0,5,Montgomery,1,40,Light Injury,Rain,Wet,Dark,Spring,Nighttime
+BUS00254,5/11/2019 0:00,18:50,18,5,Harford,1,30,No Injury,Clear,Unknown,Dawn,Spring,Daytime
+BUS00643,5/15/2019 0:00,1:15,1,5,Montgomery,2,35,Light Injury,Clear,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00730,5/24/2019 0:00,16:09,16,5,Frederick,2,50,Light Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00174,5/26/2019 0:00,23:57,23,5,Montgomery,4,45,No Injury,,Wet,Daylight,Spring,Nighttime
+BUS00725,5/29/2019 0:00,10:41,10,5,Montgomery,1,40,Light Injury,Clear,Snow,Daylight,Spring,Daytime
+BUS00065,5/31/2019 0:00,4:42,4,5,Prince George's,2,35,No Injury,Rain,Snow,Unknown,Spring,Nighttime
+BUS00381,6/2/2019 0:00,16:37,16,6,Montgomery,2,30,No Injury,Clear,Dry,Dark,Summer,Daytime
+BUS00720,6/16/2019 0:00,19:56,19,6,Anne Arundel,2,25,No Injury,,Dry,Daylight,Summer,Daytime
+BUS00720,6/16/2019 0:00,19:56,19,6,Anne Arundel,2,25,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00138,6/20/2019 0:00,,,6,Howard,1,25,No Injury,Clear,Dry,Dark,Summer,Unknown
+BUS00354,6/21/2019 0:00,9:28,9,6,Charles,3,35,No Injury,Clear,Unknown,Daylight,Summer,Daytime
+BUS00429,6/26/2019 0:00,17:56,17,6,Anne Arundel,2,25,Light Injury,Clear,Slush,Daylight,Summer,Daytime
+BUS00081,6/26/2019 0:00,23:59,23,6,Carroll,2,35,No Injury,Rain,Dry,Daylight,Summer,Nighttime
+BUS00123,6/27/2019 0:00,11:56,11,6,Baltimore,4,45,No Injury,Fog,Dry,Daylight,Summer,Daytime
+BUS00202,7/1/2019 0:00,14:42,14,7,Montgomery,3,40,Light Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00773,7/3/2019 0:00,,,7,Montgomery,3,25,No Injury,Rain,Dry,Dark-Street Lights On,Summer,Unknown
+BUS00129,7/5/2019 0:00,8:07,8,7,Carroll,2,50,Light Injury,Clear,Snow,Daylight,Summer,Daytime
+BUS00665,7/7/2019 0:00,2:45,2,7,Carroll,2,65,Light Injury,Rain,Snow,Dark-Street Lights On,Summer,Nighttime
+BUS00708,7/10/2019 0:00,2:28,2,7,Baltimore,2,40,Light Injury,Sleet,Slush,Dawn,Summer,Nighttime
+BUS00367,7/14/2019 0:00,2:17,2,7,Harford,3,40,Light Injury,Clear,,Daylight,Summer,Nighttime
+BUS00423,7/15/2019 0:00,20:06,20,7,Howard,2,40,No Injury,,Snow,Daylight,Summer,Nighttime
+BUS00423,7/15/2019 0:00,20:06,20,7,Howard,2,40,No Injury,Fog,Snow,Daylight,Summer,Nighttime
+BUS00786,7/16/2019 0:00,22:21,22,7,Baltimore,1,45,No Injury,Cloudy,Other,Daylight,Summer,Nighttime
+BUS00603,7/18/2019 0:00,4:04,4,7,Frederick,2,35,Light Injury,Clear,Dry,Dark,Summer,Nighttime
+BUS00699,7/18/2019 0:00,16:23,16,7,Prince George's,2,40,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00214,7/21/2019 0:00,4:14,4,7,Anne Arundel,2,40,Fatal Injury,Clear,Wet,Daylight,Summer,Nighttime
+BUS00717,7/23/2019 0:00,7:50,7,7,Baltimore,3,25,Light Injury,Fog,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00637,7/23/2019 0:00,22:30,22,7,Prince George's,4,30,Light Injury,Rain,Dry,Dark-Street Lights On,Summer,Nighttime
+BUS00038,7/26/2019 0:00,7:47,7,7,Carroll,1,50,Light Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00003,7/26/2019 0:00,23:06,23,7,Harford,2,65,Light Injury,Clear,Snow,Dark-Street Lights On,Summer,Nighttime
+BUS00593,8/3/2019 0:00,11:19,11,8,Baltimore,3,35,Light Injury,Snow,Dry,Daylight,Summer,Daytime
+BUS00405,8/10/2019 0:00,7:29,7,8,Frederick,2,30,Light Injury,Clear,Dry,Dawn,Summer,Daytime
+BUS00519,8/10/2019 0:00,18:42,18,8,Baltimore,3,40,Light Injury,Clear,,Other,Summer,Daytime
+BUS00783,8/14/2019 0:00,6:38,6,8,Prince George's,1,45,No Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00385,8/14/2019 0:00,13:55,13,8,Carroll,3,25,Light Injury,Rain,Wet,Unknown,Summer,Daytime
+BUS00399,8/20/2019 0:00,7:33,7,8,Charles,4,25,Light Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00561,8/23/2019 0:00,8:12,8,8,Anne Arundel,2,50,No Injury,Clear,Dry,Dawn,Summer,Daytime
+BUS00560,8/28/2019 0:00,7:06,7,8,Anne Arundel,3,55,No Injury,Clear,Snow,Daylight,Summer,Daytime
+BUS00468,8/28/2019 0:00,19:00,19,8,Prince George's,2,65,Light Injury,Fog,Dry,Dark,Summer,Daytime
+BUS00144,8/30/2019 0:00,13:08,13,8,Carroll,1,30,Light Injury,Clear,Ice,Dark-Street Lights On,Summer,Daytime
+BUS00486,8/31/2019 0:00,2:08,2,8,Baltimore,2,25,No Injury,Cloudy,Wet,Other,Summer,Nighttime
+BUS00142,9/3/2019 0:00,17:02,17,9,Carroll,2,25,Light Injury,Clear,Snow,Daylight,Fall,Daytime
+BUS00788,9/3/2019 0:00,19:57,19,9,Baltimore,2,25,Light Injury,Clear,Snow,Dark-Street Lights On,Fall,Daytime
+BUS00592,9/8/2019 0:00,10:05,10,9,Anne Arundel,2,30,No Injury,Clear,Other,Dark-Street Lights On,Fall,Daytime
+BUS00567,9/11/2019 0:00,14:04,14,9,Washington,3,40,No Injury,Clear,Ice,Dark-Street Lights On,Fall,Daytime
+BUS00380,9/16/2019 0:00,15:02,15,9,Baltimore,2,40,Light Injury,Clear,Other,Daylight,Fall,Daytime
+BUS00056,9/19/2019 0:00,11:48,11,9,Anne Arundel,2,25,No Injury,Fog,Ice,Dark-Street Lights On,Fall,Daytime
+BUS00360,9/23/2019 0:00,15:59,15,9,Montgomery,2,30,Unknown,Rain,Snow,Unknown,Fall,Daytime
+BUS00360,9/23/2019 0:00,15:59,15,9,Montgomery,2,30,No Injury,Rain,Snow,Unknown,Fall,Daytime
+BUS00740,9/24/2019 0:00,5:42,5,9,Harford,2,45,Light Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00386,9/25/2019 0:00,2:30,2,9,Washington,1,35,No Injury,Cloudy,Dry,Unknown,Fall,Nighttime
+BUS00452,9/25/2019 0:00,13:41,13,9,Baltimore,2,30,Light Injury,Snow,Snow,Daylight,Fall,Daytime
+BUS00150,9/26/2019 0:00,7:55,7,9,Charles,2,45,Light Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00131,9/29/2019 0:00,8:18,8,9,Anne Arundel,1,55,Fatal Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00316,10/4/2019 0:00,0:26,0,10,Washington,3,40,No Injury,Clear,Ice,Daylight,Fall,Nighttime
+BUS00524,10/7/2019 0:00,11:19,11,10,Howard,2,35,No Injury,,Dry,Daylight,Fall,Daytime
+BUS00527,10/7/2019 0:00,19:03,19,10,Carroll,1,55,No Injury,Unknown,Dry,Other,Fall,Daytime
+BUS00714,10/8/2019 0:00,22:45,22,10,Harford,2,50,Light Injury,Snow,Dry,Daylight,Fall,Nighttime
+BUS00409,10/10/2019 0:00,2:28,2,10,Baltimore,2,40,No Injury,Other,,Dark-Street Lights On,Fall,Nighttime
+BUS00051,10/10/2019 0:00,14:00,14,10,Baltimore,1,35,Unknown,Clear,Dry,Daylight,Fall,Daytime
+BUS00750,10/10/2019 0:00,14:26,14,10,Howard,2,50,Light Injury,Snow,Wet,Daylight,Fall,Daytime
+BUS00764,10/15/2019 0:00,15:32,15,10,Charles,2,40,Light Injury,Clear,Ice,Daylight,Fall,Daytime
+BUS00010,10/16/2019 0:00,22:27,22,10,Howard,2,50,Light Injury,Clear,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00692,10/18/2019 0:00,0:09,0,10,Frederick,2,50,No Injury,Clear,Dry,Daylight,Fall,Nighttime
+BUS00044,10/18/2019 0:00,21:27,21,10,Charles,1,65,Light Injury,Snow,Dry,Daylight,Fall,Nighttime
+BUS00343,10/21/2019 0:00,10:26,10,10,Anne Arundel,2,25,No Injury,Rain,Dry,Daylight,Fall,Daytime
+BUS00057,10/24/2019 0:00,17:49,17,10,Prince George's,1,35,Light Injury,Rain,Ice,Daylight,Fall,Daytime
+BUS00139,10/24/2019 0:00,23:28,23,10,Frederick,2,35,Light Injury,Snow,Dry,Daylight,Fall,Nighttime
+BUS00151,10/28/2019 0:00,5:56,5,10,Baltimore,2,30,No Injury,Clear,Dry,Dark,Fall,Nighttime
+BUS00609,11/10/2019 0:00,23:28,23,11,Frederick,2,30,No Injury,Clear,,Dark-Street Lights On,Fall,Nighttime
+BUS00609,11/10/2019 0:00,23:28,23,11,Frederick,2,30,No Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00557,11/20/2019 0:00,2:32,2,11,Montgomery,4,30,Fatal Injury,Clear,,Dark-Street Lights On,Fall,Nighttime
+BUS00739,11/22/2019 0:00,18:37,18,11,Anne Arundel,1,30,No Injury,Clear,Ice,Daylight,Fall,Daytime
+BUS00187,11/27/2019 0:00,21:05,21,11,Howard,2,30,Fatal Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00028,12/2/2019 0:00,17:46,17,12,Baltimore,2,40,No Injury,Fog,Wet,Dark-Street Lights On,Winter,Daytime
+BUS00551,12/5/2019 0:00,19:29,19,12,Frederick,2,40,Fatal Injury,Clear,Wet,Dark-Street Lights On,Winter,Daytime
+BUS00709,12/9/2019 0:00,22:28,22,12,Prince George's,2,40,Light Injury,Cloudy,Dry,Daylight,Winter,Nighttime
+BUS00562,12/12/2019 0:00,19:09,19,12,Frederick,2,25,Light Injury,Sleet,Wet,Daylight,Winter,Daytime
+BUS00180,12/14/2019 0:00,19:36,19,12,Frederick,2,35,Light Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00715,12/15/2019 0:00,11:32,11,12,Carroll,3,25,Light Injury,Clear,Dry,Dark,Winter,Daytime
+BUS00337,12/19/2019 0:00,15:33,15,12,Prince George's,2,35,Light Injury,Clear,Dry,Unknown,Winter,Daytime
+BUS00663,12/19/2019 0:00,21:29,21,12,Baltimore,2,35,No Injury,Rain,Dry,Dark-Street Lights On,Winter,Nighttime
+BUS00053,1/2/2020 0:00,16:58,16,1,Anne Arundel,2,30,Light Injury,Rain,Wet,Dark-Street Lights On,Winter,Daytime
+BUS00401,1/8/2020 0:00,5:11,5,1,Howard,4,30,Light Injury,Rain,Dry,Dark-Street Lights On,Winter,Nighttime
+BUS00601,1/9/2020 0:00,6:21,6,1,Howard,2,35,No Injury,Rain,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00681,1/10/2020 0:00,17:18,17,1,Prince George's,2,45,Fatal Injury,Clear,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00608,1/11/2020 0:00,22:49,22,1,Harford,3,55,Light Injury,Rain,Wet,Dark,Winter,Nighttime
+BUS00728,1/16/2020 0:00,4:27,4,1,Howard,1,45,Light Injury,Clear,Wet,Dark-Street Lights On,Winter,Nighttime
+BUS00092,1/22/2020 0:00,8:29,8,1,Montgomery,3,40,Light Injury,Clear,,Daylight,Winter,Daytime
+BUS00288,1/29/2020 0:00,6:13,6,1,Howard,2,25,No Injury,Clear,Other,Daylight,Winter,Daytime
+BUS00109,2/1/2020 0:00,2:38,2,2,Frederick,2,35,Light Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00351,2/8/2020 0:00,16:23,16,2,Carroll,2,30,Light Injury,Other,Dry,Daylight,Winter,Daytime
+BUS00577,2/11/2020 0:00,10:38,10,2,Montgomery,2,30,No Injury,Clear,Ice,Dark-Street Lights On,Winter,Daytime
+BUS00169,2/18/2020 0:00,8:02,8,2,Carroll,3,25,No Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00422,2/18/2020 0:00,19:16,19,2,Montgomery,1,30,No Injury,Clear,Snow,Dark,Winter,Daytime
+BUS00671,2/22/2020 0:00,9:22,9,2,Baltimore,1,55,Light Injury,Clear,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00090,2/24/2020 0:00,6:34,6,2,Baltimore,2,40,No Injury,Clear,Ice,Daylight,Winter,Daytime
+BUS00178,2/25/2020 0:00,13:42,13,2,Prince George's,1,65,Light Injury,Other,Unknown,Dark-Street Lights On,Winter,Daytime
+BUS00287,2/28/2020 0:00,10:07,10,2,Prince George's,2,50,Light Injury,Clear,Snow,Dark,Winter,Daytime
+BUS00559,3/5/2020 0:00,11:22,11,3,Charles,3,30,Light Injury,Clear,Ice,Daylight,Spring,Daytime
+BUS00195,3/7/2020 0:00,22:44,22,3,Frederick,1,45,No Injury,Clear,Dry,Daylight,Spring,Nighttime
+BUS00776,3/8/2020 0:00,11:35,11,3,Baltimore,2,40,Light Injury,Rain,Ice,Dusk,Spring,Daytime
+BUS00735,3/15/2020 0:00,20:35,20,3,Carroll,2,35,No Injury,Clear,Snow,Daylight,Spring,Nighttime
+BUS00171,3/18/2020 0:00,11:27,11,3,Baltimore,2,35,No Injury,Snow,Slush,Daylight,Spring,Daytime
+BUS00323,3/21/2020 0:00,,,3,Prince George's,2,25,Light Injury,Clear,,Dark-Street Lights On,Spring,Unknown
+BUS00251,3/23/2020 0:00,2:37,2,3,Harford,2,40,Light Injury,Snow,Wet,Daylight,Spring,Nighttime
+BUS00668,3/28/2020 0:00,1:20,1,3,Howard,1,50,Light Injury,Clear,Dry,Daylight,Spring,Nighttime
+BUS00157,3/28/2020 0:00,14:22,14,3,Montgomery,2,50,Light Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00619,3/28/2020 0:00,19:08,19,3,Howard,2,50,No Injury,Clear,,Daylight,Spring,Daytime
+BUS00069,4/3/2020 0:00,22:19,22,4,Carroll,3,40,No Injury,Rain,Ice,Dark-Street Lights On,Spring,Nighttime
+BUS00667,4/5/2020 0:00,1:50,1,4,Howard,2,35,Light Injury,Cloudy,Dry,Daylight,Spring,Nighttime
+BUS00133,4/13/2020 0:00,21:40,21,4,Baltimore,2,25,Light Injury,Rain,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00465,4/20/2020 0:00,2:53,2,4,Washington,2,50,No Injury,Fog,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00219,4/27/2020 0:00,13:24,13,4,Prince George's,2,45,No Injury,Snow,Snow,Unknown,Spring,Daytime
+BUS00466,4/28/2020 0:00,18:13,18,4,Washington,3,30,Light Injury,Fog,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00183,5/10/2020 0:00,13:50,13,5,Montgomery,1,45,No Injury,Unknown,Dry,Daylight,Spring,Daytime
+BUS00132,5/12/2020 0:00,22:21,22,5,Carroll,2,25,Unknown,Cloudy,Ice,Daylight,Spring,Nighttime
+BUS00313,5/14/2020 0:00,8:42,8,5,Charles,2,30,Light Injury,Rain,Wet,Dark,Spring,Daytime
+BUS00538,5/15/2020 0:00,4:48,4,5,Washington,2,35,No Injury,Clear,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00235,5/16/2020 0:00,14:20,14,5,Howard,1,55,Light Injury,,Dry,Dusk,Spring,Daytime
+BUS00462,5/18/2020 0:00,20:40,20,5,Montgomery,2,40,Light Injury,Cloudy,Wet,Daylight,Spring,Nighttime
+BUS00122,5/23/2020 0:00,16:16,16,5,Washington,2,30,Light Injury,Clear,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00216,5/26/2020 0:00,2:26,2,5,Montgomery,2,35,No Injury,Rain,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00706,5/28/2020 0:00,,,5,Prince George's,2,25,Light Injury,Clear,Wet,Daylight,Spring,Unknown
+BUS00492,5/30/2020 0:00,13:28,13,5,Carroll,2,50,Light Injury,Clear,Wet,Dark-Street Lights On,Spring,Daytime
+BUS00012,5/31/2020 0:00,10:06,10,5,Harford,3,30,Light Injury,Cloudy,Ice,Dark-Street Lights On,Spring,Daytime
+BUS00531,6/1/2020 0:00,16:07,16,6,Carroll,2,45,Light Injury,Rain,Unknown,Daylight,Summer,Daytime
+BUS00640,6/2/2020 0:00,4:35,4,6,Harford,2,35,No Injury,Rain,Wet,Dark-Street Lights On,Summer,Nighttime
+BUS00006,6/14/2020 0:00,7:32,7,6,Washington,2,40,Fatal Injury,Snow,Dry,Daylight,Summer,Daytime
+BUS00031,6/18/2020 0:00,21:20,21,6,Charles,2,30,Light Injury,Clear,Snow,Dark-Street Lights On,Summer,Nighttime
+BUS00224,6/22/2020 0:00,15:14,15,6,Prince George's,2,40,Fatal Injury,Rain,,Dawn,Summer,Daytime
+BUS00280,6/26/2020 0:00,12:44,12,6,Carroll,2,35,Light Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00479,6/26/2020 0:00,19:02,19,6,Howard,2,30,Unknown,Clear,Wet,Unknown,Summer,Daytime
+BUS00627,6/28/2020 0:00,14:56,14,6,Anne Arundel,2,45,Light Injury,Cloudy,Ice,Dark,Summer,Daytime
+BUS00716,7/7/2020 0:00,3:12,3,7,Washington,3,25,Light Injury,Clear,Ice,Dark-Street Lights On,Summer,Nighttime
+BUS00191,7/9/2020 0:00,6:09,6,7,Anne Arundel,4,35,Light Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00324,7/9/2020 0:00,20:09,20,7,Washington,4,30,No Injury,Cloudy,Wet,Dark,Summer,Nighttime
+BUS00308,7/13/2020 0:00,16:24,16,7,Howard,2,25,Light Injury,Snow,Dry,Daylight,Summer,Daytime
+BUS00435,7/13/2020 0:00,21:46,21,7,Washington,1,30,No Injury,Fog,Dry,Dark,Summer,Nighttime
+BUS00292,7/20/2020 0:00,11:11,11,7,Baltimore,2,40,No Injury,Cloudy,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00800,7/21/2020 0:00,23:03,23,7,Charles,2,30,No Injury,Clear,Dry,Dark-Street Lights On,Summer,Nighttime
+BUS00021,7/22/2020 0:00,9:05,9,7,Howard,2,35,No Injury,Rain,Dry,Dark,Summer,Daytime
+BUS00493,7/24/2020 0:00,13:21,13,7,Harford,1,40,No Injury,Rain,Other,Daylight,Summer,Daytime
+BUS00543,7/31/2020 0:00,16:35,16,7,Harford,4,30,Light Injury,Snow,Wet,Dark,Summer,Daytime
+BUS00075,7/31/2020 0:00,18:14,18,7,Harford,2,40,Light Injury,Cloudy,Unknown,Daylight,Summer,Daytime
+BUS00420,7/31/2020 0:00,19:51,19,7,Carroll,2,50,No Injury,Clear,Snow,Dark-Street Lights On,Summer,Daytime
+BUS00319,8/6/2020 0:00,9:45,9,8,Harford,3,30,Unknown,Snow,Ice,Unknown,Summer,Daytime
+BUS00022,8/11/2020 0:00,3:24,3,8,Montgomery,3,45,Light Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00467,8/12/2020 0:00,10:49,10,8,Washington,3,35,Fatal Injury,Snow,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00322,8/14/2020 0:00,8:50,8,8,Carroll,2,35,No Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00377,8/14/2020 0:00,13:02,13,8,Anne Arundel,2,45,Fatal Injury,Clear,,Daylight,Summer,Daytime
+BUS00442,8/15/2020 0:00,15:01,15,8,Prince George's,2,45,Light Injury,Cloudy,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00212,8/18/2020 0:00,8:21,8,8,Anne Arundel,1,35,Light Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00449,8/19/2020 0:00,17:08,17,8,Montgomery,2,45,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00190,8/20/2020 0:00,,,8,Carroll,1,40,No Injury,Clear,Other,Daylight,Summer,Unknown
+BUS00111,8/21/2020 0:00,12:07,12,8,Montgomery,4,40,No Injury,Snow,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00096,8/26/2020 0:00,5:26,5,8,Washington,3,30,Light Injury,Clear,Wet,Daylight,Summer,Nighttime
+BUS00414,8/29/2020 0:00,12:36,12,8,Montgomery,1,35,No Injury,Rain,Dry,Daylight,Summer,Daytime
+BUS00611,8/30/2020 0:00,14:39,14,8,Howard,2,45,No Injury,Clear,Other,Dark,Summer,Daytime
+BUS00243,9/4/2020 0:00,4:30,4,9,Anne Arundel,2,30,No Injury,Rain,Dry,Daylight,Fall,Nighttime
+BUS00376,9/5/2020 0:00,18:24,18,9,Harford,2,40,Light Injury,Sleet,Dry,Daylight,Fall,Daytime
+BUS00210,9/6/2020 0:00,8:28,8,9,Baltimore,2,40,No Injury,Clear,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00614,9/6/2020 0:00,9:51,9,9,Anne Arundel,2,65,No Injury,Clear,Dry,Dark,Fall,Daytime
+BUS00356,9/7/2020 0:00,,,9,Frederick,3,25,Light Injury,Snow,Dry,Daylight,Fall,Unknown
+BUS00277,9/11/2020 0:00,22:30,22,9,Montgomery,2,50,Light Injury,Clear,Unknown,Unknown,Fall,Nighttime
+BUS00404,9/13/2020 0:00,15:58,15,9,Howard,2,25,No Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00062,9/13/2020 0:00,18:05,18,9,Frederick,2,50,Fatal Injury,Sleet,Dry,Dark,Fall,Daytime
+BUS00275,9/15/2020 0:00,23:26,23,9,Baltimore,3,35,Light Injury,Fog,Snow,Dawn,Fall,Nighttime
+BUS00648,9/17/2020 0:00,22:09,22,9,Charles,1,25,Light Injury,Clear,Ice,Unknown,Fall,Nighttime
+BUS00252,9/21/2020 0:00,3:44,3,9,Anne Arundel,2,30,Light Injury,Cloudy,Dry,Daylight,Fall,Nighttime
+BUS00281,9/23/2020 0:00,9:42,9,9,Frederick,3,35,Light Injury,Sleet,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00197,9/26/2020 0:00,4:41,4,9,Howard,2,30,Light Injury,,Snow,Dark-Street Lights On,Fall,Nighttime
+BUS00029,9/29/2020 0:00,5:29,5,9,Carroll,2,55,Light Injury,,Dry,Daylight,Fall,Nighttime
+BUS00266,10/2/2020 0:00,2:17,2,10,Anne Arundel,2,35,Light Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00112,10/5/2020 0:00,18:38,18,10,Baltimore,2,45,Light Injury,Rain,Dry,Dawn,Fall,Daytime
+BUS00208,10/9/2020 0:00,20:17,20,10,Baltimore,2,45,No Injury,Clear,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00073,10/12/2020 0:00,7:04,7,10,Prince George's,2,55,Light Injury,Cloudy,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00154,10/13/2020 0:00,,,10,Harford,3,30,Light Injury,Clear,Snow,Daylight,Fall,Unknown
+BUS00761,10/13/2020 0:00,,,10,Prince George's,3,35,No Injury,Rain,Dry,Daylight,Fall,Unknown
+BUS00201,10/17/2020 0:00,3:29,3,10,Frederick,4,55,Light Injury,Snow,Dry,Dusk,Fall,Nighttime
+BUS00147,10/19/2020 0:00,21:06,21,10,Charles,1,45,No Injury,Clear,Dry,Unknown,Fall,Nighttime
+BUS00093,10/20/2020 0:00,2:28,2,10,Howard,2,30,Light Injury,Unknown,Dry,Dark,Fall,Nighttime
+BUS00620,10/21/2020 0:00,,,10,Charles,2,30,Light Injury,Sleet,Wet,Unknown,Fall,Unknown
+BUS00470,10/23/2020 0:00,5:07,5,10,Charles,2,35,Fatal Injury,Rain,Snow,Daylight,Fall,Nighttime
+BUS00135,10/25/2020 0:00,1:05,1,10,Prince George's,1,25,Fatal Injury,Clear,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00286,10/26/2020 0:00,7:07,7,10,Harford,2,30,Light Injury,Snow,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00347,10/30/2020 0:00,10:07,10,10,Baltimore,1,35,Fatal Injury,Cloudy,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00301,10/31/2020 0:00,,,10,Howard,3,45,No Injury,Clear,Ice,Dark-Street Lights On,Fall,Unknown
+BUS00406,11/6/2020 0:00,14:16,14,11,Carroll,3,35,No Injury,Snow,Dry,Daylight,Fall,Daytime
+BUS00539,11/12/2020 0:00,9:20,9,11,Washington,1,40,No Injury,Rain,Other,Dark-Street Lights On,Fall,Daytime
+BUS00272,11/24/2020 0:00,10:17,10,11,Harford,2,50,No Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00705,12/2/2020 0:00,22:28,22,12,Prince George's,2,45,Light Injury,,Snow,Dawn,Winter,Nighttime
+BUS00116,12/4/2020 0:00,6:42,6,12,Howard,1,25,Fatal Injury,Clear,Wet,Dark,Winter,Daytime
+BUS00164,12/5/2020 0:00,5:37,5,12,Anne Arundel,2,50,No Injury,Clear,Ice,Dusk,Winter,Nighttime
+BUS00440,12/9/2020 0:00,18:24,18,12,Harford,1,45,No Injury,Clear,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00039,12/12/2020 0:00,23:37,23,12,Prince George's,2,30,No Injury,Cloudy,Other,Daylight,Winter,Nighttime
+BUS00052,12/14/2020 0:00,16:48,16,12,Montgomery,3,30,Light Injury,Clear,Wet,Dark,Winter,Daytime
+BUS00134,12/17/2020 0:00,16:31,16,12,Frederick,3,50,Light Injury,Rain,Dry,Dark,Winter,Daytime
+BUS00015,12/19/2020 0:00,1:46,1,12,Frederick,2,45,No Injury,Sleet,Dry,Unknown,Winter,Nighttime
+BUS00438,12/19/2020 0:00,17:07,17,12,Howard,2,35,Light Injury,Clear,Snow,Unknown,Winter,Daytime
+BUS00743,12/20/2020 0:00,20:13,20,12,Charles,2,30,Light Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00387,12/21/2020 0:00,10:39,10,12,Howard,3,45,Fatal Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00067,12/21/2020 0:00,16:55,16,12,Anne Arundel,3,50,No Injury,Rain,Snow,Other,Winter,Daytime
+BUS00474,12/22/2020 0:00,1:08,1,12,Howard,2,45,Light Injury,Snow,Wet,Dusk,Winter,Nighttime
+BUS00100,12/22/2020 0:00,14:18,14,12,Harford,3,30,Light Injury,Clear,Other,Daylight,Winter,Daytime
+BUS00165,12/23/2020 0:00,1:06,1,12,Montgomery,2,25,No Injury,Cloudy,Wet,Daylight,Winter,Nighttime
+BUS00799,12/23/2020 0:00,20:50,20,12,Carroll,3,35,No Injury,Cloudy,Slush,Daylight,Winter,Nighttime
+BUS00325,12/24/2020 0:00,4:04,4,12,Prince George's,2,25,Light Injury,Clear,Dry,Daylight,Winter,Nighttime
+BUS00049,12/28/2020 0:00,20:21,20,12,Carroll,1,25,Light Injury,Rain,Dry,Dark-Street Lights On,Winter,Nighttime
+BUS00026,12/29/2020 0:00,22:59,22,12,Montgomery,2,35,Fatal Injury,Cloudy,,Dark,Winter,Nighttime
+BUS00515,12/31/2020 0:00,0:11,0,12,Baltimore,2,40,No Injury,Clear,Snow,Daylight,Winter,Nighttime
+BUS00034,1/1/2021 0:00,2:13,2,1,Baltimore,2,30,Light Injury,Clear,,Daylight,Winter,Nighttime
+BUS00265,1/4/2021 0:00,10:54,10,1,Charles,3,35,Light Injury,Cloudy,Dry,Dark,Winter,Daytime
+BUS00336,1/8/2021 0:00,18:02,18,1,Baltimore,2,35,Light Injury,Sleet,Dry,Other,Winter,Daytime
+BUS00431,1/21/2021 0:00,5:16,5,1,Anne Arundel,2,25,Light Injury,Rain,Wet,Daylight,Winter,Nighttime
+BUS00225,1/22/2021 0:00,13:31,13,1,Carroll,1,55,Light Injury,Clear,Snow,Dark-Street Lights On,Winter,Daytime
+BUS00673,1/24/2021 0:00,3:51,3,1,Howard,2,55,Light Injury,Fog,Dry,Daylight,Winter,Nighttime
+BUS00362,1/24/2021 0:00,13:53,13,1,Washington,2,35,Light Injury,,Dry,Dusk,Winter,Daytime
+BUS00516,1/24/2021 0:00,22:48,22,1,Washington,1,30,Light Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00736,1/29/2021 0:00,4:40,4,1,Carroll,4,45,Light Injury,Clear,Dry,Dusk,Winter,Nighttime
+BUS00689,1/29/2021 0:00,20:50,20,1,Baltimore,2,25,No Injury,Snow,Wet,Daylight,Winter,Nighttime
+BUS00002,1/31/2021 0:00,7:14,7,1,Anne Arundel,2,45,No Injury,,Dry,Unknown,Winter,Daytime
+BUS00487,1/31/2021 0:00,19:40,19,1,Montgomery,3,30,No Injury,Rain,Dry,Daylight,Winter,Daytime
+BUS00460,2/4/2021 0:00,6:07,6,2,Baltimore,2,50,Light Injury,Rain,Dry,Dusk,Winter,Daytime
+BUS00273,2/5/2021 0:00,,,2,Harford,3,40,Light Injury,Clear,Slush,Daylight,Winter,Unknown
+BUS00469,2/9/2021 0:00,4:08,4,2,Baltimore,2,50,Light Injury,Cloudy,,Daylight,Winter,Nighttime
+BUS00023,2/12/2021 0:00,14:40,14,2,Washington,4,65,No Injury,Clear,Dry,Unknown,Winter,Daytime
+BUS00009,2/13/2021 0:00,0:48,0,2,Harford,2,30,Fatal Injury,Clear,Snow,Dark-Street Lights On,Winter,Nighttime
+BUS00701,2/15/2021 0:00,7:07,7,2,Carroll,2,40,No Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00512,2/15/2021 0:00,18:14,18,2,Charles,2,40,Light Injury,Sleet,Snow,Dark,Winter,Daytime
+BUS00779,2/19/2021 0:00,19:43,19,2,Frederick,3,40,No Injury,Clear,Dry,Dusk,Winter,Daytime
+BUS00770,2/26/2021 0:00,15:38,15,2,Montgomery,3,30,Light Injury,Snow,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00617,2/28/2021 0:00,12:32,12,2,Washington,2,25,No Injury,Rain,Dry,Daylight,Winter,Daytime
+BUS00586,3/4/2021 0:00,12:26,12,3,Frederick,2,35,Light Injury,Rain,Snow,Dark-Street Lights On,Spring,Daytime
+BUS00320,3/4/2021 0:00,22:55,22,3,Prince George's,2,25,No Injury,Rain,Dry,Daylight,Spring,Nighttime
+BUS00533,3/6/2021 0:00,21:43,21,3,Howard,3,25,No Injury,Clear,Wet,Dark,Spring,Nighttime
+BUS00188,3/8/2021 0:00,16:42,16,3,Washington,2,35,Light Injury,Clear,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00125,3/13/2021 0:00,5:28,5,3,Montgomery,2,30,Unknown,Snow,Unknown,Daylight,Spring,Nighttime
+BUS00612,3/13/2021 0:00,23:50,23,3,Harford,2,40,Light Injury,Clear,Ice,Unknown,Spring,Nighttime
+BUS00393,3/23/2021 0:00,7:47,7,3,Montgomery,2,30,Fatal Injury,Rain,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00506,3/24/2021 0:00,19:19,19,3,Frederick,1,30,Light Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00408,3/24/2021 0:00,21:34,21,3,Washington,2,25,Unknown,Clear,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00642,3/26/2021 0:00,7:19,7,3,Frederick,2,25,Light Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00777,3/28/2021 0:00,2:24,2,3,Anne Arundel,2,25,No Injury,Snow,Wet,Dark,Spring,Nighttime
+BUS00328,3/28/2021 0:00,14:07,14,3,Harford,1,40,Light Injury,Rain,Dry,Daylight,Spring,Daytime
+BUS00746,4/1/2021 0:00,,,4,Prince George's,1,45,Light Injury,Clear,Dry,Daylight,Spring,Unknown
+BUS00713,4/4/2021 0:00,9:54,9,4,Montgomery,2,30,No Injury,Clear,Snow,Unknown,Spring,Daytime
+BUS00649,4/8/2021 0:00,13:00,13,4,Frederick,2,55,No Injury,Clear,Dry,Dark,Spring,Daytime
+BUS00361,4/10/2021 0:00,16:45,16,4,Anne Arundel,2,35,Light Injury,Clear,Dry,Dark,Spring,Daytime
+BUS00296,4/11/2021 0:00,22:08,22,4,Montgomery,2,35,Light Injury,Snow,Dry,Daylight,Spring,Nighttime
+BUS00018,4/15/2021 0:00,20:39,20,4,Harford,4,35,Light Injury,Snow,Unknown,Daylight,Spring,Nighttime
+BUS00416,4/24/2021 0:00,0:53,0,4,Howard,1,40,No Injury,Clear,Dry,Daylight,Spring,Nighttime
+BUS00604,4/26/2021 0:00,3:32,3,4,Baltimore,2,30,No Injury,Clear,Dry,Dark,Spring,Nighttime
+BUS00177,4/26/2021 0:00,17:08,17,4,Montgomery,2,45,No Injury,Clear,Dry,Dawn,Spring,Daytime
+BUS00103,4/30/2021 0:00,6:03,6,4,Carroll,2,25,Light Injury,Clear,Snow,Daylight,Spring,Daytime
+BUS00371,5/7/2021 0:00,18:37,18,5,Anne Arundel,2,45,No Injury,Clear,Dry,Unknown,Spring,Daytime
+BUS00222,5/8/2021 0:00,12:54,12,5,Charles,3,45,Light Injury,Sleet,Dry,Dark,Spring,Daytime
+BUS00791,5/10/2021 0:00,18:21,18,5,Washington,1,35,Light Injury,Clear,Snow,Dark-Street Lights On,Spring,Daytime
+BUS00396,5/11/2021 0:00,0:02,0,5,Montgomery,4,50,No Injury,Clear,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00128,5/11/2021 0:00,21:06,21,5,Howard,2,35,No Injury,Clear,Dry,Dark,Spring,Nighttime
+BUS00794,5/12/2021 0:00,15:52,15,5,Baltimore,2,65,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00119,5/13/2021 0:00,14:20,14,5,Carroll,2,45,Light Injury,Fog,Ice,Dark,Spring,Daytime
+BUS00175,5/15/2021 0:00,16:19,16,5,Harford,2,35,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00181,5/17/2021 0:00,12:35,12,5,Carroll,3,50,Light Injury,,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00253,5/20/2021 0:00,21:38,21,5,Frederick,2,25,Light Injury,Snow,Wet,Dark,Spring,Nighttime
+BUS00293,5/23/2021 0:00,0:45,0,5,Anne Arundel,1,45,Light Injury,Snow,Dry,Daylight,Spring,Nighttime
+BUS00126,5/24/2021 0:00,,,5,Anne Arundel,2,50,Unknown,Sleet,Snow,Daylight,Spring,Unknown
+BUS00569,5/25/2021 0:00,8:37,8,5,Carroll,2,40,Light Injury,Cloudy,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00305,5/29/2021 0:00,2:15,2,5,Baltimore,2,40,No Injury,,Snow,Dark,Spring,Nighttime
+BUS00731,5/30/2021 0:00,5:10,5,5,Howard,2,25,No Injury,Snow,Wet,Daylight,Spring,Nighttime
+BUS00158,6/4/2021 0:00,7:14,7,6,Baltimore,2,40,Light Injury,Snow,Dry,Dusk,Summer,Daytime
+BUS00684,6/9/2021 0:00,14:38,14,6,Washington,3,45,Fatal Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00061,6/13/2021 0:00,7:03,7,6,Anne Arundel,3,35,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00327,6/13/2021 0:00,19:47,19,6,Montgomery,2,30,Light Injury,,Dry,Dark,Summer,Daytime
+BUS00797,6/14/2021 0:00,23:55,23,6,Howard,2,40,Light Injury,Rain,Dry,Dark-Street Lights On,Summer,Nighttime
+BUS00535,6/17/2021 0:00,1:14,1,6,Carroll,3,30,Light Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00517,6/19/2021 0:00,10:22,10,6,Howard,2,30,Light Injury,Snow,Dry,Dusk,Summer,Daytime
+BUS00669,6/24/2021 0:00,16:25,16,6,Washington,1,45,Unknown,Rain,Dry,Daylight,Summer,Daytime
+BUS00357,6/26/2021 0:00,,,6,Washington,2,45,Light Injury,Sleet,Dry,Dark,Summer,Unknown
+BUS00249,7/1/2021 0:00,18:43,18,7,Anne Arundel,1,35,Light Injury,Cloudy,Dry,Daylight,Summer,Daytime
+BUS00763,7/4/2021 0:00,6:48,6,7,Washington,3,35,No Injury,Clear,Dry,Dark,Summer,Daytime
+BUS00496,7/4/2021 0:00,21:16,21,7,Montgomery,2,40,No Injury,Clear,,Daylight,Summer,Nighttime
+BUS00753,7/4/2021 0:00,22:20,22,7,Washington,1,55,Fatal Injury,Clear,Dry,Dark,Summer,Nighttime
+BUS00547,7/6/2021 0:00,18:27,18,7,Washington,3,25,Light Injury,Clear,Wet,Dark-Street Lights On,Summer,Daytime
+BUS00167,7/8/2021 0:00,13:38,13,7,Washington,1,35,Light Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00117,7/10/2021 0:00,7:16,7,7,Washington,3,35,Light Injury,Clear,Ice,Daylight,Summer,Daytime
+BUS00035,7/12/2021 0:00,6:41,6,7,Carroll,2,30,Light Injury,Clear,,Daylight,Summer,Daytime
+BUS00204,7/23/2021 0:00,14:39,14,7,Frederick,2,50,Light Injury,Sleet,Dry,Dark,Summer,Daytime
+BUS00378,7/27/2021 0:00,23:30,23,7,Prince George's,2,40,No Injury,Unknown,,Daylight,Summer,Nighttime
+BUS00378,7/27/2021 0:00,23:30,23,7,Prince George's,2,40,No Injury,Unknown,Ice,Daylight,Summer,Nighttime
+BUS00790,7/28/2021 0:00,5:25,5,7,Prince George's,2,30,No Injury,Rain,Snow,Daylight,Summer,Nighttime
+BUS00213,8/2/2021 0:00,17:05,17,8,Carroll,1,45,No Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00711,8/2/2021 0:00,21:22,21,8,Charles,2,50,Light Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00682,8/8/2021 0:00,3:05,3,8,Harford,2,40,Light Injury,Other,Dry,Other,Summer,Nighttime
+BUS00342,8/8/2021 0:00,21:06,21,8,Charles,2,30,No Injury,Cloudy,Ice,Daylight,Summer,Nighttime
+BUS00375,8/11/2021 0:00,6:44,6,8,Carroll,4,35,Light Injury,Cloudy,Ice,Daylight,Summer,Daytime
+BUS00184,8/12/2021 0:00,14:28,14,8,Montgomery,2,35,Light Injury,Snow,Dry,Dark,Summer,Daytime
+BUS00333,8/13/2021 0:00,19:16,19,8,Washington,1,40,No Injury,Clear,Ice,Dark,Summer,Daytime
+BUS00732,8/14/2021 0:00,22:14,22,8,Prince George's,3,30,No Injury,,Dry,Daylight,Summer,Nighttime
+BUS00473,8/19/2021 0:00,0:11,0,8,Washington,4,35,No Injury,Clear,Wet,Dark-Street Lights On,Summer,Nighttime
+BUS00059,8/20/2021 0:00,15:01,15,8,Frederick,2,30,No Injury,Snow,Dry,Daylight,Summer,Daytime
+BUS00397,8/21/2021 0:00,1:18,1,8,Prince George's,3,35,No Injury,Clear,Dry,Dawn,Summer,Nighttime
+BUS00525,8/21/2021 0:00,18:38,18,8,Carroll,2,45,Light Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00488,8/24/2021 0:00,12:38,12,8,Baltimore,1,30,No Injury,Snow,Wet,Daylight,Summer,Daytime
+BUS00762,9/3/2021 0:00,,,9,Montgomery,3,35,Light Injury,Clear,Dry,Daylight,Fall,Unknown
+BUS00443,9/5/2021 0:00,19:14,19,9,Montgomery,2,25,Unknown,Clear,Unknown,Daylight,Fall,Daytime
+BUS00683,9/5/2021 0:00,21:18,21,9,Carroll,2,35,No Injury,Rain,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00597,9/7/2021 0:00,4:42,4,9,Prince George's,3,45,Light Injury,Snow,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00389,9/7/2021 0:00,21:54,21,9,Howard,2,45,Light Injury,Rain,Dry,Daylight,Fall,Nighttime
+BUS00173,9/14/2021 0:00,,,9,Howard,2,25,No Injury,Rain,Slush,Daylight,Fall,Unknown
+BUS00284,9/16/2021 0:00,11:44,11,9,Baltimore,2,30,Fatal Injury,,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00163,9/18/2021 0:00,,,9,Charles,2,25,No Injury,Rain,Dry,Dark,Fall,Unknown
+BUS00382,9/21/2021 0:00,3:55,3,9,Harford,4,30,No Injury,Clear,Dry,Daylight,Fall,Nighttime
+BUS00153,9/22/2021 0:00,13:51,13,9,Frederick,3,65,No Injury,Rain,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00661,9/23/2021 0:00,4:02,4,9,Howard,2,25,Light Injury,Rain,Wet,Daylight,Fall,Nighttime
+BUS00464,9/28/2021 0:00,7:08,7,9,Harford,2,40,Light Injury,Clear,Dry,Dark,Fall,Daytime
+BUS00589,10/2/2021 0:00,2:21,2,10,Frederick,2,30,No Injury,Snow,Dry,Daylight,Fall,Nighttime
+BUS00189,10/4/2021 0:00,,,10,Frederick,1,45,Light Injury,Cloudy,Dry,Daylight,Fall,Unknown
+BUS00634,10/5/2021 0:00,4:08,4,10,Prince George's,2,30,Light Injury,Clear,Ice,Daylight,Fall,Nighttime
+BUS00606,10/11/2021 0:00,19:08,19,10,Charles,1,40,No Injury,Sleet,Other,Dark,Fall,Daytime
+BUS00236,10/14/2021 0:00,12:17,12,10,Howard,2,35,Light Injury,Clear,Snow,Daylight,Fall,Daytime
+BUS00741,10/14/2021 0:00,18:02,18,10,Anne Arundel,2,30,No Injury,Clear,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00074,10/16/2021 0:00,0:37,0,10,Howard,2,40,No Injury,Clear,Dry,Dark,Fall,Nighttime
+BUS00587,10/17/2021 0:00,21:38,21,10,Washington,1,40,No Injury,Unknown,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00433,10/19/2021 0:00,3:29,3,10,Washington,2,40,Light Injury,Clear,Wet,Daylight,Fall,Nighttime
+BUS00782,10/20/2021 0:00,17:23,17,10,Harford,3,35,Light Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00089,10/21/2021 0:00,3:15,3,10,Harford,2,45,Light Injury,Rain,Wet,Dusk,Fall,Nighttime
+BUS00556,10/22/2021 0:00,7:21,7,10,Anne Arundel,2,30,Light Injury,Clear,Dry,Other,Fall,Daytime
+BUS00011,10/25/2021 0:00,8:09,8,10,Anne Arundel,2,55,Light Injury,Cloudy,Dry,Unknown,Fall,Daytime
+BUS00752,10/25/2021 0:00,19:09,19,10,Prince George's,2,35,No Injury,Clear,Wet,Dark,Fall,Daytime
+BUS00300,10/27/2021 0:00,5:03,5,10,Charles,1,40,No Injury,,Snow,Dawn,Fall,Nighttime
+BUS00258,10/29/2021 0:00,0:54,0,10,Baltimore,3,30,Light Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00580,11/7/2021 0:00,22:05,22,11,Montgomery,1,30,Light Injury,Clear,Wet,Daylight,Fall,Nighttime
+BUS00532,11/14/2021 0:00,13:07,13,11,Washington,2,30,No Injury,Snow,Snow,Unknown,Fall,Daytime
+BUS00754,11/15/2021 0:00,12:08,12,11,Frederick,2,40,Light Injury,Clear,Ice,Dark-Street Lights On,Fall,Daytime
+BUS00410,11/16/2021 0:00,18:19,18,11,Howard,3,45,No Injury,Snow,Wet,Dawn,Fall,Daytime
+BUS00733,11/18/2021 0:00,16:57,16,11,Baltimore,1,25,No Injury,Snow,Other,Daylight,Fall,Daytime
+BUS00341,11/26/2021 0:00,13:21,13,11,Carroll,3,30,Fatal Injury,Sleet,Wet,Daylight,Fall,Daytime
+BUS00628,12/2/2021 0:00,0:26,0,12,Baltimore,2,40,Light Injury,Rain,Dry,Dark,Winter,Nighttime
+BUS00507,12/11/2021 0:00,3:36,3,12,Baltimore,2,40,No Injury,,Other,Dark,Winter,Nighttime
+BUS00421,12/14/2021 0:00,7:40,7,12,Anne Arundel,4,30,No Injury,Clear,Wet,Dark,Winter,Daytime
+BUS00662,12/14/2021 0:00,17:21,17,12,Frederick,2,40,Light Injury,Clear,Wet,Daylight,Winter,Daytime
+BUS00688,12/15/2021 0:00,19:27,19,12,Frederick,2,30,No Injury,Unknown,,Dark,Winter,Daytime
+BUS00650,12/16/2021 0:00,,,12,Montgomery,2,40,No Injury,Clear,Snow,Daylight,Winter,Unknown
+BUS00769,12/16/2021 0:00,1:03,1,12,Harford,1,30,Light Injury,Cloudy,Dry,Daylight,Winter,Nighttime
+BUS00148,12/19/2021 0:00,,,12,Charles,2,40,No Injury,Clear,Dry,Dusk,Winter,Unknown
+BUS00544,12/21/2021 0:00,2:25,2,12,Washington,2,35,Light Injury,Snow,Dry,Daylight,Winter,Nighttime
+BUS00025,12/26/2021 0:00,6:42,6,12,Charles,3,55,No Injury,Clear,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00472,1/7/2022 0:00,7:37,7,1,Anne Arundel,2,30,Light Injury,Clear,Wet,Daylight,Winter,Daytime
+BUS00398,1/8/2022 0:00,11:27,11,1,Frederick,2,25,Light Injury,,Wet,Daylight,Winter,Daytime
+BUS00014,1/10/2022 0:00,11:38,11,1,Baltimore,2,30,Light Injury,Clear,Wet,Dark,Winter,Daytime
+BUS00415,1/10/2022 0:00,18:18,18,1,Anne Arundel,2,50,No Injury,Snow,Wet,Dark-Street Lights On,Winter,Daytime
+BUS00019,1/21/2022 0:00,18:12,18,1,Frederick,1,35,No Injury,Cloudy,Dry,Daylight,Winter,Daytime
+BUS00552,1/22/2022 0:00,2:27,2,1,Baltimore,2,55,Unknown,Clear,Dry,Dark,Winter,Nighttime
+BUS00041,1/22/2022 0:00,7:08,7,1,Charles,2,40,Fatal Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00477,1/22/2022 0:00,16:37,16,1,Anne Arundel,3,30,No Injury,Clear,,Dark,Winter,Daytime
+BUS00457,1/25/2022 0:00,3:43,3,1,Prince George's,3,25,Light Injury,Snow,Dry,Dark,Winter,Nighttime
+BUS00585,1/30/2022 0:00,11:58,11,1,Howard,2,50,Light Injury,Rain,Wet,Dark,Winter,Daytime
+BUS00024,2/3/2022 0:00,5:23,5,2,Frederick,2,55,No Injury,Rain,Dry,Dark-Street Lights On,Winter,Nighttime
+BUS00426,2/3/2022 0:00,23:08,23,2,Washington,2,30,No Injury,Snow,,Dark-Street Lights On,Winter,Nighttime
+BUS00430,2/7/2022 0:00,,,2,Prince George's,1,40,Light Injury,Unknown,Dry,Dark,Winter,Unknown
+BUS00774,2/7/2022 0:00,12:23,12,2,Harford,1,45,No Injury,Rain,Dry,Daylight,Winter,Daytime
+BUS00430,2/7/2022 0:00,16:32,16,2,Prince George's,1,40,Light Injury,Unknown,Dry,Dark,Winter,Daytime
+BUS00695,2/9/2022 0:00,11:24,11,2,Montgomery,2,30,No Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00678,2/13/2022 0:00,16:17,16,2,Montgomery,2,35,Light Injury,,Wet,Dawn,Winter,Daytime
+BUS00458,2/13/2022 0:00,17:57,17,2,Baltimore,2,30,Light Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00511,2/14/2022 0:00,3:48,3,2,Baltimore,1,35,No Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00674,2/16/2022 0:00,13:56,13,2,Charles,2,25,Fatal Injury,,Snow,Dark,Winter,Daytime
+BUS00246,2/19/2022 0:00,5:38,5,2,Harford,2,30,Light Injury,Rain,,Dark-Street Lights On,Winter,Nighttime
+BUS00573,2/19/2022 0:00,9:04,9,2,Anne Arundel,2,35,Light Injury,Clear,Wet,Dark-Street Lights On,Winter,Daytime
+BUS00719,2/20/2022 0:00,14:51,14,2,Howard,2,45,No Injury,Rain,Dry,Dark,Winter,Daytime
+BUS00282,2/20/2022 0:00,15:35,15,2,Frederick,4,35,Fatal Injury,Clear,Wet,Daylight,Winter,Daytime
+BUS00143,2/21/2022 0:00,18:35,18,2,Charles,2,30,Light Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00455,2/26/2022 0:00,6:28,6,2,Harford,3,55,No Injury,Sleet,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00755,2/26/2022 0:00,16:35,16,2,Howard,2,30,No Injury,Clear,Snow,Unknown,Winter,Daytime
+BUS00441,3/2/2022 0:00,3:43,3,3,Carroll,2,35,Light Injury,Rain,Wet,Dawn,Spring,Nighttime
+BUS00501,3/7/2022 0:00,4:35,4,3,Charles,2,25,Unknown,Fog,Snow,Dusk,Spring,Nighttime
+BUS00071,3/10/2022 0:00,14:57,14,3,Harford,3,30,Fatal Injury,Snow,Dry,Dark,Spring,Daytime
+BUS00630,3/12/2022 0:00,7:24,7,3,Prince George's,1,30,Unknown,Fog,Other,Daylight,Spring,Daytime
+BUS00497,3/14/2022 0:00,4:43,4,3,Carroll,2,25,Light Injury,Clear,Wet,Daylight,Spring,Nighttime
+BUS00250,3/18/2022 0:00,12:45,12,3,Montgomery,4,50,Light Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00596,3/23/2022 0:00,20:50,20,3,Charles,2,25,Fatal Injury,Clear,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00607,3/24/2022 0:00,4:10,4,3,Washington,2,35,Light Injury,Rain,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00374,3/26/2022 0:00,14:59,14,3,Baltimore,2,30,Light Injury,,Dry,Unknown,Spring,Daytime
+BUS00017,3/31/2022 0:00,,,3,Prince George's,2,40,Light Injury,Rain,Dry,Daylight,Spring,Unknown
+BUS00099,4/2/2022 0:00,0:24,0,4,Charles,2,40,Light Injury,Clear,Wet,Dark,Spring,Nighttime
+BUS00269,4/2/2022 0:00,10:01,10,4,Montgomery,2,35,No Injury,,Dry,Daylight,Spring,Daytime
+BUS00179,4/2/2022 0:00,21:47,21,4,Prince George's,1,40,No Injury,Clear,Dry,Dark,Spring,Nighttime
+BUS00030,4/4/2022 0:00,8:59,8,4,Anne Arundel,2,25,No Injury,Clear,Dry,Unknown,Spring,Daytime
+BUS00542,4/7/2022 0:00,17:45,17,4,Carroll,2,65,No Injury,Clear,Other,Daylight,Spring,Daytime
+BUS00379,4/11/2022 0:00,12:42,12,4,Washington,2,55,No Injury,Snow,Wet,Daylight,Spring,Daytime
+BUS00403,4/16/2022 0:00,19:43,19,4,Carroll,2,35,Light Injury,Clear,Other,Daylight,Spring,Daytime
+BUS00215,4/18/2022 0:00,22:09,22,4,Charles,2,40,Unknown,Clear,Other,Other,Spring,Nighttime
+BUS00365,4/21/2022 0:00,6:58,6,4,Howard,2,25,Unknown,Snow,Snow,Dark-Street Lights On,Spring,Daytime
+BUS00196,4/22/2022 0:00,15:25,15,4,Harford,2,30,No Injury,Unknown,Slush,Dark,Spring,Daytime
+BUS00760,4/23/2022 0:00,19:26,19,4,Washington,3,25,No Injury,Sleet,Wet,Dark-Street Lights On,Spring,Daytime
+BUS00413,4/25/2022 0:00,15:06,15,4,Howard,2,30,No Injury,Clear,Ice,Daylight,Spring,Daytime
+BUS00591,5/3/2022 0:00,9:16,9,5,Howard,1,25,Light Injury,,Dry,Daylight,Spring,Daytime
+BUS00676,5/3/2022 0:00,10:11,10,5,Baltimore,2,50,No Injury,Sleet,Dry,Daylight,Spring,Daytime
+BUS00657,5/4/2022 0:00,11:16,11,5,Carroll,2,55,Light Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00450,5/11/2022 0:00,,,5,Baltimore,2,35,Light Injury,Clear,Other,Daylight,Spring,Unknown
+BUS00594,5/25/2022 0:00,,,5,Baltimore,2,30,Light Injury,Unknown,Other,Daylight,Spring,Unknown
+BUS00594,5/25/2022 0:00,4:38,4,5,Baltimore,2,30,Light Injury,,Other,Daylight,Spring,Nighttime
+BUS00781,6/2/2022 0:00,11:50,11,6,Carroll,2,45,Light Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00230,6/2/2022 0:00,18:36,18,6,Charles,2,30,No Injury,Snow,Dry,Unknown,Summer,Daytime
+BUS00536,6/7/2022 0:00,19:03,19,6,Prince George's,2,25,No Injury,Cloudy,Wet,Dark-Street Lights On,Summer,Daytime
+BUS00118,6/10/2022 0:00,4:42,4,6,Carroll,2,25,Light Injury,Clear,Other,Dark-Street Lights On,Summer,Nighttime
+BUS00417,6/10/2022 0:00,8:00,8,6,Washington,1,45,No Injury,Unknown,Wet,Dark-Street Lights On,Summer,Daytime
+BUS00555,6/10/2022 0:00,9:47,9,6,Frederick,2,30,Light Injury,Rain,Dry,Daylight,Summer,Daytime
+BUS00436,6/16/2022 0:00,17:23,17,6,Montgomery,3,30,No Injury,Fog,,Daylight,Summer,Daytime
+BUS00388,6/17/2022 0:00,,,6,Washington,4,25,Light Injury,Clear,Wet,Daylight,Summer,Unknown
+BUS00700,6/19/2022 0:00,,,6,Baltimore,3,55,Light Injury,Clear,Dry,Daylight,Summer,Unknown
+BUS00722,6/19/2022 0:00,22:46,22,6,Harford,2,25,Fatal Injury,Fog,Wet,Daylight,Summer,Nighttime
+BUS00160,6/21/2022 0:00,10:17,10,6,Harford,2,30,Light Injury,Clear,Dry,Dark,Summer,Daytime
+BUS00070,6/23/2022 0:00,21:41,21,6,Charles,2,25,No Injury,Fog,Wet,Dark-Street Lights On,Summer,Nighttime
+BUS00675,6/27/2022 0:00,23:28,23,6,Montgomery,1,35,No Injury,Clear,Wet,Daylight,Summer,Nighttime
+BUS00554,6/29/2022 0:00,16:05,16,6,Montgomery,2,25,Light Injury,Clear,Unknown,Dawn,Summer,Daytime
+BUS00345,6/29/2022 0:00,17:02,17,6,Montgomery,2,50,Light Injury,Rain,Wet,Dusk,Summer,Daytime
+BUS00520,6/30/2022 0:00,2:09,2,6,Charles,3,55,No Injury,Snow,Dry,Daylight,Summer,Nighttime
+BUS00482,7/4/2022 0:00,13:43,13,7,Washington,3,25,No Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00330,7/7/2022 0:00,8:32,8,7,Charles,3,30,Light Injury,Clear,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00348,7/14/2022 0:00,16:52,16,7,Carroll,2,40,No Injury,Rain,,Dawn,Summer,Daytime
+BUS00548,7/15/2022 0:00,22:40,22,7,Prince George's,3,35,No Injury,Sleet,Dry,Dusk,Summer,Nighttime
+BUS00227,7/15/2022 0:00,23:10,23,7,Baltimore,1,45,No Injury,,Ice,Dusk,Summer,Nighttime
+BUS00550,7/18/2022 0:00,0:20,0,7,Howard,3,30,Light Injury,Clear,Wet,Dark,Summer,Nighttime
+BUS00748,7/22/2022 0:00,,,7,Baltimore,4,40,No Injury,Clear,Dry,Daylight,Summer,Unknown
+BUS00691,7/22/2022 0:00,11:32,11,7,Montgomery,3,25,Unknown,Snow,Dry,Daylight,Summer,Daytime
+BUS00149,7/23/2022 0:00,19:47,19,7,Anne Arundel,2,35,Light Injury,Snow,Wet,Dark,Summer,Daytime
+BUS00217,7/28/2022 0:00,10:34,10,7,Harford,2,35,Light Injury,Cloudy,Snow,Daylight,Summer,Daytime
+BUS00358,7/30/2022 0:00,,,7,Washington,2,40,Light Injury,Clear,Ice,Dark,Summer,Unknown
+BUS00454,7/30/2022 0:00,8:02,8,7,Montgomery,2,35,No Injury,Fog,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00446,7/31/2022 0:00,3:08,3,7,Prince George's,1,30,Light Injury,Sleet,Dry,Dark-Street Lights On,Summer,Nighttime
+BUS00176,7/31/2022 0:00,10:25,10,7,Montgomery,2,25,Light Injury,Clear,Dry,Dark,Summer,Daytime
+BUS00724,8/5/2022 0:00,18:04,18,8,Washington,1,25,No Injury,Cloudy,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00504,8/10/2022 0:00,11:55,11,8,Anne Arundel,2,30,Light Injury,Cloudy,Ice,Other,Summer,Daytime
+BUS00086,8/11/2022 0:00,14:55,14,8,Harford,2,35,Light Injury,Snow,Snow,Dark-Street Lights On,Summer,Daytime
+BUS00400,8/15/2022 0:00,18:43,18,8,Harford,2,40,Light Injury,,,Dark-Street Lights On,Summer,Daytime
+BUS00152,8/16/2022 0:00,0:11,0,8,Carroll,2,40,No Injury,Sleet,Wet,Dark,Summer,Nighttime
+BUS00368,8/27/2022 0:00,10:59,10,8,Howard,2,30,Light Injury,Clear,Other,Dark-Street Lights On,Summer,Daytime
+BUS00428,8/29/2022 0:00,5:12,5,8,Howard,2,25,No Injury,Snow,Snow,Dark-Street Lights On,Summer,Nighttime
+BUS00307,9/1/2022 0:00,19:38,19,9,Anne Arundel,2,35,No Injury,Rain,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00651,9/3/2022 0:00,5:42,5,9,Montgomery,2,45,Light Injury,Clear,Snow,Daylight,Fall,Nighttime
+BUS00744,9/3/2022 0:00,19:40,19,9,Baltimore,2,30,No Injury,Fog,Wet,Dark,Fall,Daytime
+BUS00549,9/7/2022 0:00,9:07,9,9,Howard,3,40,Light Injury,Clear,Dry,Dusk,Fall,Daytime
+BUS00223,9/13/2022 0:00,17:47,17,9,Charles,2,35,Fatal Injury,Rain,Snow,Dark-Street Lights On,Fall,Daytime
+BUS00451,9/13/2022 0:00,18:47,18,9,Howard,2,35,Unknown,Cloudy,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00114,9/14/2022 0:00,21:37,21,9,Baltimore,2,45,No Injury,Sleet,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00008,9/15/2022 0:00,7:28,7,9,Carroll,3,40,Light Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00523,9/16/2022 0:00,,,9,Anne Arundel,3,30,Light Injury,Fog,Dry,Daylight,Fall,Unknown
+BUS00644,9/16/2022 0:00,20:50,20,9,Prince George's,1,30,No Injury,Clear,Dry,Unknown,Fall,Nighttime
+BUS00259,9/17/2022 0:00,15:06,15,9,Charles,2,45,Light Injury,Fog,Dry,Other,Fall,Daytime
+BUS00475,9/21/2022 0:00,16:07,16,9,Prince George's,2,40,Light Injury,Sleet,Wet,Daylight,Fall,Daytime
+BUS00237,9/23/2022 0:00,8:53,8,9,Carroll,1,35,No Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00101,9/29/2022 0:00,22:46,22,9,Prince George's,2,40,Light Injury,Sleet,Dry,Daylight,Fall,Nighttime
+BUS00505,9/29/2022 0:00,23:03,23,9,Charles,2,35,Light Injury,Rain,Dry,Daylight,Fall,Nighttime
+BUS00068,9/30/2022 0:00,6:59,6,9,Harford,2,50,No Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00136,10/1/2022 0:00,8:02,8,10,Washington,2,65,No Injury,Clear,Ice,Dark,Fall,Daytime
+BUS00599,10/1/2022 0:00,16:23,16,10,Montgomery,2,45,No Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00529,10/3/2022 0:00,15:38,15,10,Washington,2,65,No Injury,Snow,Wet,Daylight,Fall,Daytime
+BUS00411,10/4/2022 0:00,,,10,Frederick,2,30,No Injury,Clear,Snow,Daylight,Fall,Unknown
+BUS00199,10/8/2022 0:00,7:11,7,10,Prince George's,2,30,No Injury,Fog,Dry,Unknown,Fall,Daytime
+BUS00685,10/12/2022 0:00,5:44,5,10,Washington,2,30,Light Injury,Snow,Other,Daylight,Fall,Nighttime
+BUS00140,10/18/2022 0:00,17:00,17,10,Anne Arundel,2,30,Light Injury,Clear,Dry,Dark,Fall,Daytime
+BUS00040,10/21/2022 0:00,18:25,18,10,Anne Arundel,4,40,Light Injury,Clear,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00256,10/21/2022 0:00,21:23,21,10,Baltimore,2,30,No Injury,Rain,Snow,Other,Fall,Nighttime
+BUS00232,10/22/2022 0:00,4:55,4,10,Montgomery,4,55,Light Injury,Snow,Wet,Dark,Fall,Nighttime
+BUS00310,10/23/2022 0:00,9:36,9,10,Montgomery,3,35,Light Injury,Rain,Wet,Dawn,Fall,Daytime
+BUS00513,10/24/2022 0:00,17:49,17,10,Carroll,3,35,No Injury,Fog,Dry,Daylight,Fall,Daytime
+BUS00541,10/30/2022 0:00,5:08,5,10,Frederick,2,25,No Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00260,11/11/2022 0:00,11:40,11,11,Prince George's,3,30,Light Injury,Clear,Wet,Daylight,Fall,Daytime
+BUS00166,11/15/2022 0:00,11:46,11,11,Montgomery,2,30,Light Injury,Snow,Ice,Daylight,Fall,Daytime
+BUS00262,11/19/2022 0:00,5:46,5,11,Prince George's,2,45,Light Injury,Clear,,Daylight,Fall,Nighttime
+BUS00339,11/21/2022 0:00,20:52,20,11,Harford,2,25,No Injury,Clear,Snow,Dark,Fall,Nighttime
+BUS00170,11/22/2022 0:00,0:33,0,11,Prince George's,2,35,No Injury,Rain,Dry,Daylight,Fall,Nighttime
+BUS00626,11/27/2022 0:00,2:58,2,11,Howard,1,35,No Injury,Clear,Dry,Other,Fall,Nighttime
+BUS00583,11/29/2022 0:00,14:33,14,11,Montgomery,4,25,Unknown,Cloudy,Snow,Dark-Street Lights On,Fall,Daytime
+BUS00383,12/9/2022 0:00,3:33,3,12,Baltimore,2,40,No Injury,Clear,Dry,Daylight,Winter,Nighttime
+BUS00616,12/10/2022 0:00,14:49,14,12,Harford,3,25,No Injury,Cloudy,Snow,Dark-Street Lights On,Winter,Daytime
+BUS00425,12/11/2022 0:00,1:37,1,12,Washington,2,50,Light Injury,Rain,Dry,Daylight,Winter,Nighttime
+BUS00530,12/16/2022 0:00,13:17,13,12,Washington,2,45,No Injury,Rain,Wet,Daylight,Winter,Daytime
+BUS00338,12/17/2022 0:00,8:11,8,12,Charles,2,25,Light Injury,Clear,Dry,Dark,Winter,Daytime
+BUS00185,12/17/2022 0:00,21:13,21,12,Baltimore,1,35,Light Injury,Fog,Ice,Dusk,Winter,Nighttime
+BUS00698,12/24/2022 0:00,2:36,2,12,Howard,2,45,No Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00686,12/24/2022 0:00,11:28,11,12,Prince George's,2,35,Light Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00206,1/1/2023 0:00,5:47,5,1,Anne Arundel,2,40,Light Injury,Rain,Wet,Daylight,Winter,Nighttime
+BUS00091,1/12/2023 0:00,4:27,4,1,Baltimore,1,50,No Injury,Snow,Dry,Daylight,Winter,Nighttime
+BUS00638,1/12/2023 0:00,19:00,19,1,Howard,2,45,No Injury,Fog,,Daylight,Winter,Daytime
+BUS00613,1/13/2023 0:00,7:34,7,1,Washington,1,50,Light Injury,Snow,Slush,Dark-Street Lights On,Winter,Daytime
+BUS00565,1/13/2023 0:00,21:59,21,1,Carroll,2,30,Unknown,Clear,Wet,Daylight,Winter,Nighttime
+BUS00625,1/15/2023 0:00,16:09,16,1,Montgomery,4,35,Light Injury,Rain,Dry,Daylight,Winter,Daytime
+BUS00758,1/16/2023 0:00,7:09,7,1,Howard,1,35,Light Injury,Clear,Dry,Dark,Winter,Daytime
+BUS00697,1/17/2023 0:00,11:23,11,1,Howard,3,30,No Injury,Unknown,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00317,1/20/2023 0:00,22:38,22,1,Baltimore,3,35,No Injury,Clear,Wet,Daylight,Winter,Nighttime
+BUS00267,1/21/2023 0:00,7:48,7,1,Montgomery,3,40,No Injury,Clear,Wet,Dark,Winter,Daytime
+BUS00572,1/26/2023 0:00,1:03,1,1,Washington,1,30,Unknown,Rain,Snow,Daylight,Winter,Nighttime
+BUS00494,2/1/2023 0:00,12:26,12,2,Carroll,1,35,Light Injury,Rain,Dry,Daylight,Winter,Daytime
+BUS00285,2/2/2023 0:00,8:19,8,2,Frederick,3,35,Light Injury,Rain,Snow,Daylight,Winter,Daytime
+BUS00321,2/3/2023 0:00,2:43,2,2,Frederick,3,35,Light Injury,Clear,Dry,Dark-Street Lights On,Winter,Nighttime
+BUS00346,2/6/2023 0:00,2:20,2,2,Harford,2,55,Light Injury,Clear,Wet,Dark,Winter,Nighttime
+BUS00461,2/6/2023 0:00,2:42,2,2,Carroll,2,30,No Injury,Cloudy,Ice,Daylight,Winter,Nighttime
+BUS00439,2/6/2023 0:00,11:43,11,2,Anne Arundel,2,45,Light Injury,Clear,Wet,Dusk,Winter,Daytime
+BUS00364,2/14/2023 0:00,17:09,17,2,Frederick,2,50,Light Injury,Unknown,Dry,Dark,Winter,Daytime
+BUS00384,2/15/2023 0:00,0:46,0,2,Washington,1,30,Light Injury,Snow,Dry,Dark-Street Lights On,Winter,Nighttime
+BUS00412,2/15/2023 0:00,9:12,9,2,Charles,1,45,Light Injury,,Dry,Dawn,Winter,Daytime
+BUS00645,2/16/2023 0:00,2:07,2,2,Montgomery,3,30,Light Injury,Sleet,Ice,Dawn,Winter,Nighttime
+BUS00768,2/16/2023 0:00,7:13,7,2,Frederick,2,30,Light Injury,Unknown,Dry,Daylight,Winter,Daytime
+BUS00666,2/18/2023 0:00,1:18,1,2,Howard,1,30,Light Injury,Clear,Dry,Daylight,Winter,Nighttime
+BUS00037,2/23/2023 0:00,4:16,4,2,Charles,2,30,Light Injury,Cloudy,Dry,Daylight,Winter,Nighttime
+BUS00016,2/25/2023 0:00,17:07,17,2,Howard,2,40,No Injury,Clear,Wet,Dark-Street Lights On,Winter,Daytime
+BUS00546,2/27/2023 0:00,2:55,2,2,Prince George's,1,45,Light Injury,Clear,Dry,Unknown,Winter,Nighttime
+BUS00261,2/27/2023 0:00,22:09,22,2,Prince George's,2,30,No Injury,Rain,Wet,Dark-Street Lights On,Winter,Nighttime
+BUS00233,3/7/2023 0:00,5:03,5,3,Prince George's,3,40,Light Injury,Clear,Dry,Dark,Spring,Nighttime
+BUS00350,3/8/2023 0:00,13:03,13,3,Prince George's,3,35,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00445,3/17/2023 0:00,22:19,22,3,Harford,2,45,Light Injury,Rain,Wet,Daylight,Spring,Nighttime
+BUS00268,3/19/2023 0:00,18:39,18,3,Anne Arundel,2,30,Light Injury,Rain,Dry,Daylight,Spring,Daytime
+BUS00245,3/20/2023 0:00,22:16,22,3,Frederick,2,35,Unknown,Clear,Dry,Daylight,Spring,Nighttime
+BUS00218,3/24/2023 0:00,,,3,Carroll,2,40,Light Injury,,Dry,Dark,Spring,Unknown
+BUS00757,3/26/2023 0:00,3:17,3,3,Montgomery,2,30,Light Injury,Clear,Wet,Dusk,Spring,Nighttime
+BUS00765,3/28/2023 0:00,15:56,15,3,Washington,3,45,Light Injury,Unknown,Other,Dark,Spring,Daytime
+BUS00228,3/30/2023 0:00,4:39,4,3,Carroll,4,40,No Injury,Rain,Wet,Daylight,Spring,Nighttime
+BUS00046,4/2/2023 0:00,16:16,16,4,Howard,2,65,Fatal Injury,Rain,Dry,Unknown,Spring,Daytime
+BUS00329,4/4/2023 0:00,22:19,22,4,Montgomery,1,45,Unknown,Cloudy,Dry,Daylight,Spring,Nighttime
+BUS00568,4/5/2023 0:00,14:40,14,4,Baltimore,1,50,Fatal Injury,Clear,Snow,Dark-Street Lights On,Spring,Daytime
+BUS00615,4/6/2023 0:00,6:23,6,4,Washington,4,35,Light Injury,Clear,Ice,Daylight,Spring,Daytime
+BUS00299,4/7/2023 0:00,15:28,15,4,Baltimore,1,30,Fatal Injury,Rain,Ice,Dark,Spring,Daytime
+BUS00318,4/9/2023 0:00,9:02,9,4,Harford,3,40,Light Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00656,4/10/2023 0:00,1:40,1,4,Howard,2,35,Light Injury,Clear,Dry,Daylight,Spring,Nighttime
+BUS00771,4/12/2023 0:00,9:34,9,4,Washington,3,25,No Injury,Cloudy,Dry,Daylight,Spring,Daytime
+BUS00636,4/20/2023 0:00,22:53,22,4,Harford,2,25,No Injury,,Wet,Unknown,Spring,Nighttime
+BUS00082,4/21/2023 0:00,7:50,7,4,Charles,2,35,Light Injury,Clear,Wet,Daylight,Spring,Daytime
+BUS00083,4/22/2023 0:00,13:12,13,4,Harford,2,50,Light Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00670,4/24/2023 0:00,8:02,8,4,Washington,2,35,Light Injury,Rain,Ice,Dark-Street Lights On,Spring,Daytime
+BUS00787,4/25/2023 0:00,16:29,16,4,Carroll,2,35,No Injury,Clear,Snow,Daylight,Spring,Daytime
+BUS00498,4/27/2023 0:00,2:05,2,4,Carroll,3,30,Light Injury,Snow,Wet,Daylight,Spring,Nighttime
+BUS00207,4/29/2023 0:00,14:16,14,4,Anne Arundel,2,35,No Injury,Rain,Dry,Dark-Street Lights On,Spring,Daytime
+BUS00066,5/1/2023 0:00,,,5,Washington,2,45,Light Injury,Clear,Dry,Daylight,Spring,Unknown
+BUS00193,5/1/2023 0:00,19:54,19,5,Harford,2,25,Light Injury,Rain,Wet,Daylight,Spring,Daytime
+BUS00578,5/3/2023 0:00,16:09,16,5,Baltimore,1,55,No Injury,Fog,Snow,Unknown,Spring,Daytime
+BUS00106,5/7/2023 0:00,16:58,16,5,Howard,2,30,Unknown,Sleet,Wet,Dawn,Spring,Daytime
+BUS00221,5/8/2023 0:00,0:22,0,5,Montgomery,3,55,Light Injury,Clear,Dry,Unknown,Spring,Nighttime
+BUS00723,5/15/2023 0:00,16:26,16,5,Montgomery,2,30,Light Injury,Sleet,Dry,Dark,Spring,Daytime
+BUS00664,5/15/2023 0:00,20:11,20,5,Howard,3,45,Light Injury,Clear,Dry,Dark-Street Lights On,Spring,Nighttime
+BUS00621,5/23/2023 0:00,11:35,11,5,Anne Arundel,2,30,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00432,5/28/2023 0:00,9:47,9,5,Washington,2,30,No Injury,Clear,Dry,Daylight,Spring,Daytime
+BUS00509,5/30/2023 0:00,7:54,7,5,Anne Arundel,2,30,No Injury,Clear,Other,Dark-Street Lights On,Spring,Daytime
+BUS00363,5/31/2023 0:00,15:15,15,5,Frederick,2,30,Light Injury,Other,,Dark-Street Lights On,Spring,Daytime
+BUS00747,6/2/2023 0:00,7:51,7,6,Washington,2,25,No Injury,Sleet,Dry,Daylight,Summer,Daytime
+BUS00264,6/4/2023 0:00,14:27,14,6,Baltimore,2,25,Light Injury,Clear,Other,Daylight,Summer,Daytime
+BUS00289,6/7/2023 0:00,8:46,8,6,Montgomery,3,35,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00373,6/7/2023 0:00,11:21,11,6,Anne Arundel,1,25,No Injury,Clear,Dry,Dawn,Summer,Daytime
+BUS00751,6/7/2023 0:00,14:13,14,6,Howard,2,30,No Injury,Cloudy,Wet,Dusk,Summer,Daytime
+BUS00355,6/9/2023 0:00,3:01,3,6,Washington,2,30,Light Injury,Fog,Snow,Dark-Street Lights On,Summer,Nighttime
+BUS00080,6/12/2023 0:00,6:34,6,6,Charles,1,30,No Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00097,6/13/2023 0:00,15:13,15,6,Charles,1,25,Fatal Injury,Cloudy,Dry,Other,Summer,Daytime
+BUS00602,6/15/2023 0:00,6:14,6,6,Frederick,2,50,Fatal Injury,Other,Dry,Daylight,Summer,Daytime
+BUS00102,6/17/2023 0:00,4:12,4,6,Montgomery,2,50,No Injury,Clear,,Dark,Summer,Nighttime
+BUS00534,6/17/2023 0:00,16:42,16,6,Baltimore,4,30,No Injury,Sleet,Dry,Dark-Street Lights On,Summer,Daytime
+BUS00271,6/21/2023 0:00,6:22,6,6,Anne Arundel,2,25,Light Injury,Rain,Dry,Daylight,Summer,Daytime
+BUS00391,6/22/2023 0:00,17:02,17,6,Charles,2,35,No Injury,Rain,Wet,Dark-Street Lights On,Summer,Daytime
+BUS00276,6/25/2023 0:00,17:48,17,6,Montgomery,3,30,No Injury,Rain,Snow,Daylight,Summer,Daytime
+BUS00372,6/29/2023 0:00,4:28,4,6,Frederick,1,25,Light Injury,Clear,Dry,Dusk,Summer,Nighttime
+BUS00793,6/30/2023 0:00,22:36,22,6,Baltimore,1,35,Light Injury,Cloudy,Other,Dark,Summer,Nighttime
+BUS00297,7/4/2023 0:00,3:55,3,7,Howard,3,30,Light Injury,Clear,Dry,Dark-Street Lights On,Summer,Nighttime
+BUS00278,7/4/2023 0:00,14:50,14,7,Baltimore,3,25,Light Injury,Clear,Dry,Unknown,Summer,Daytime
+BUS00278,7/4/2023 0:00,14:50,14,7,Baltimore,3,25,Light Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00707,7/5/2023 0:00,6:07,6,7,Prince George's,3,35,Light Injury,Clear,Dry,Dark,Summer,Daytime
+BUS00340,7/8/2023 0:00,2:30,2,7,Washington,2,30,Light Injury,Clear,,Daylight,Summer,Nighttime
+BUS00448,7/11/2023 0:00,3:06,3,7,Montgomery,2,35,No Injury,Cloudy,Snow,Daylight,Summer,Nighttime
+BUS00331,7/16/2023 0:00,14:05,14,7,Frederick,4,55,No Injury,Snow,Dry,Dark,Summer,Daytime
+BUS00718,7/17/2023 0:00,0:23,0,7,Montgomery,1,25,Unknown,Clear,Dry,Dawn,Summer,Nighttime
+BUS00564,7/17/2023 0:00,14:48,14,7,Frederick,2,35,Light Injury,Clear,Wet,Daylight,Summer,Daytime
+BUS00270,7/18/2023 0:00,10:11,10,7,Howard,1,30,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00344,7/23/2023 0:00,9:42,9,7,Anne Arundel,2,40,No Injury,Clear,Ice,Daylight,Summer,Daytime
+BUS00677,7/26/2023 0:00,22:31,22,7,Anne Arundel,2,30,No Injury,Unknown,Snow,Daylight,Summer,Nighttime
+BUS00419,7/28/2023 0:00,9:49,9,7,Howard,3,25,Light Injury,Rain,Ice,Daylight,Summer,Daytime
+BUS00352,8/4/2023 0:00,20:28,20,8,Frederick,4,55,No Injury,Clear,,Dark-Street Lights On,Summer,Nighttime
+BUS00036,8/7/2023 0:00,12:56,12,8,Howard,2,25,Light Injury,,Other,Daylight,Summer,Daytime
+BUS00703,8/7/2023 0:00,16:24,16,8,Prince George's,1,40,No Injury,Other,Dry,Dark,Summer,Daytime
+BUS00646,8/10/2023 0:00,19:34,19,8,Howard,2,40,Light Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00729,8/22/2023 0:00,1:53,1,8,Prince George's,2,25,No Injury,Clear,Dry,Daylight,Summer,Nighttime
+BUS00778,8/28/2023 0:00,14:48,14,8,Harford,3,55,No Injury,Clear,Dry,Daylight,Summer,Daytime
+BUS00581,8/29/2023 0:00,20:11,20,8,Charles,4,30,No Injury,Cloudy,Snow,Daylight,Summer,Nighttime
+BUS00205,8/30/2023 0:00,13:53,13,8,Baltimore,2,25,Light Injury,Cloudy,Ice,Daylight,Summer,Daytime
+BUS00490,9/2/2023 0:00,19:27,19,9,Prince George's,2,25,No Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00575,9/8/2023 0:00,12:29,12,9,Charles,2,25,Light Injury,Fog,Ice,Daylight,Fall,Daytime
+BUS00792,9/9/2023 0:00,16:34,16,9,Frederick,2,25,No Injury,Cloudy,Wet,Dark,Fall,Daytime
+BUS00508,9/10/2023 0:00,6:09,6,9,Montgomery,4,30,No Injury,Fog,Wet,Dark,Fall,Daytime
+BUS00654,9/10/2023 0:00,16:35,16,9,Baltimore,2,25,Light Injury,Clear,,Unknown,Fall,Daytime
+BUS00369,9/11/2023 0:00,8:52,8,9,Howard,3,45,Light Injury,Rain,Wet,Daylight,Fall,Daytime
+BUS00055,9/11/2023 0:00,19:12,19,9,Harford,3,25,Light Injury,Snow,Dry,Daylight,Fall,Daytime
+BUS00108,9/12/2023 0:00,2:54,2,9,Harford,1,25,No Injury,,Wet,Dark,Fall,Nighttime
+BUS00108,9/12/2023 0:00,2:54,2,9,Harford,1,25,No Injury,Rain,Wet,Dark,Fall,Nighttime
+BUS00366,9/13/2023 0:00,23:56,23,9,Montgomery,2,30,Light Injury,Sleet,Wet,Daylight,Fall,Nighttime
+BUS00784,9/17/2023 0:00,12:32,12,9,Washington,3,35,Fatal Injury,Rain,Dry,Daylight,Fall,Daytime
+BUS00162,9/18/2023 0:00,12:43,12,9,Harford,3,45,No Injury,Clear,Wet,Dark-Street Lights On,Fall,Daytime
+BUS00042,9/19/2023 0:00,,,9,Prince George's,2,50,Light Injury,Snow,Wet,Dark,Fall,Unknown
+BUS00186,9/25/2023 0:00,15:50,15,9,Prince George's,1,40,Fatal Injury,Clear,Dry,Daylight,Fall,Daytime
+BUS00168,9/26/2023 0:00,3:24,3,9,Anne Arundel,2,40,No Injury,Snow,Wet,Daylight,Fall,Nighttime
+BUS00079,10/7/2023 0:00,7:17,7,10,Montgomery,2,25,Light Injury,Clear,Ice,Daylight,Fall,Daytime
+BUS00789,10/13/2023 0:00,4:20,4,10,Carroll,2,45,Light Injury,Fog,Dry,Daylight,Fall,Nighttime
+BUS00623,10/15/2023 0:00,3:18,3,10,Montgomery,2,45,No Injury,Unknown,Wet,Daylight,Fall,Nighttime
+BUS00274,10/18/2023 0:00,6:05,6,10,Carroll,1,30,No Injury,Rain,Dry,Dawn,Fall,Daytime
+BUS00727,10/21/2023 0:00,11:08,11,10,Harford,3,50,Light Injury,Fog,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00072,10/21/2023 0:00,14:07,14,10,Howard,2,25,Unknown,Rain,Wet,Daylight,Fall,Daytime
+BUS00200,10/23/2023 0:00,14:03,14,10,Frederick,2,30,No Injury,Clear,Wet,Dark,Fall,Daytime
+BUS00480,11/6/2023 0:00,9:29,9,11,Charles,4,25,No Injury,Clear,Ice,Daylight,Fall,Daytime
+BUS00209,11/6/2023 0:00,15:40,15,11,Washington,1,35,No Injury,Clear,Wet,Unknown,Fall,Daytime
+BUS00263,11/8/2023 0:00,20:17,20,11,Frederick,2,30,Light Injury,Cloudy,Dry,Daylight,Fall,Nighttime
+BUS00115,11/12/2023 0:00,10:59,10,11,Montgomery,2,40,Light Injury,Snow,Snow,Daylight,Fall,Daytime
+BUS00584,11/12/2023 0:00,19:10,19,11,Frederick,1,55,Light Injury,Sleet,Dry,Dark-Street Lights On,Fall,Daytime
+BUS00290,11/19/2023 0:00,19:18,19,11,Montgomery,1,40,Light Injury,Clear,Other,Dark,Fall,Daytime
+BUS00605,11/27/2023 0:00,1:42,1,11,Carroll,2,35,Light Injury,Rain,Wet,Dark-Street Lights On,Fall,Nighttime
+BUS00598,11/27/2023 0:00,2:41,2,11,Charles,2,35,No Injury,Clear,Dry,Dark-Street Lights On,Fall,Nighttime
+BUS00641,12/2/2023 0:00,13:07,13,12,Montgomery,2,30,No Injury,Clear,Dry,Dark-Street Lights On,Winter,Daytime
+BUS00127,12/7/2023 0:00,0:42,0,12,Anne Arundel,2,30,Light Injury,Fog,Dry,Daylight,Winter,Nighttime
+BUS00058,12/13/2023 0:00,0:38,0,12,Frederick,4,25,Light Injury,Rain,,Dark,Winter,Nighttime
+BUS00522,12/13/2023 0:00,6:24,6,12,Howard,2,35,No Injury,Fog,Dry,Daylight,Winter,Daytime
+BUS00489,12/14/2023 0:00,9:29,9,12,Anne Arundel,2,35,Light Injury,Clear,Dry,Daylight,Winter,Daytime
+BUS00283,12/15/2023 0:00,,,12,Frederick,2,25,No Injury,Clear,Snow,Dark-Street Lights On,Winter,Unknown
+BUS00107,12/16/2023 0:00,5:03,5,12,Baltimore,2,40,No Injury,,Ice,Daylight,Winter,Nighttime
+BUS00203,12/16/2023 0:00,17:38,17,12,Charles,2,40,Fatal Injury,Clear,Ice,Daylight,Winter,Daytime
+BUS00390,12/26/2023 0:00,12:20,12,12,Carroll,3,45,Light Injury,Clear,Ice,Daylight,Winter,Daytime
+BUS00229,12/28/2023 0:00,,,12,Washington,1,35,Light Injury,Rain,Other,Dark,Winter,Unknown
+BUS00294,12/28/2023 0:00,4:17,4,12,Baltimore,2,30,Light Injury,Sleet,Dry,Daylight,Winter,Nighttime
